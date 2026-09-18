@@ -1,4 +1,4 @@
-# goldwrong
+# jev-goldwrong
 
 Hunting label errors in popular text-classification datasets with [TypeSafe's Jev](https://docs.typesafe.ai/introduction),
 a fast, cheap decision model that returns a full probability distribution over labels you define at request time.

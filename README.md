@@ -1,5 +1,7 @@
 # jev-goldwrong
 
+**Story site:** https://llmer.github.io/jev-goldwrong/ (built from `docs/`, with an Open Graph card for link previews)
+
 ![Relabel with a cheap calibrated model, ask it what fits, verify with two more, then read](docs/diagrams/main.png)
 
 Hunting label errors in popular text-classification datasets with [TypeSafe's Jev](https://docs.typesafe.ai/introduction),

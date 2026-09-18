@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&amp;family=Source+Sans+3:wght@400;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap">
+  <style>
+    body { margin: 0; background: #F3F5F7; color: #14181D; font-family: 'Source Sans 3', 'Helvetica Neue', Arial, sans-serif; font-size: 18px; line-height: 1.4; }
+    a { color: #1F6F8B; } a:hover { color: #B4532A; }
+    .display { font-family: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-variant-numeric: tabular-nums; }
+    .eyebrow { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 13px; letter-spacing: .1em; text-transform: uppercase; color: #5B6673; }
+    .node { position: absolute; box-sizing: border-box; border-radius: 10px; display: flex; flex-direction: column; gap: 4px; padding: 14px 18px; }
+    .leaf { border: 1px solid; background: #FFFFFF; }
+    .leaf .row { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+    .leaf .t { font-family: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif; font-size: 20px; font-weight: 600; }
+    .leaf .n { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 20px; }
+    .leaf .s { font-size: 14px; color: #5B6673; }
+    .lbl { position: absolute; font-size: 14px; color: #5B6673; text-align: center; line-height: 1.25; background: #F3F5F7; padding: 2px 4px; border-radius: 4px; }
+  </style>
+</helmet>
+<div style="width: 1600px; height: 900px; box-sizing: border-box; padding: 48px 64px; display: flex; flex-direction: column; gap: 18px; background: #F3F5F7;">
+  <div style="display: flex; flex-direction: column; gap: 6px;">
+    <div class="eyebrow">From answers to bands · 14,048 rows · every cutoff fixed before the run</div>
+    <h2 class="display" style="margin: 0; font-size: 38px; line-height: 1.1; letter-spacing: -0.015em; font-weight: 600;">How a row becomes a finding</h2>
+  </div>
+  <div style="position: relative; flex-grow: 1;">
+    <svg style="position: absolute; inset: 0;" width="1472" height="680" viewBox="0 0 1472 680" aria-hidden="true">
+      <defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#5B6673"></path></marker></defs>
+      <path d="M250,300 C320,300 320,90 390,90" fill="none" stroke="#5B6673" stroke-width="2" marker-end="url(#ah)"></path>
+      <path d="M250,320 L390,320" fill="none" stroke="#5B6673" stroke-width="2" marker-end="url(#ah)"></path>
+      <path d="M250,340 C320,340 320,560 390,560" fill="none" stroke="#5B6673" stroke-width="2" marker-end="url(#ah)"></path>
+      <path d="M720,300 C790,300 790,180 860,180" fill="none" stroke="#5B6673" stroke-width="2" marker-end="url(#ah)"></path>
+      <path d="M720,320 L860,320" fill="none" stroke="#5B6673" stroke-width="2" marker-end="url(#ah)"></path>
+      <path d="M720,340 C790,340 790,460 860,460" fill="none" stroke="#5B6673" stroke-width="2" marker-end="url(#ah)"></path>
+      <path d="M1160,180 L1210,180" fill="none" stroke="#5B6673" stroke-width="2" marker-end="url(#ah)"></path>
+    </svg>
+    <div class="node" style="left: 0; top: 280px; width: 250px; height: 80px; background: #FFFFFF; border: 1px solid #C9D1D9; justify-content: center; text-align: center;">
+      <span style="font-size: 17px;">Jev's label vs</span><span style="font-size: 17px;">the dataset's label</span>
+    </div>
+    <span class="lbl" style="left: 290px; top: 170px; width: 70px;">same</span>
+    <span class="lbl" style="left: 275px; top: 296px; width: 100px;">different</span>
+    <span class="lbl" style="left: 290px; top: 420px; width: 70px;">none</span>
+    <div class="node leaf" style="left: 392px; top: 50px; width: 330px; height: 80px; border-color: #3C7A5A; background: #DDEEE4;">
+      <div class="row"><span class="t">agree</span><span class="n">11,874</span></div><span class="s">not reviewed; 5% still fail the fit check</span>
+    </div>
+    <div class="node" style="left: 392px; top: 260px; width: 330px; height: 120px; background: #FFFFFF; border: 1px solid #C9D1D9; justify-content: center; align-items: center; text-align: center;">
+      <span style="font-size: 16px;">three numbers from the same call</span>
+      <span class="mono" style="font-size: 16px;">fit_gold · fit_jev · ambiguous</span>
+      <span style="font-size: 14px; color: #5B6673;">cutoff 0.5 on each</span>
+    </div>
+    <div class="node leaf" style="left: 392px; top: 520px; width: 330px; height: 80px; border-color: #7B8794; background: #E6EAEE;">
+      <div class="row"><span class="t">none band</span><span class="n">216</span></div><span class="s">Emotion only: no emotion in the text</span>
+    </div>
+    <span class="lbl" style="left: 735px; top: 208px; width: 130px;">gold &lt; .5 · jev ≥ .5<br>amb &lt; .5</span>
+    <span class="lbl" style="left: 735px; top: 292px; width: 130px;">amb ≥ .5,<br>or both fit</span>
+    <span class="lbl" style="left: 735px; top: 400px; width: 130px;">neither fits, or<br>only gold fits</span>
+    <div class="node leaf" style="left: 862px; top: 140px; width: 300px; height: 80px; border-color: #B4532A; background: #F4E3DB;">
+      <div class="row"><span class="t">error candidate</span><span class="n">518</span></div><span class="s">tiered by Choice confidence →</span>
+    </div>
+    <div class="node leaf" style="left: 862px; top: 280px; width: 300px; height: 80px; border-color: #B8892A; background: #F6ECD3;">
+      <div class="row"><span class="t">ambiguous</span><span class="n">1,313</span></div><span class="s">57% ambiguous by review · ranked 3rd</span>
+    </div>
+    <div class="node leaf" style="left: 862px; top: 420px; width: 300px; height: 80px; border-color: #7B8794; background: #E6EAEE;">
+      <div class="row"><span class="t">weak</span><span class="n">127</span></div><span class="s">0.44 precision · ranked 5th</span>
+    </div>
+    <div class="node leaf" style="left: 1212px; top: 100px; width: 260px; height: 74px; border-color: #B4532A; background: #F4E3DB;">
+      <div class="row"><span style="font-size: 16px;">high · confidence ≥ .9</span><span class="n" style="font-size: 18px;">432</span></div><span class="s" style="color: #B4532A;">0.82 held out · ranked 1st</span>
+    </div>
+    <div class="node leaf" style="left: 1212px; top: 186px; width: 260px; height: 74px; border-color: #C9D1D9;">
+      <div class="row"><span style="font-size: 16px;">mid · .5 to .9</span><span class="n" style="font-size: 18px;">77</span></div><span class="s">0.51 · ranked 2nd</span>
+    </div>
+    <div class="node leaf" style="left: 1212px; top: 272px; width: 260px; height: 74px; border-color: #C9D1D9;">
+      <div class="row"><span style="font-size: 16px;">low · under .5</span><span class="n" style="font-size: 18px;">9</span></div><span class="s">ranked 4th</span>
+    </div>
+    <p style="position: absolute; left: 0; bottom: 0; margin: 0; font-size: 15px; color: #5B6673; max-width: 90ch;">Precision is the share of reviewed rows a strict annotator called a real gold error, measured on rows no earlier reviewer had seen. Experiment 4 counts.</p>
+  </div>
+</div>
+</x-dc>
+</body>
+</html>

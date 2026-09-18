@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&amp;family=Source+Sans+3:wght@400;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap">
+  <style>
+    body { margin: 0; background: #F3F5F7; color: #14181D; font-family: 'Source Sans 3', 'Helvetica Neue', Arial, sans-serif; font-size: 18px; line-height: 1.4; }
+    a { color: #1F6F8B; } a:hover { color: #B4532A; }
+    .display { font-family: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-variant-numeric: tabular-nums; }
+    .eyebrow { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 13px; letter-spacing: .1em; text-transform: uppercase; color: #5B6673; }
+    .card { background: #FFFFFF; border: 1px solid #C9D1D9; border-radius: 10px; }
+    .leg { display: flex; align-items: center; gap: 10px; font-size: 16px; }
+    .sw { width: 14px; height: 14px; border-radius: 3px; }
+  </style>
+</helmet>
+<div style="width: 1600px; height: 900px; box-sizing: border-box; padding: 48px 64px; display: flex; flex-direction: column; gap: 22px; background: #F3F5F7;">
+  <div style="display: flex; flex-direction: column; gap: 6px;">
+    <div class="eyebrow">Share of rows where Jev's choice equals the dataset's label</div>
+    <h2 class="display" style="margin: 0; font-size: 38px; line-height: 1.1; letter-spacing: -0.015em; font-weight: 600;">Agreement rose where the labels were sound and the questions were the problem</h2>
+  </div>
+  <div style="display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 24px; flex-grow: 1;">
+    <div class="card" style="padding: 22px 26px; display: flex;">
+      <svg width="1096" height="600" viewBox="0 0 1096 600" role="img" aria-label="Agreement with gold per dataset across four experiments">
+        <g font-family="JetBrains Mono, ui-monospace, Menlo, monospace" font-size="13" fill="#5B6673">
+          <line x1="70" y1="40" x2="1000" y2="40" stroke="#E6EAEE"></line><text x="58" y="44" text-anchor="end">1.0</text>
+          <line x1="70" y1="140" x2="1000" y2="140" stroke="#E6EAEE"></line><text x="58" y="144" text-anchor="end">0.9</text>
+          <line x1="70" y1="240" x2="1000" y2="240" stroke="#E6EAEE"></line><text x="58" y="244" text-anchor="end">0.8</text>
+          <line x1="70" y1="340" x2="1000" y2="340" stroke="#E6EAEE"></line><text x="58" y="344" text-anchor="end">0.7</text>
+          <line x1="70" y1="440" x2="1000" y2="440" stroke="#E6EAEE"></line><text x="58" y="444" text-anchor="end">0.6</text>
+          <line x1="70" y1="540" x2="1000" y2="540" stroke="#C9D1D9"></line><text x="58" y="544" text-anchor="end">0.5</text>
+        </g>
+        <g font-family="Source Sans 3, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="600" fill="#14181D" text-anchor="middle">
+          <text x="160" y="580">v1</text><text x="400" y="580">v2</text><text x="640" y="580">v3</text><text x="880" y="580">v4</text>
+        </g>
+        <polyline points="160,96 400,76 640,68 880,68" fill="none" stroke="#eb6834" stroke-width="3" stroke-linejoin="round"></polyline>
+        <polyline points="160,79 400,112 640,84 880,74" fill="none" stroke="#1baf7a" stroke-width="3" stroke-linejoin="round"></polyline>
+        <polyline points="160,148 400,164 640,147 880,147" fill="none" stroke="#eda100" stroke-width="3" stroke-linejoin="round"></polyline>
+        <polyline points="160,244 400,247 640,213 880,186" fill="none" stroke="#2a78d6" stroke-width="3" stroke-linejoin="round"></polyline>
+        <polyline points="160,453 400,493 640,473 880,474" fill="none" stroke="#e87ba4" stroke-width="3" stroke-linejoin="round"></polyline>
+        <g stroke="#FFFFFF" stroke-width="2.5">
+          <circle cx="160" cy="96" r="6" fill="#eb6834"></circle><circle cx="400" cy="76" r="6" fill="#eb6834"></circle><circle cx="640" cy="68" r="6" fill="#eb6834"></circle><circle cx="880" cy="68" r="6" fill="#eb6834"></circle>
+          <circle cx="160" cy="79" r="6" fill="#1baf7a"></circle><circle cx="400" cy="112" r="6" fill="#1baf7a"></circle><circle cx="640" cy="84" r="6" fill="#1baf7a"></circle><circle cx="880" cy="74" r="6" fill="#1baf7a"></circle>
+          <circle cx="160" cy="148" r="6" fill="#eda100"></circle><circle cx="400" cy="164" r="6" fill="#eda100"></circle><circle cx="640" cy="147" r="6" fill="#eda100"></circle><circle cx="880" cy="147" r="6" fill="#eda100"></circle>
+          <circle cx="160" cy="244" r="6" fill="#2a78d6"></circle><circle cx="400" cy="247" r="6" fill="#2a78d6"></circle><circle cx="640" cy="213" r="6" fill="#2a78d6"></circle><circle cx="880" cy="186" r="6" fill="#2a78d6"></circle>
+          <circle cx="160" cy="453" r="6" fill="#e87ba4"></circle><circle cx="400" cy="493" r="6" fill="#e87ba4"></circle><circle cx="640" cy="473" r="6" fill="#e87ba4"></circle><circle cx="880" cy="474" r="6" fill="#e87ba4"></circle>
+        </g>
+        <g font-family="JetBrains Mono, ui-monospace, Menlo, monospace" font-size="14" fill="#14181D">
+          <text x="902" y="62">0.972 trec</text>
+          <text x="902" y="84">0.966 sst2</text>
+          <text x="902" y="152">0.893 ag_news</text>
+          <text x="902" y="191">0.854 banking77</text>
+          <text x="902" y="479">0.566 emotion</text>
+        </g>
+      </svg>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 18px;">
+      <div class="card" style="padding: 18px 20px; display: flex; flex-direction: column; gap: 10px;">
+        <span class="eyebrow">datasets</span>
+        <div class="leg"><span class="sw" style="background: #2a78d6;"></span><span>banking77 · 77 intents</span></div>
+        <div class="leg"><span class="sw" style="background: #eb6834;"></span><span>trec · 6 answer types</span></div>
+        <div class="leg"><span class="sw" style="background: #1baf7a;"></span><span>sst2 · binary sentiment</span></div>
+        <div class="leg"><span class="sw" style="background: #eda100;"></span><span>ag_news · 4 sections</span></div>
+        <div class="leg"><span class="sw" style="background: #e87ba4;"></span><span>emotion · 6 classes</span></div>
+      </div>
+      <div class="card" style="padding: 18px 20px; display: flex; flex-direction: column; gap: 10px; flex-grow: 1;">
+        <span class="eyebrow">what moved</span>
+        <p style="margin: 0; font-size: 16px;"><strong>Banking77</strong> gained six points from two rounds of criteria written out of reviewer reasons.</p>
+        <p style="margin: 0; font-size: 16px;"><strong>SST-2</strong> lost three points to a none option in v2 and got them back when it was dropped.</p>
+        <p style="margin: 0; font-size: 16px;"><strong>Emotion</strong> did not move. About a fifth of its labels are hashtag artifacts; the ceiling is the labels, not the model.</p>
+      </div>
+    </div>
+  </div>
+</div>
+</x-dc>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&amp;family=Source+Sans+3:wght@400;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap">
+  <style>
+    body { margin: 0; background: #F3F5F7; color: #14181D; font-family: 'Source Sans 3', 'Helvetica Neue', Arial, sans-serif; font-size: 18px; line-height: 1.4; }
+    a { color: #1F6F8B; } a:hover { color: #B4532A; }
+    .display { font-family: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-variant-numeric: tabular-nums; }
+    .eyebrow { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 13px; letter-spacing: .1em; text-transform: uppercase; color: #5B6673; }
+    .card { background: #FFFFFF; border: 1px solid #C9D1D9; border-radius: 10px; }
+    .r { display: grid; grid-template-columns: 90px minmax(0, 1fr) minmax(0, 1fr); gap: 20px; align-items: baseline; padding: 13px 0; border-bottom: 1px solid #E6EAEE; }
+    .r .v { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 16px; color: #1F6F8B; }
+    .r .c { font-size: 18px; }
+    .r .g { font-size: 16px; color: #5B6673; }
+    .h { display: grid; grid-template-columns: 90px minmax(0, 1fr) minmax(0, 1fr); gap: 20px; padding-bottom: 10px; border-bottom: 1px solid #C9D1D9; }
+  </style>
+</helmet>
+<div style="width: 1600px; height: 900px; box-sizing: border-box; padding: 48px 64px; display: flex; flex-direction: column; gap: 22px; background: #F3F5F7;">
+  <div style="display: flex; flex-direction: column; gap: 6px;">
+    <div class="eyebrow">Nothing here is a trick</div>
+    <h2 class="display" style="margin: 0; font-size: 38px; line-height: 1.1; letter-spacing: -0.015em; font-weight: 600;">Every step is a line of the TypeSafe docs applied to a reviewer verdict</h2>
+  </div>
+  <div class="card" style="padding: 24px 32px 12px; display: flex; flex-direction: column; flex-grow: 1;">
+    <div class="h"><span class="eyebrow">since</span><span class="eyebrow">change</span><span class="eyebrow">guidance</span></div>
+    <div class="r"><span class="v">v2</span><span class="c">Rich label descriptions, a none option, a threshold picked on a dev split</span><span class="g">Classification using confidence cookbook</span></div>
+    <div class="r"><span class="v">v2</span><span class="c">Every question for a row in one call, answered in isolation</span><span class="g">Parallel questions cookbook · speculative fan-out pattern</span></div>
+    <div class="r"><span class="v">v3</span><span class="c">Never present the dataset's label to the model as an answer to judge</span><span class="g">Jaggedness: adversarial content, contradictory instructions and criteria</span></div>
+    <div class="r"><span class="v">v3</span><span class="c">An absolute Noul per label beside the relative Choice</span><span class="g">Jaggedness: structural invariants · skill suggestion cookbook</span></div>
+    <div class="r"><span class="v">v3</span><span class="c">what / not_for / examples objects for the options reviewers found confusable</span><span class="g">Choice page: structured instructions and criteria</span></div>
+    <div class="r"><span class="v">v3</span><span class="c">Literal convention questions (negated? sarcastic? a number?) combined in code</span><span class="g">Jaggedness: literal reading</span></div>
+    <div class="r"><span class="v">v3</span><span class="c">Cutoffs fixed before the run, precision measured per band, operating point chosen after review</span><span class="g">Confidence page: thresholds scale with risk</span></div>
+    <div class="r"><span class="v">v4</span><span class="c">The fit question leads with the category's scope, not the label's name</span><span class="g">Jaggedness: literal reading</span></div>
+    <div class="r" style="border-bottom: 0;"><span class="v">v4</span><span class="c">Two independent model reviewers before a person reads anything</span><span class="g">Universal verification · citation check cookbook · SDE cascade</span></div>
+  </div>
+</div>
+</x-dc>
+</body>
+</html>

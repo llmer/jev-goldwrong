@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&amp;family=Source+Sans+3:wght@400;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap">
+  <style>
+    body { margin: 0; background: #F3F5F7; color: #14181D; font-family: 'Source Sans 3', 'Helvetica Neue', Arial, sans-serif; font-size: 18px; line-height: 1.4; }
+    a { color: #1F6F8B; } a:hover { color: #B4532A; }
+    .display { font-family: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-variant-numeric: tabular-nums; }
+    .eyebrow { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 13px; letter-spacing: .1em; text-transform: uppercase; color: #5B6673; }
+    .card { background: #FFFFFF; border: 1px solid #C9D1D9; border-radius: 10px; }
+    .row { display: grid; grid-template-columns: 150px 720px minmax(0, 1fr); gap: 18px; align-items: center; }
+    .row .k { font-size: 19px; font-weight: 600; text-align: right; }
+    .row .bar { height: 40px; border-radius: 6px; background: #1F6F8B; }
+    .row .v { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 22px; }
+    .row .note { font-size: 15px; color: #5B6673; }
+  </style>
+</helmet>
+<div style="width: 1600px; height: 900px; box-sizing: border-box; padding: 48px 64px; display: flex; flex-direction: column; gap: 22px; background: #F3F5F7;">
+  <div style="display: flex; flex-direction: column; gap: 6px;">
+    <div class="eyebrow">Rows in each band × that band's held-out precision · wide intervals apply</div>
+    <h2 class="display" style="margin: 0; font-size: 38px; line-height: 1.1; letter-spacing: -0.015em; font-weight: 600;">Estimated label errors per test split</h2>
+  </div>
+  <div class="card" style="padding: 36px 40px; display: flex; flex-direction: column; gap: 26px; flex-grow: 1; justify-content: center;">
+    <div class="row"><span class="k">emotion</span><div style="display: flex; align-items: center; gap: 14px;"><div class="bar" style="width: 636px;"></div><span class="v">22.1%</span></div><span class="note">~443 rows · a tenth of the split has no emotion in it at all</span></div>
+    <div class="row"><span class="k">ag_news</span><div style="display: flex; align-items: center; gap: 14px;"><div class="bar" style="width: 138px;"></div><span class="v">4.8%</span></div><span class="note">~361 rows · sports and markets filed under World</span></div>
+    <div class="row"><span class="k">banking77</span><div style="display: flex; align-items: center; gap: 14px;"><div class="bar" style="width: 127px;"></div><span class="v">4.4%</span></div><span class="note">~135 rows · near-duplicate intents</span></div>
+    <div class="row"><span class="k">sst2</span><div style="display: flex; align-items: center; gap: 14px;"><div class="bar" style="width: 58px;"></div><span class="v">~2%</span></div><span class="note">~16 rows · subject matter mistaken for the verdict</span></div>
+    <div class="row"><span class="k">trec</span><div style="display: flex; align-items: center; gap: 14px;"><div class="bar" style="width: 9px;"></div><span class="v">0.3%</span></div><span class="note">~2 rows · conventions, mostly</span></div>
+  </div>
+  <p style="margin: 0; font-size: 15px; color: #5B6673; max-width: 100ch;">Scale: 0 to 25% of the split. Estimates from experiment 3, which sampled every band; the human pass will replace the top of each with a count.</p>
+</div>
+</x-dc>
+</body>
+</html>

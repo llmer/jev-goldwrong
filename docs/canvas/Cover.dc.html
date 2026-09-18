@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&amp;family=Source+Sans+3:wght@400;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap">
+  <style>
+    body { margin: 0; background: #F3F5F7; color: #14181D; font-family: 'Source Sans 3', 'Helvetica Neue', Arial, sans-serif; font-size: 20px; line-height: 1.45; }
+    a { color: #1F6F8B; } a:hover { color: #B4532A; }
+    .display { font-family: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-variant-numeric: tabular-nums; }
+    .eyebrow { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 13px; letter-spacing: .1em; text-transform: uppercase; color: #5B6673; }
+    .card { background: #FFFFFF; border: 1px solid #C9D1D9; border-radius: 10px; }
+  </style>
+</helmet>
+<div style="width: 1600px; height: 1000px; box-sizing: border-box; padding: 56px 64px 48px; display: flex; flex-direction: column; gap: 30px; background: #F3F5F7;">
+  <div style="display: flex; flex-direction: column; gap: 14px;">
+    <div class="eyebrow">llmer / jev-goldwrong · four experiments · September 2026</div>
+    <h1 class="display" style="margin: 0; font-size: 64px; line-height: 1.02; letter-spacing: -0.02em; font-weight: 700; max-width: 20ch; text-wrap: balance;">Finding the wrong answers in the answer key</h1>
+    <p style="margin: 0; font-size: 24px; line-height: 1.4; max-width: 60ch; color: #14181D;">A decision model that costs four cents per million tokens relabeled five standard NLP test sets. Where it confidently disagreed, two other models checked its work. 313 rows came back with all three agreeing the published label is wrong.</p>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px;">
+    <div class="card" style="padding: 18px 22px; display: flex; flex-direction: column; gap: 6px;"><span class="mono" style="font-size: 40px; line-height: 1;">14,048</span><span style="font-size: 16px; color: #5B6673;">test-split rows relabeled, five datasets</span></div>
+    <div class="card" style="padding: 18px 22px; display: flex; flex-direction: column; gap: 6px;"><span class="mono" style="font-size: 40px; line-height: 1;">$12.05</span><span style="font-size: 16px; color: #5B6673;">model spend across four experiments, 350k rows</span></div>
+    <div class="card" style="padding: 18px 22px; display: flex; flex-direction: column; gap: 6px;"><span class="mono" style="font-size: 40px; line-height: 1;">0.82</span><span style="font-size: 16px; color: #5B6673;">high-tier precision on rows no reviewer had seen</span></div>
+    <div class="card" style="padding: 18px 22px; display: flex; flex-direction: column; gap: 6px; border-color: #B4532A; background: #F4E3DB;"><span class="mono" style="font-size: 40px; line-height: 1; color: #B4532A;">313</span><span style="font-size: 16px; color: #5B6673;">rows Claude and Codex both call gold errors, ready for a human</span></div>
+  </div>
+  <div style="display: flex; flex-direction: column; gap: 12px; flex-grow: 1;">
+    <div class="eyebrow">From 0 to 4 · each step changed the questions, not the model</div>
+    <div style="display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 14px; flex-grow: 1;">
+      <div class="card" style="padding: 18px 18px 16px; display: flex; flex-direction: column; gap: 10px;">
+        <span class="display" style="font-size: 44px; line-height: 1; font-weight: 700; color: #7B8794;">0</span>
+        <h3 class="display" style="margin: 0; font-size: 21px; line-height: 1.15; font-weight: 600;">A plain classifier</h3>
+        <p style="margin: 0; font-size: 16px;">Ask a model for a label. Where it differs from the dataset, call that an error.</p>
+        <p style="margin: 0; font-size: 15px; color: #5B6673;">A hard row, a dataset convention and a real mislabel all come back as one argmax.</p>
+        <span class="mono" style="margin-top: auto; padding-top: 10px; border-top: 1px solid #C9D1D9; font-size: 14px; color: #5B6673;">no measure</span>
+      </div>
+      <div class="card" style="padding: 18px 18px 16px; display: flex; flex-direction: column; gap: 10px;">
+        <span class="display" style="font-size: 44px; line-height: 1; font-weight: 700; color: #1F6F8B;">1</span>
+        <h3 class="display" style="margin: 0; font-size: 21px; line-height: 1.15; font-weight: 600;">One Choice, fixed thresholds</h3>
+        <p style="margin: 0; font-size: 16px;">20 datasets, 310,635 rows, one Choice per row. Flag when P(gold) &lt; .2 and P(top) &gt; .7.</p>
+        <p style="margin: 0; font-size: 15px; color: #5B6673;">Calibrated and cheap, but 40% of flags were ambiguity and 15% were Jev misreading a convention.</p>
+        <span class="mono" style="margin-top: auto; padding-top: 10px; border-top: 1px solid #C9D1D9; font-size: 14px;">0.45 precision · 15% Jev-wrong</span>
+      </div>
+      <div class="card" style="padding: 18px 18px 16px; display: flex; flex-direction: column; gap: 10px;">
+        <span class="display" style="font-size: 44px; line-height: 1; font-weight: 700; color: #1F6F8B;">2</span>
+        <h3 class="display" style="margin: 0; font-size: 21px; line-height: 1.15; font-weight: 600;">Cookbook conventions</h3>
+        <p style="margin: 0; font-size: 16px;">Rich label descriptions, a none option, an “is the gold label wrong?” question, a dev-split threshold.</p>
+        <p style="margin: 0; font-size: 15px; color: #5B6673;">Descriptions fixed Banking77. The gold-wrong question anchored on its own subject; the threshold was tuned against the labels under audit.</p>
+        <span class="mono" style="margin-top: auto; padding-top: 10px; border-top: 1px solid #C9D1D9; font-size: 14px;">0.65 precision · 5% Jev-wrong</span>
+      </div>
+      <div class="card" style="padding: 18px 18px 16px; display: flex; flex-direction: column; gap: 10px;">
+        <span class="display" style="font-size: 44px; line-height: 1; font-weight: 700; color: #1F6F8B;">3</span>
+        <h3 class="display" style="margin: 0; font-size: 21px; line-height: 1.15; font-weight: 600;">Absolute questions, fixed bands</h3>
+        <p style="margin: 0; font-size: 16px;">One fit question per label, worded the same for every label. An ambiguity question. Criteria written from reviewer verdicts. Cutoffs fixed before the run.</p>
+        <p style="margin: 0; font-size: 15px; color: #5B6673;">Ambiguity became a band of its own.</p>
+        <span class="mono" style="margin-top: auto; padding-top: 10px; border-top: 1px solid #C9D1D9; font-size: 14px;">0.82 held out · 1.6% Jev-wrong</span>
+      </div>
+      <div class="card" style="padding: 18px 18px 16px; display: flex; flex-direction: column; gap: 10px; border-color: #B4532A;">
+        <span class="display" style="font-size: 44px; line-height: 1; font-weight: 700; color: #B4532A;">4</span>
+        <h3 class="display" style="margin: 0; font-size: 21px; line-height: 1.15; font-weight: 600;">Second loop, two-model verification</h3>
+        <p style="margin: 0; font-size: 16px;">Fit questions lead with each category's scope. A second criteria loop. The whole high tier goes to Claude and Codex, blind.</p>
+        <p style="margin: 0; font-size: 15px; color: #5B6673;">313 of 432 rows: both models call the gold label wrong, 309 name the same correction.</p>
+        <span class="mono" style="margin-top: auto; padding-top: 10px; border-top: 1px solid #C9D1D9; font-size: 14px;">313 of 432 · 0.3% Jev-wrong</span>
+      </div>
+    </div>
+  </div>
+</div>
+</x-dc>
+</body>
+</html>

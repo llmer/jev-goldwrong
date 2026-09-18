@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&amp;family=Source+Sans+3:wght@400;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap">
+  <style>
+    body { margin: 0; background: #F3F5F7; color: #14181D; font-family: 'Source Sans 3', 'Helvetica Neue', Arial, sans-serif; font-size: 18px; line-height: 1.4; }
+    a { color: #1F6F8B; } a:hover { color: #B4532A; }
+    .display { font-family: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-variant-numeric: tabular-nums; }
+    .eyebrow { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 13px; letter-spacing: .1em; text-transform: uppercase; color: #5B6673; }
+    .card { background: #FFFFFF; border: 1px solid #C9D1D9; border-radius: 10px; }
+    .plot { position: relative; height: 440px; }
+    .grid { position: absolute; left: 60px; right: 0; border-top: 1px solid #E6EAEE; }
+    .tick { position: absolute; left: -60px; width: 48px; text-align: right; font-size: 13px; color: #5B6673; transform: translateY(-50%); font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; }
+    .bars { position: absolute; left: 60px; right: 0; bottom: 0; top: 0; display: flex; align-items: flex-end; justify-content: space-around; }
+    .bar { width: 96px; display: flex; flex-direction: column; align-items: center; gap: 8px; }
+    .bar .v { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 20px; }
+    .bar .b { width: 96px; border-radius: 6px 6px 0 0; }
+    .lab { display: flex; flex-direction: column; align-items: center; gap: 2px; width: 96px; }
+    .lab .x { font-size: 17px; font-weight: 600; }
+    .lab .n { font-size: 13px; color: #5B6673; }
+  </style>
+</helmet>
+<div style="width: 1600px; height: 900px; box-sizing: border-box; padding: 48px 64px; display: flex; flex-direction: column; gap: 22px; background: #F3F5F7;">
+  <div style="display: flex; flex-direction: column; gap: 6px;">
+    <div class="eyebrow">Same five datasets, same reviewer protocol · v3 and v4 measured on held-out rows</div>
+    <h2 class="display" style="margin: 0; font-size: 38px; line-height: 1.1; letter-spacing: -0.015em; font-weight: 600;">Precision went up as the questions got more literal</h2>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; flex-grow: 1;">
+    <div class="card" style="padding: 22px 26px 18px; display: flex; flex-direction: column; gap: 14px;">
+      <div style="display: flex; flex-direction: column; gap: 2px;">
+        <span class="display" style="font-size: 22px; font-weight: 600;">Flag precision</span>
+        <span style="font-size: 15px; color: #5B6673;">share of reviewed flags a strict annotator called a real gold error</span>
+      </div>
+      <div class="plot">
+        <div class="grid" style="top: 0%;"><span class="tick">1.00</span></div>
+        <div class="grid" style="top: 25%;"><span class="tick">0.75</span></div>
+        <div class="grid" style="top: 50%;"><span class="tick">0.50</span></div>
+        <div class="grid" style="top: 75%;"><span class="tick">0.25</span></div>
+        <div class="grid" style="top: 100%;"><span class="tick">0</span></div>
+        <div class="bars">
+          <div class="bar"><span class="v">0.53</span><div class="b" style="height: 233px; background: #1F6F8B;"></div></div>
+          <div class="bar"><span class="v">0.65</span><div class="b" style="height: 286px; background: #1F6F8B;"></div></div>
+          <div class="bar"><span class="v">0.82</span><div class="b" style="height: 361px; background: #1F6F8B;"></div></div>
+          <div class="bar"><span class="v">0.79</span><div class="b" style="height: 348px; background: #1F6F8B;"></div></div>
+          <div class="bar"><span class="v">0.72–0.88</span><div class="b" style="height: 387px; background: linear-gradient(180deg, #F4E3DB 0%, #F4E3DB 18%, #B4532A 18%, #B4532A 100%); border: 1px solid #B4532A; box-sizing: border-box;"></div></div>
+        </div>
+      </div>
+      <div style="display: flex; justify-content: space-around; padding-left: 60px;">
+        <div class="lab"><span class="x">v1</span><span class="n">n=333</span></div>
+        <div class="lab"><span class="x">v2</span><span class="n">n=330</span></div>
+        <div class="lab"><span class="x">v3</span><span class="n">n=126, held out</span></div>
+        <div class="lab"><span class="x">v4</span><span class="n">n=63, marginal rows</span></div>
+        <div class="lab"><span class="x" style="color: #B4532A;">v4 verified</span><span class="n">both agree → either</span></div>
+      </div>
+    </div>
+    <div class="card" style="padding: 22px 26px 18px; display: flex; flex-direction: column; gap: 14px;">
+      <div style="display: flex; flex-direction: column; gap: 2px;">
+        <span class="display" style="font-size: 22px; font-weight: 600;">Flags where Jev was wrong</span>
+        <span style="font-size: 15px; color: #5B6673;">share of reviewed flags where the annotator said Jev, not the dataset, erred</span>
+      </div>
+      <div class="plot">
+        <div class="grid" style="top: 0%;"><span class="tick">15%</span></div>
+        <div class="grid" style="top: 33.3%;"><span class="tick">10%</span></div>
+        <div class="grid" style="top: 66.7%;"><span class="tick">5%</span></div>
+        <div class="grid" style="top: 100%;"><span class="tick">0</span></div>
+        <div class="bars">
+          <div class="bar"><span class="v">15%</span><div class="b" style="height: 440px; background: #B4532A;"></div></div>
+          <div class="bar"><span class="v">5%</span><div class="b" style="height: 147px; background: #B4532A;"></div></div>
+          <div class="bar"><span class="v">1.6%</span><div class="b" style="height: 47px; background: #B4532A;"></div></div>
+          <div class="bar"><span class="v">0.3%</span><div class="b" style="height: 9px; background: #B4532A;"></div></div>
+        </div>
+      </div>
+      <div style="display: flex; justify-content: space-around; padding-left: 60px;">
+        <div class="lab"><span class="x">v1</span><span class="n">20 datasets</span></div>
+        <div class="lab"><span class="x">v2</span><span class="n">5 datasets</span></div>
+        <div class="lab"><span class="x">v3</span><span class="n">held out</span></div>
+        <div class="lab"><span class="x">v4</span><span class="n">3 of 864 judgments</span></div>
+      </div>
+    </div>
+  </div>
+</div>
+</x-dc>
+</body>
+</html>

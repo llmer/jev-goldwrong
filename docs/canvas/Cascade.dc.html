@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&amp;family=Source+Sans+3:wght@400;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap">
+  <style>
+    body { margin: 0; background: #F3F5F7; color: #14181D; font-family: 'Source Sans 3', 'Helvetica Neue', Arial, sans-serif; font-size: 18px; line-height: 1.4; }
+    a { color: #1F6F8B; } a:hover { color: #B4532A; }
+    .display { font-family: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-variant-numeric: tabular-nums; }
+    .eyebrow { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 13px; letter-spacing: .1em; text-transform: uppercase; color: #5B6673; }
+    .step { display: grid; grid-template-columns: 130px 720px minmax(0, 1fr); gap: 20px; align-items: center; }
+    .step .n { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 30px; text-align: right; }
+    .step .bar { height: 44px; border-radius: 6px; }
+    .step .who { display: flex; flex-direction: column; gap: 2px; }
+    .step .what { font-size: 18px; }
+    .step .cost { font-size: 14px; color: #5B6673; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; }
+  </style>
+</helmet>
+<div style="width: 1600px; height: 900px; box-sizing: border-box; padding: 48px 64px; display: flex; flex-direction: column; gap: 22px; background: #F3F5F7;">
+  <div style="display: flex; flex-direction: column; gap: 6px;">
+    <div class="eyebrow">Verify before a person reads · bar width is √rows</div>
+    <h2 class="display" style="margin: 0; font-size: 38px; line-height: 1.1; letter-spacing: -0.015em; font-weight: 600;">Each step is code or a model until the last one</h2>
+  </div>
+  <div style="display: flex; flex-direction: column; gap: 22px; flex-grow: 1; justify-content: center;">
+    <div class="step"><span class="n">14,048</span><div style="display: flex;"><div class="bar" style="width: 720px; background: #1F6F8B;"></div></div><div class="who"><span class="what">rows relabeled by Jev, one call each</span><span class="cost">$1.79 · 5 minutes at 50 rows/s</span></div></div>
+    <div class="step"><span class="n">2,174</span><div style="display: flex;"><div class="bar" style="width: 283px; background: #1F6F8B;"></div></div><div class="who"><span class="what">rows where Jev's label differs from the dataset's, banded in code</span><span class="cost">free</span></div></div>
+    <div class="step"><span class="n">432</span><div style="display: flex;"><div class="bar" style="width: 126px; background: #B4532A;"></div></div><div class="who"><span class="what">high tier: gold does not fit, Jev's label fits, not ambiguous, confidence ≥ .9</span><span class="cost">free</span></div></div>
+    <div class="step"><span class="n">382</span><div style="display: flex;"><div class="bar" style="width: 119px; background: #B4532A;"></div></div><div class="who"><span class="what">at least one of Claude, Codex says the gold label is wrong</span><span class="cost">about an hour of agents, blind, same annotator protocol</span></div></div>
+    <div class="step"><span class="n">313</span><div style="display: flex;"><div class="bar" style="width: 107px; background: #B4532A;"></div></div><div class="who"><span class="what">both say gold is wrong · 309 name the same correction</span><span class="cost">119 disagreements kept in their own file</span></div></div>
+    <div class="step"><span class="n">→</span><div style="display: flex;"><div class="bar" style="width: 107px; box-sizing: border-box; border: 2px dashed #14181D; background: transparent;"></div></div><div class="who"><span class="what">human pass over 313 rows, one reason each</span><span class="cost">an afternoon · the only step that makes a public claim</span></div></div>
+  </div>
+  <p style="margin: 0; font-size: 15px; color: #5B6673; max-width: 100ch;">Across 864 individual judgments in the verification pass, three said Jev's label was wrong. The two reviewers disagreed almost only about ambiguity, so the filter removes rows a person would argue about and keeps the ones that read the same to everyone.</p>
+</div>
+</x-dc>
+</body>
+</html>

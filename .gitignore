@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+# raw per-row answers with full distributions (hundreds of MB); regenerate with the runners
+out/*.jsonl
+v1/out/*.jsonl
+out/*.log
+v1/out/*.log

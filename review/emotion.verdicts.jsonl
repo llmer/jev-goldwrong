@@ -1,0 +1,100 @@
+{"id": "emotion:test:718", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Calling it extremely dangerous for her to be out at sea is worry/fear, not anger; 'dangerous' is a keyword artifact."}
+{"id": "emotion:test:551", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Feeling awkward is nervous self-consciousness (fear), not sadness; 'awkward' is a keyword artifact."}
+{"id": "emotion:test:1618", "verdict": "jev_wrong", "correct_label": "fear", "reason": "The stated feeling is 'uncomfortable' (discomfort/unease -> fear); the indignation at the comment is inferred, not expressed."}
+{"id": "emotion:test:1681", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'I just feel like a burden' is sadness; 'rebellious' is a hypothetical the writer explicitly does not feel."}
+{"id": "emotion:test:644", "verdict": "gold_wrong", "correct_label": "love", "reason": "The expressed emotion is love for a person despite disapproving of their act; 'acceptable' is a keyword artifact."}
+{"id": "emotion:test:705", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Feeling overwhelmed is stress/anxiety, not surprise; 'overwhelmed' is a keyword artifact."}
+{"id": "emotion:test:1783", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'Going mad' here means losing one's mind while hallucinating, which is unsettling fear, not anger."}
+{"id": "emotion:test:444", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Waking up dreading that something terrifyingly bad will happen is fear, not sadness."}
+{"id": "emotion:test:1377", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Overjoyed, bouncy excitement about going to school is joy; 'beloved' is a keyword artifact."}
+{"id": "emotion:test:1568", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Negation: not feeling as respected as before is sadness, not joy."}
+{"id": "emotion:test:1228", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Negation: 'i do not feel assured' is insecurity/anxiety, not joy."}
+{"id": "emotion:test:1262", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Feeling too chubby to wear dreamed-of clothes is sadness; 'cute' is a keyword artifact."}
+{"id": "emotion:test:1459", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Nothing getting resolved and drifting away is sadness; 'resolved' is a keyword artifact."}
+{"id": "emotion:test:603", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Dread of something waiting to take everything away and destroy the writer is fear, not anger."}
+{"id": "emotion:test:625", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Overwhelmed by trying to do it all is stress/fear, not surprise."}
+{"id": "emotion:test:815", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Triple negation: not proud, not glad, not blessed is bitterness/sadness, not joy."}
+{"id": "emotion:test:1889", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'Disquiet of a future out of my hands' is anxiety; 'hot' is a keyword artifact for love."}
+{"id": "emotion:test:921", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Feeling less stress because life is mixed with enjoyable things is contentment/relief (joy), not sadness."}
+{"id": "emotion:test:1149", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Feeling needy and helpless is fear/distress, not anger; 'greedy' is a keyword artifact."}
+{"id": "emotion:test:1072", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Resigned acceptance that people will never change is sadness; 'accepted' is a keyword artifact for love."}
+{"id": "emotion:test:1504", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Feeling dirty at a series that manipulates the viewer is disgust/irritation (anger), not sadness."}
+{"id": "emotion:test:1616", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Feeling very stressed and anxious is fear, not anger."}
+{"id": "emotion:test:1273", "verdict": "gold_wrong", "correct_label": "joy", "reason": "A sense of liberation is relief/joy; 'strange' is a keyword artifact for surprise."}
+{"id": "emotion:test:789", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Negation: not feeling any passionate joy expresses disappointment/flatness, not joy."}
+{"id": "emotion:test:1008", "verdict": "ambiguous", "correct_label": "anger", "reason": "Explicitly mixed: exhausted and morose (sadness) but now livid (anger); anger is the emphasized current state."}
+{"id": "emotion:test:650", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Overwhelming excitement and anticipation about a child is joy; 'faithful' is a keyword artifact for love."}
+{"id": "emotion:test:1382", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'Depth of sorrow that i feel' is sadness; 'ludicrous' is a keyword artifact for surprise."}
+{"id": "emotion:test:1650", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Negation: not feeling any love and caring is sadness, not love."}
+{"id": "emotion:test:1827", "verdict": "ambiguous", "correct_label": "sadness", "reason": "Numbness (sadness) and constant dread that something will go wrong (fear) are both stated; numbness is the headline feeling."}
+{"id": "emotion:test:1014", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Feeling watched and unwelcome alone in an apartment is fear, not sadness."}
+{"id": "emotion:test:1691", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Coldness toward a partner and realizing one no longer loves him is sadness; 'cold' is a keyword artifact for anger."}
+{"id": "emotion:test:665", "verdict": "ambiguous", "correct_label": "anger", "reason": "Dissatisfaction sits between irritation (anger) and disappointment (sadness) with no context to decide."}
+{"id": "emotion:test:1386", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Fear that anything one is passionate about will be taken away is fear; 'passionate' is a keyword artifact for love."}
+{"id": "emotion:test:1392", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Negation: not feeling jolly in the least is sadness, not joy."}
+{"id": "emotion:test:550", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Being convinced one will shy away from good things is anxious self-doubt; 'convinced' is a keyword artifact for joy."}
+{"id": "emotion:test:1876", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Feeling stressed out is fear/anxiety, not anger."}
+{"id": "emotion:test:1076", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'Tortured by fear' and 'feeling lonely and lost' are both explicit; the feel-phrase itself is sadness."}
+{"id": "emotion:test:1426", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Sensing that something could be dangerous is fear, not anger."}
+{"id": "emotion:test:562", "verdict": "gold_wrong", "correct_label": "fear", "reason": "The writer was worried about the baby; 'lethargic' describes the baby, not the writer's emotion."}
+{"id": "emotion:test:678", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Negation: not feeling comfortable in one's clothes is insecurity/discomfort, not joy; 'cute' is a keyword artifact."}
+{"id": "emotion:test:451", "verdict": "ambiguous", "correct_label": "anger", "reason": "Buyer's remorse dissatisfaction could be irritation (anger) or regret (sadness); both defensible."}
+{"id": "emotion:test:1756", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Feeling like the proud mom of a stable person is pride/joy; 'compassionate' is a keyword artifact for love."}
+{"id": "emotion:test:500", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Calling something dangerous for new believers is concern/fear, not anger."}
+{"id": "emotion:test:624", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Finally losing belly fat is joy; 'stubborn' is a keyword artifact for anger."}
+{"id": "emotion:test:1934", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Negation: not feeling proud of oneself at all is sadness, not joy."}
+{"id": "emotion:test:561", "verdict": "ambiguous", "correct_label": "anger", "reason": "'Cry' points to sadness while 'feel wronged' points to anger; both defensible."}
+{"id": "emotion:test:820", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Feeling a bit overwhelmed is stress/fear, not surprise."}
+{"id": "emotion:test:1249", "verdict": "gold_wrong", "correct_label": "anger", "reason": "'No excuse for lame invitations' is irritation (anger); 'lame' is a keyword artifact for sadness."}
+{"id": "emotion:test:937", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Judging something more dangerous is fear, not anger."}
+{"id": "emotion:test:1254", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Becoming more confident and feeling less dumb is relief/joy; 'dumb' is a keyword artifact for sadness."}
+{"id": "emotion:test:1572", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Restless and frustrated while recovering is irritation (anger); restlessness is not fear."}
+{"id": "emotion:test:844", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Being back in the city feeling amazing is joy; 'amazing' is a keyword artifact for surprise."}
+{"id": "emotion:test:969", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Feeling overwhelmed and needing time out is stress/fear, not surprise."}
+{"id": "emotion:test:1791", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Everything feeling amazing after a body scan is joy; 'amazing' is a keyword artifact for surprise."}
+{"id": "emotion:test:838", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Finally wanting to write about a hobby is eagerness/joy; 'vain' is a keyword artifact for sadness."}
+{"id": "emotion:test:502", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Feeling stressed and anxious is fear, not anger."}
+{"id": "emotion:test:1560", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Helplessness to regain a feeling of safety is fear/insecurity, not sadness."}
+{"id": "emotion:test:608", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Satisfaction with Apple's store credit is joy; 'sympathetic' is a keyword artifact for love."}
+{"id": "emotion:test:1680", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Fond recollection that living in Austin was sweet is contentment/joy; 'sweet' is a keyword artifact for love."}
+{"id": "emotion:test:1230", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Negation: not feeling the jolly this year is sadness, not joy."}
+{"id": "emotion:test:1465", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Post-show dazedness plus worrying people thought one rude is social anxiety (fear), not surprise."}
+{"id": "emotion:test:1641", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Not feeling love toward oneself and being demotivated is sadness; 'love' negated is not anger."}
+{"id": "emotion:test:448", "verdict": "gold_wrong", "correct_label": "anger", "reason": "'I hate feeling like this, this is bullshit, i'm so done' is unmistakable anger, not joy."}
+{"id": "emotion:test:992", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Terrible remorse is sadness/regret; 'faithful' is a keyword artifact for love."}
+{"id": "emotion:test:1403", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Feeling less shy and less bothered by judgement is confidence/joy; 'shy' is negated."}
+{"id": "emotion:test:404", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Breathing feeling as delicate as dried petals expresses fragility/anxiety; 'delicate' is a keyword artifact for love."}
+{"id": "emotion:test:1445", "verdict": "gold_wrong", "correct_label": "joy", "reason": "The writer says they feel 'kind of happy'; 'weird' is a keyword artifact for fear."}
+{"id": "emotion:test:668", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Healing from a broken heart and broken dreams is sadness; 'confused' is a keyword artifact for fear."}
+{"id": "emotion:test:1440", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'Nervous as hell' about a scan is fear; 'ok' is explicitly a facade."}
+{"id": "emotion:test:907", "verdict": "ambiguous", "correct_label": "sadness", "reason": "Dissatisfied with oneself after a task reads as disappointment (sadness) but irritation (anger) is defensible."}
+{"id": "emotion:test:426", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Feeling unprotected is fear/insecurity, not sadness."}
+{"id": "emotion:test:1115", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Venting at a 'pathetic excuse' of a communication is anger; 'pathetic' is a keyword artifact for sadness."}
+{"id": "emotion:test:418", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Feeling quite stressed while revising is fear/anxiety, not anger."}
+{"id": "emotion:test:1652", "verdict": "gold_wrong", "correct_label": "love", "reason": "Gushing about a gorgeous boy holding one's hand through life is love, not generic joy."}
+{"id": "emotion:test:439", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Feeling awkward and worried about overstepping on blogs is social anxiety (fear), not sadness."}
+{"id": "emotion:test:800", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Accusing a politician of stealing industries and ignoring real enemies is anger; 'determined' is a keyword artifact for joy."}
+{"id": "emotion:test:429", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Surprised at how pleased she is to have grown up; 'hesitant' is explicitly overcome ('despite'), so fear is wrong."}
+{"id": "emotion:test:1910", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Feeling underappreciated and undervalued is sadness; 'valued' is a keyword artifact for joy."}
+{"id": "emotion:test:1250", "verdict": "ambiguous", "correct_label": "love", "reason": "'I did feel for him' is sympathy, which sits between caring (love) and sorrow for another (sadness)."}
+{"id": "emotion:test:1621", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Demanding poachers be punished severely and calling hunting cruel is anger, not sadness."}
+{"id": "emotion:test:476", "verdict": "ambiguous", "correct_label": "sadness", "reason": "Helplessness with no answers is sadness but the dataset's helpless-as-fear convention makes fear defensible."}
+{"id": "emotion:test:1524", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Feeling gentle and calm looking at a photo is contentment (joy); 'gentle' is a keyword artifact for love."}
+{"id": "emotion:test:1637", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Feeling amazing after a fast run is joy; 'amazing' is a keyword artifact for surprise."}
+{"id": "emotion:test:1969", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Feeling the warmth of the sun is pleasant contentment (joy); 'warmth' and 'gentle' are keyword artifacts for love."}
+{"id": "emotion:test:615", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Satisfaction with lovely packaging and a product that works is joy; 'lovely' is a keyword artifact for love."}
+{"id": "emotion:test:1146", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Feeling affirmed with less self-doubt is confidence/joy; 'sensuous' is a keyword artifact for love."}
+{"id": "emotion:test:1313", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Wishing one could be more jolly than one is expresses sadness, not joy."}
+{"id": "emotion:test:1630", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Feeling less of a person and less valuable for being single is sadness; 'valuable' is a keyword artifact."}
+{"id": "emotion:test:440", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'Sadly' the writers are running out of story is sadness; 'popular' is a keyword artifact for joy."}
+{"id": "emotion:test:1858", "verdict": "gold_wrong", "correct_label": "joy", "reason": "It 'felt good' to go with a clear mind is relief/joy; 'distracted' is a keyword artifact for anger."}
+{"id": "emotion:test:1013", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Hopeful statement about supporting each other in politics is mild joy/optimism, certainly not love; 'supporting' is a keyword artifact."}
+{"id": "emotion:test:1401", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'I am very sad' is explicit but the cold rejection could be read as dismissive irritation; 'distracted' is not anger either way."}
+{"id": "emotion:test:878", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Numb, ghost-like, succumbing: overwhelmingly sadness; the single word 'relieved' does not make it joy."}
+{"id": "emotion:test:1654", "verdict": "ambiguous", "correct_label": "anger", "reason": "'A little dissatisfied' with no context is equally irritation (anger) or disappointment (sadness)."}
+{"id": "emotion:test:1397", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Feeling like the coach hated you is hurt/sadness; 'hated' is a keyword artifact for anger."}
+{"id": "emotion:test:1792", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Feeling much more energized is joy; 'gloomy' describes the contrasting day, not the writer."}
+{"id": "emotion:test:1442", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Feeling less frightened and more grounded is relief/calm (joy); 'frightened' is negated."}
+{"id": "emotion:test:895", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "A pain in the heart as devotees fall is sadness; 'devoted' is a keyword artifact for love."}
+{"id": "emotion:test:1135", "verdict": "gold_wrong", "correct_label": "joy", "reason": "A sense of accomplishment is joy; 'embarrassed' refers to the past state being overcome."}
+{"id": "emotion:test:1475", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Repressed fear, anxiety and distrust is fear, not sadness."}

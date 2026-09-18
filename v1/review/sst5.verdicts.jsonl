@@ -1,0 +1,50 @@
+{"id": "sst5:test:1700", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'a trite psychological thriller' is an explicit negative judgment, not neutral description."}
+{"id": "sst5:test:2209", "verdict": "ambiguous", "correct_label": "negative", "reason": "Adjacent-level intensity call on 'it isn't funny, either'; negative vs very negative both defensible."}
+{"id": "sst5:test:867", "verdict": "jev_wrong", "correct_label": "positive", "reason": "Critic says outsiders 'will enjoy' the close look; the verdict is positive despite the unlikeable subjects."}
+{"id": "sst5:test:1048", "verdict": "gold_wrong", "correct_label": "negative", "reason": "Says the director was 'itching to somehow tack one together' rather than burning to tell a story: a clear put-down, not neutral."}
+{"id": "sst5:test:700", "verdict": "ambiguous", "correct_label": "positive", "reason": "'in a word -- yes' is an affirmative answer to an unseen question; positive is likely but neutral is defensible without context."}
+{"id": "sst5:test:1895", "verdict": "gold_wrong", "correct_label": "negative", "reason": "Counterfactual 'might have made a decent children's movie -- if only Benigni hadn't cast himself' says it failed; not a positive verdict."}
+{"id": "sst5:test:830", "verdict": "ambiguous", "correct_label": "positive", "reason": "'comfort food for the mind' is warm but mild; positive vs very positive is an adjacent intensity call."}
+{"id": "sst5:test:1239", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'one of herzog's least inspired works' is a clear negative verdict, not neutral."}
+{"id": "sst5:test:1299", "verdict": "ambiguous", "correct_label": "very negative", "reason": "'pretentiously awful student films' reads very negative, but negative vs very negative is an adjacent intensity call."}
+{"id": "sst5:test:735", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'shorn of social insight... and cinematic interest' is clearly opinionated and negative, not neutral."}
+{"id": "sst5:test:328", "verdict": "ambiguous", "correct_label": "positive", "reason": "Mild approval ('he'd appreciate this attempt'); neutral vs mildly positive is an adjacent call."}
+{"id": "sst5:test:2112", "verdict": "gold_wrong", "correct_label": "neutral", "reason": "Purely descriptive statement about critics' puzzlement over a symbol; no verdict on the film, so negative is unsupported."}
+{"id": "sst5:test:1323", "verdict": "ambiguous", "correct_label": "negative", "reason": "Sarcastic dig at a comatose star; negative vs very negative is adjacent intensity."}
+{"id": "sst5:test:1569", "verdict": "ambiguous", "correct_label": "positive", "reason": "'a worthwhile way to spend two hours' is moderate praise; very positive is a stretch but adjacent."}
+{"id": "sst5:test:1442", "verdict": "ambiguous", "correct_label": "negative", "reason": "Mixed sentence ending 'dissatisfied with the movie as a whole'; negative is the better read but neutral is defensible for mixed content."}
+{"id": "sst5:test:996", "verdict": "ambiguous", "correct_label": "negative", "reason": "'imagination has failed him' is negative; very negative is an adjacent intensity call."}
+{"id": "sst5:test:1858", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'too simple for its own good' is an explicit criticism, not neutral."}
+{"id": "sst5:test:230", "verdict": "ambiguous", "correct_label": "positive", "reason": "'impresses you' is praise; positive vs very positive is adjacent."}
+{"id": "sst5:test:988", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'lacks the punch and verve needed' is a clear negative judgment, not neutral."}
+{"id": "sst5:test:1795", "verdict": "ambiguous", "correct_label": "negative", "reason": "Viewers left 'compromised, unable to find their way out of the fog' reads as a complaint, but could be read as describing the film's intended effect."}
+{"id": "sst5:test:1396", "verdict": "ambiguous", "correct_label": "negative", "reason": "Criticisms ('less vibrant', 'lukewarm') are then shrugged off with 'will anyone really care?'; negative or neutral both defensible."}
+{"id": "sst5:test:755", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'sometimes smart but more often sophomoric' weights clearly negative; not neutral."}
+{"id": "sst5:test:1251", "verdict": "ambiguous", "correct_label": "positive", "reason": "'jazzes it up adroitly' is praise; positive vs very positive is adjacent."}
+{"id": "sst5:test:973", "verdict": "ambiguous", "correct_label": "negative", "reason": "'leaky script barely stays afloat' is negative; very negative is adjacent intensity."}
+{"id": "sst5:test:495", "verdict": "ambiguous", "correct_label": "positive", "reason": "Concedes flaws then ends on the compliment that the film is never predictable; neutral vs mild positive."}
+{"id": "sst5:test:824", "verdict": "gold_wrong", "correct_label": "very negative", "reason": "'all prints... should be buried on pluto' is an extreme pan, in no way neutral."}
+{"id": "sst5:test:481", "verdict": "ambiguous", "correct_label": "positive", "reason": "Praise for performances that 'glint with sorrow, longing and love'; positive vs very positive adjacent."}
+{"id": "sst5:test:554", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'a mild, reluctant, thumbs down' is an explicit negative verdict, not neutral."}
+{"id": "sst5:test:910", "verdict": "ambiguous", "correct_label": "positive", "reason": "'smart script' and attention to detail is praise; positive vs very positive adjacent."}
+{"id": "sst5:test:1346", "verdict": "ambiguous", "correct_label": "negative", "reason": "'mediocre tv-movie films clumsily stuck together' is negative; very negative is adjacent."}
+{"id": "sst5:test:436", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'the only thing worth watching' plus 'sad decline of british comedies' is a clear pan, not neutral."}
+{"id": "sst5:test:1479", "verdict": "ambiguous", "correct_label": "very positive", "reason": "'so lovingly... so beautifully... captivated' is strong praise; positive vs very positive adjacent."}
+{"id": "sst5:test:278", "verdict": "ambiguous", "correct_label": "positive", "reason": "'well worth the time' is moderate praise; positive vs very positive adjacent."}
+{"id": "sst5:test:480", "verdict": "ambiguous", "correct_label": "positive", "reason": "'a refreshing korean film' plus synopsis is mild praise; very positive is a stretch but adjacent."}
+{"id": "sst5:test:1064", "verdict": "ambiguous", "correct_label": "positive", "reason": "'brave attempt', 'salute', 'zippy sampling' is praise; positive vs very positive adjacent."}
+{"id": "sst5:test:11", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'but' clause carries it: few surprises and stars 'slumming in territory they should have avoided' is negative, not neutral."}
+{"id": "sst5:test:760", "verdict": "gold_wrong", "correct_label": "negative", "reason": "Praise is for the director's earlier films; the verdict on this one is 'gets too artsy', which is negative."}
+{"id": "sst5:test:5", "verdict": "ambiguous", "correct_label": "negative", "reason": "'never really feel involved' is negative; very negative is adjacent intensity."}
+{"id": "sst5:test:1837", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'ill-fitting tuxedo... strictly off-the-rack' is a dismissive metaphor, not neutral."}
+{"id": "sst5:test:605", "verdict": "ambiguous", "correct_label": "positive", "reason": "'enough playful fun to entertain the preschool set' is mild praise; positive vs very positive adjacent."}
+{"id": "sst5:test:150", "verdict": "ambiguous", "correct_label": "very negative", "reason": "'sucking all the classic out' is harsh, but negative vs very negative is adjacent intensity."}
+{"id": "sst5:test:1094", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'but' clause carries it: 'loses its way in rhetorical excess and blatant sentimentality' is negative, not neutral."}
+{"id": "sst5:test:114", "verdict": "ambiguous", "correct_label": "negative", "reason": "'sleep-inducing' is negative; very negative is adjacent intensity."}
+{"id": "sst5:test:2201", "verdict": "ambiguous", "correct_label": "negative", "reason": "Praise for the actress is followed by '(but) the script goes wrong at several key junctures'; mixed, neutral or negative both defensible."}
+{"id": "sst5:test:324", "verdict": "ambiguous", "correct_label": "negative", "reason": "'checklist of teamwork cliches' is negative; very negative adjacent."}
+{"id": "sst5:test:807", "verdict": "ambiguous", "correct_label": "negative", "reason": "'leaves a bad taste', 'staleness' is negative; very negative adjacent."}
+{"id": "sst5:test:1214", "verdict": "ambiguous", "correct_label": "negative", "reason": "'just another... barely stays afloat' is negative; very negative adjacent."}
+{"id": "sst5:test:629", "verdict": "ambiguous", "correct_label": "very positive", "reason": "'one of the most haunting, viciously honest... in recent memory' is strong praise; adjacent call."}
+{"id": "sst5:test:849", "verdict": "ambiguous", "correct_label": "negative", "reason": "'rambling, repetitive dialogue', 'visual drabness' negative; very negative adjacent."}
+{"id": "sst5:test:548", "verdict": "ambiguous", "correct_label": "positive", "reason": "'proves that a fresh take is always possible' is praise; positive vs very positive adjacent."}

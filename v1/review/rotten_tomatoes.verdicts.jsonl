@@ -1,0 +1,43 @@
+{"id": "rotten_tomatoes:test:607", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'though' clause concedes a routine script, but the verdict is that fluidity and intelligence 'make it work'."}
+{"id": "rotten_tomatoes:test:293", "verdict": "gold_wrong", "correct_label": "neg", "reason": "'suffers from its timid parsing' is a straightforward criticism."}
+{"id": "rotten_tomatoes:test:453", "verdict": "gold_wrong", "correct_label": "neg", "reason": "'but the lazy plotting ensures that little of our emotional investment pays off' carries the verdict."}
+{"id": "rotten_tomatoes:test:494", "verdict": "ambiguous", "correct_label": "neg", "reason": "'enough gun battles and humor to cover up the yawning chasm where the plot should be' can be read as a pass for an action film or as a pan."}
+{"id": "rotten_tomatoes:test:456", "verdict": "gold_wrong", "correct_label": "neg", "reason": "'it's not very good either' and 'video/dvd babysitter' is a negative verdict."}
+{"id": "rotten_tomatoes:test:178", "verdict": "gold_wrong", "correct_label": "neg", "reason": "'more recyclable than significant' is a put-down."}
+{"id": "rotten_tomatoes:test:353", "verdict": "ambiguous", "correct_label": "pos", "reason": "Unclear which film 'this' vs 'that' refers to; the reviewed film may be the 'lazy but enjoyable' one or the 'even lazier' one."}
+{"id": "rotten_tomatoes:test:197", "verdict": "gold_wrong", "correct_label": "neg", "reason": "'lost in the translation' and 'missing a great deal of the acerbic repartee' is negative."}
+{"id": "rotten_tomatoes:test:200", "verdict": "ambiguous", "correct_label": "neg", "reason": "A mild criticism ('sometimes undermines') that could sit inside a positive review; sentence alone leans negative."}
+{"id": "rotten_tomatoes:test:28", "verdict": "gold_wrong", "correct_label": "neg", "reason": "'nagging sense of deja vu' and 'grandeur... is lacking' is negative."}
+{"id": "rotten_tomatoes:test:291", "verdict": "gold_wrong", "correct_label": "neg", "reason": "'(too) short on action' is an explicit complaint."}
+{"id": "rotten_tomatoes:test:115", "verdict": "ambiguous", "correct_label": "pos", "reason": "Purely descriptive of the violence and cussing; could be relish or complaint."}
+{"id": "rotten_tomatoes:test:725", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'pleasant, diverting... definitely a step in the right direction' is positive."}
+{"id": "rotten_tomatoes:test:332", "verdict": "ambiguous", "correct_label": "neg", "reason": "'probably not accurate to call it a movie' is usually dismissive but could mean it transcends the form."}
+{"id": "rotten_tomatoes:test:870", "verdict": "ambiguous", "correct_label": "neg", "reason": "'the dialogue and drama often food-spittingly funny' is likely sarcasm about an action film, but 'top-notch' stunt work reads sincere."}
+{"id": "rotten_tomatoes:test:922", "verdict": "jev_wrong", "correct_label": "neg", "reason": "'the magic we saw in glitter' is sarcasm; Glitter is a notorious flop, so this is a pan."}
+{"id": "rotten_tomatoes:test:157", "verdict": "ambiguous", "correct_label": "neg", "reason": "'meant to reduce Blake's philosophy' hints at failure but is mostly description."}
+{"id": "rotten_tomatoes:test:11", "verdict": "ambiguous", "correct_label": "pos", "reason": "Describes the documentary's subjects, not the film; no verdict either way."}
+{"id": "rotten_tomatoes:test:989", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'but is acceptable entertainment for the entire family... especially fit for the kiddies' carries a mild positive verdict."}
+{"id": "rotten_tomatoes:test:281", "verdict": "gold_wrong", "correct_label": "neg", "reason": "'missteps... send it down the path of the mundane' is negative."}
+{"id": "rotten_tomatoes:test:633", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'an encouraging effort' is praise."}
+{"id": "rotten_tomatoes:test:602", "verdict": "jev_wrong", "correct_label": "neg", "reason": "'no one gets shut out of the hug cycle' mocks the film's sentimentality."}
+{"id": "rotten_tomatoes:test:536", "verdict": "ambiguous", "correct_label": "neg", "reason": "'densest distillation of Roberts' movies' could be admiring or dismissive of formula."}
+{"id": "rotten_tomatoes:test:960", "verdict": "ambiguous", "correct_label": "neg", "reason": "Snarky ('keep men alert, if not amused') but acknowledges appeal; mixed."}
+{"id": "rotten_tomatoes:test:370", "verdict": "ambiguous", "correct_label": "pos", "reason": "'Pootie Tang with a budget. sa da tay!' is playful; reads as affectionate but Pootie Tang comparisons can be pans."}
+{"id": "rotten_tomatoes:test:285", "verdict": "ambiguous", "correct_label": "pos", "reason": "Describes what the satire does; 'not particularly flattering' refers to America, not the film; no clear verdict."}
+{"id": "rotten_tomatoes:test:609", "verdict": "ambiguous", "correct_label": "neg", "reason": "'not really as bad as you might think' is faint praise that can go either way."}
+{"id": "rotten_tomatoes:test:219", "verdict": "ambiguous", "correct_label": "neg", "reason": "'story is almost an afterthought' leans critical but could describe a visual feast."}
+{"id": "rotten_tomatoes:test:1014", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'still, the updated dickensian sensibility... is appealing' carries the verdict after the caveat."}
+{"id": "rotten_tomatoes:test:340", "verdict": "gold_wrong", "correct_label": "neg", "reason": "'but he does not give the transcendent performance sonny needs' carries a negative verdict."}
+{"id": "rotten_tomatoes:test:732", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'but supremely good natured' is the final, positive verdict after 'too daft by half'."}
+{"id": "rotten_tomatoes:test:506", "verdict": "ambiguous", "correct_label": "neg", "reason": "'your children will be occupied for 72 minutes' is faint praise or a backhanded dismissal."}
+{"id": "rotten_tomatoes:test:276", "verdict": "ambiguous", "correct_label": "pos", "reason": "'worked for me right up to the final scene, and then it caved in' is mixed; either label defensible."}
+{"id": "rotten_tomatoes:test:50", "verdict": "jev_wrong", "correct_label": "pos", "reason": "'works because...' is an explicit positive verdict."}
+{"id": "rotten_tomatoes:test:21", "verdict": "ambiguous", "correct_label": "neg", "reason": "'risks trivializing it' is critical but hedged and followed by a charitable clause about intent."}
+{"id": "rotten_tomatoes:test:167", "verdict": "jev_wrong", "correct_label": "pos", "reason": "'this engaging and literate psychodrama' praises the film; the pessimism is about audiences."}
+{"id": "rotten_tomatoes:test:256", "verdict": "ambiguous", "correct_label": "pos", "reason": "Comparison fails to 'catch the intensity of the movie's strangeness'; could be admiring or baffled."}
+{"id": "rotten_tomatoes:test:819", "verdict": "ambiguous", "correct_label": "neg", "reason": "'but beneath the exotic surface it's surprisingly old-fashioned' leans negative but is mild."}
+{"id": "rotten_tomatoes:test:209", "verdict": "ambiguous", "correct_label": "neg", "reason": "Joke about a 100-year-old hitting on a 15-year-old is snark that could accompany either verdict."}
+{"id": "rotten_tomatoes:test:186", "verdict": "ambiguous", "correct_label": "neg", "reason": "'comes perilously close to being too bleak' is a criticism of a film also called well-acted; mixed."}
+{"id": "rotten_tomatoes:test:14", "verdict": "ambiguous", "correct_label": "neg", "reason": "'at its worst pretty diverting; the pity is it rarely achieves its best' is mixed."}
+{"id": "rotten_tomatoes:test:548", "verdict": "ambiguous", "correct_label": "pos", "reason": "'great for the kids' but 'parents will be ahead of the plot'; truncated mixed review."}
+{"id": "rotten_tomatoes:test:116", "verdict": "ambiguous", "correct_label": "neg", "reason": "Explicitly undecided between admiration and exasperation ('or both')."}

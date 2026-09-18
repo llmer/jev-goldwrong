@@ -1,0 +1,16 @@
+{"id": "trec:test:190", "verdict": "gold_wrong", "correct_label": "NUM", "reason": "A sales tax rate is a percentage (NUM:percent); it is not an entity."}
+{"id": "trec:test:319", "verdict": "ambiguous", "correct_label": "LOC", "reason": "TREC consistently files celestial bodies under LOC:other so gold follows convention, but a star is not a place in ordinary usage and ENTY is defensible."}
+{"id": "trec:test:492", "verdict": "ambiguous", "correct_label": "ENTY", "reason": "TREC has an ENTY:techmeth class for 'what is the best way to X' questions, so gold is by convention, but the answer is a procedure and DESC:manner is a fair reading."}
+{"id": "trec:test:249", "verdict": "gold_wrong", "correct_label": "DESC", "reason": "The answer is a description of a threshold (e.g. visual acuity of 20/200 or worse), i.e. a definition/description, not an entity."}
+{"id": "trec:test:307", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "Planets are places and TREC labels planet questions LOC:other; gold is defensible and follows the dataset convention."}
+{"id": "trec:test:291", "verdict": "gold_wrong", "correct_label": "DESC", "reason": "'What is X?' asks for a definition of the disease, which is DESC:def, not an entity."}
+{"id": "trec:test:255", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "Answer is Mars, a place, and TREC consistently labels planets LOC:other."}
+{"id": "trec:test:293", "verdict": "jev_wrong", "correct_label": "ENTY", "reason": "'What do you call ...' asks for a term ('cartographer'), an ENTY:termeq, not a specific person or group."}
+{"id": "trec:test:245", "verdict": "ambiguous", "correct_label": "LOC", "reason": "A named bridge is a place/structure (TREC puts buildings and structures under LOC:other), but it is also reasonably an entity; both defensible."}
+{"id": "trec:test:99", "verdict": "gold_wrong", "correct_label": "NUM", "reason": "The longest winning streak is answered with a count of games (NUM:count), not an entity."}
+{"id": "trec:test:127", "verdict": "ambiguous", "correct_label": "NUM", "reason": "'summer' is a time-of-year, which TREC treats as temporal (NUM:date), but a season name is also reasonably an entity; both defensible."}
+{"id": "trec:test:94", "verdict": "jev_wrong", "correct_label": "HUM", "reason": "A university is an organization, which TREC labels HUM:gr; gold is correct by the dataset's convention."}
+{"id": "trec:test:109", "verdict": "ambiguous", "correct_label": "LOC", "reason": "A named dam is a structure at a location (TREC LOC:other) but is also arguably an entity; both defensible."}
+{"id": "trec:test:460", "verdict": "jev_wrong", "correct_label": "HUM", "reason": "The expected answer (Rainbow Coalition / Operation PUSH) is an organization, HUM:gr; gold is defensible."}
+{"id": "trec:test:6", "verdict": "jev_wrong", "correct_label": "HUM", "reason": "A baseball team is a group/organization, which TREC labels HUM:gr; gold is defensible."}
+{"id": "trec:test:138", "verdict": "ambiguous", "correct_label": "ENTY", "reason": "The answer ('center fielder') is a role/position, which TREC sometimes files under HUM:title, but it is not a person or group so ENTY is at least as defensible."}

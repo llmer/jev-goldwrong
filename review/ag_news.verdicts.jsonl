@@ -1,0 +1,100 @@
+{"id": "ag_news:test:3070", "verdict": "ambiguous", "correct_label": "World", "reason": "Presidential campaign sparring over tax cuts is politics-meets-economy; World and Business both defensible."}
+{"id": "ag_news:test:3746", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "World Cup qualifier match report is plainly Sports, not World."}
+{"id": "ag_news:test:6259", "verdict": "ambiguous", "correct_label": "Business", "reason": "Tech-company joint venture (anti-piracy software) with EU antitrust angle sits between Business and Sci/Tech."}
+{"id": "ag_news:test:6500", "verdict": "ambiguous", "correct_label": "World", "reason": "Tsunami death toll and social impact read as World, but earthquake shockwave framing is defensible as Sci/Tech."}
+{"id": "ag_news:test:6835", "verdict": "gold_wrong", "correct_label": "World", "reason": "ACLU FOIA requests about FBI surveillance of activists is civil-liberties/politics news with no technology content."}
+{"id": "ag_news:test:4789", "verdict": "ambiguous", "correct_label": "Business", "reason": "PC maker quarterly earnings are tech-company results; Business and Sci/Tech both defensible."}
+{"id": "ag_news:test:1098", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "Olympic medal standings analysis belongs in Sports, not Sci/Tech."}
+{"id": "ag_news:test:2491", "verdict": "gold_wrong", "correct_label": "Sci/Tech", "reason": "Medical research on gender differences in disease is science/health, not World."}
+{"id": "ag_news:test:1539", "verdict": "ambiguous", "correct_label": "World", "reason": "UK Chancellor fighting for the EU budget rebate is politics-meets-economy."}
+{"id": "ag_news:test:3563", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "Obituary of an NL MVP baseball player is a Sports story."}
+{"id": "ag_news:test:2805", "verdict": "ambiguous", "correct_label": "Business", "reason": "IBM pension class-action settlement is a tech-company lawsuit; Business fits better but Sci/Tech is the dataset's usual bucket for IBM."}
+{"id": "ag_news:test:1072", "verdict": "jev_wrong", "correct_label": "Sci/Tech", "reason": "Story is about the use of SMS alert technology by protesters, a legitimate Sci/Tech angle; World is not clearly better."}
+{"id": "ag_news:test:7068", "verdict": "ambiguous", "correct_label": "Business", "reason": "Telecom merger talks sit between Business and Sci/Tech."}
+{"id": "ag_news:test:7238", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "Bangladesh cricket coach defending Test status is Sports, not World."}
+{"id": "ag_news:test:5555", "verdict": "ambiguous", "correct_label": "Business", "reason": "Profile of PC maker Lenovo buying IBM's PC unit is a tech-company deal story."}
+{"id": "ag_news:test:626", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "Olympic basketball quarterfinal score is Sports, not World."}
+{"id": "ag_news:test:6080", "verdict": "gold_wrong", "correct_label": "World", "reason": "Crime-lab misconduct affecting criminal cases is a justice/news story, not Sci/Tech."}
+{"id": "ag_news:test:2944", "verdict": "gold_wrong", "correct_label": "Business", "reason": "Stock market wrap-up on economic data is Business, not World."}
+{"id": "ag_news:test:7228", "verdict": "gold_wrong", "correct_label": "World", "reason": "Indonesian president instructing diplomats is pure politics, not Business."}
+{"id": "ag_news:test:6593", "verdict": "ambiguous", "correct_label": "World", "reason": "Cabinet nomination of a CEO as commerce secretary mixes politics and business."}
+{"id": "ag_news:test:3662", "verdict": "gold_wrong", "correct_label": "Business", "reason": "Stocks-lower-on-oil-and-earnings market report is Business, not World."}
+{"id": "ag_news:test:4323", "verdict": "ambiguous", "correct_label": "Business", "reason": "Amazon and Google quarterly results are tech-company earnings."}
+{"id": "ag_news:test:1919", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Hurricane forecasting is meteorology (Sci/Tech) but the disaster impact framing also supports World."}
+{"id": "ag_news:test:727", "verdict": "gold_wrong", "correct_label": "Business", "reason": "A utility's Tokyo Stock Exchange IPO is Business, not World."}
+{"id": "ag_news:test:1051", "verdict": "gold_wrong", "correct_label": "Sci/Tech", "reason": "A caller-ID spoofing software service is a technology story, not Business."}
+{"id": "ag_news:test:6282", "verdict": "ambiguous", "correct_label": "Business", "reason": "Executive appointment at a software company sits between Business and Sci/Tech."}
+{"id": "ag_news:test:3115", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Telecom unified-messaging product launch is defensible as either a tech product or a company business story."}
+{"id": "ag_news:test:1533", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "Champions Trophy cricket match report is Sports, not World."}
+{"id": "ag_news:test:2656", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "NFL game report is Sports, not World."}
+{"id": "ag_news:test:2771", "verdict": "ambiguous", "correct_label": "World", "reason": "Martha Stewart prison assignment is a crime/news story rooted in a business-fraud case; both defensible."}
+{"id": "ag_news:test:2555", "verdict": "ambiguous", "correct_label": "Business", "reason": "Biotech CEO profile on finance and science fits both Business and Sci/Tech."}
+{"id": "ag_news:test:1775", "verdict": "ambiguous", "correct_label": "World", "reason": "Hurricane port closures are news but Gulf port shutdowns are also a shipping/energy business story."}
+{"id": "ag_news:test:6705", "verdict": "ambiguous", "correct_label": "World", "reason": "EU legal action over Greek deficit bookkeeping is politics-meets-economy."}
+{"id": "ag_news:test:1976", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "Paralympics opening ceremony is Sports, not World."}
+{"id": "ag_news:test:3129", "verdict": "ambiguous", "correct_label": "Business", "reason": "PeopleSoft revenue guidance is tech-company earnings."}
+{"id": "ag_news:test:6247", "verdict": "gold_wrong", "correct_label": "Business", "reason": "Pre-market share move after a withdrawn takeover bid for an aerospace/real-estate firm is a stock story, not Sci/Tech."}
+{"id": "ag_news:test:2598", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Semiconductor supply partnership is both a components tech story and a corporate deal."}
+{"id": "ag_news:test:3063", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "NFL record win and round-up is Sports, not World."}
+{"id": "ag_news:test:2971", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Vioxx withdrawal is a Merck business event but the text centers on clinical-trial health findings."}
+{"id": "ag_news:test:6992", "verdict": "ambiguous", "correct_label": "Business", "reason": "Nortel financial restatement delay is a tech-company financial story."}
+{"id": "ag_news:test:6509", "verdict": "ambiguous", "correct_label": "Business", "reason": "Yukos collapse is a Russian political affair as much as a corporate one."}
+{"id": "ag_news:test:6313", "verdict": "ambiguous", "correct_label": "Business", "reason": "Telecom job cuts after a merger sit between Business and Sci/Tech."}
+{"id": "ag_news:test:4268", "verdict": "ambiguous", "correct_label": "Business", "reason": "Microsoft quarterly revenue is tech-company earnings."}
+{"id": "ag_news:test:4734", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "Cricket Test match report is Sports, not World."}
+{"id": "ag_news:test:3581", "verdict": "gold_wrong", "correct_label": "Business", "reason": "Crude oil price hitting an intraday high is a commodities market story, Business not World."}
+{"id": "ag_news:test:2017", "verdict": "gold_wrong", "correct_label": "World", "reason": "Hurricane Ivan clean-up in Florida and Alabama is general news, not Business."}
+{"id": "ag_news:test:5357", "verdict": "ambiguous", "correct_label": "World", "reason": "Australian drinking-water crisis is environment (Sci/Tech) and national news (World)."}
+{"id": "ag_news:test:5433", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Northrop-Boeing teaming to design a moon vehicle is both a space-tech and a contractor business story."}
+{"id": "ag_news:test:5180", "verdict": "jev_wrong", "correct_label": "Sci/Tech", "reason": "E-voting machine malfunctions losing votes is a classic technology story; Sci/Tech is defensible."}
+{"id": "ag_news:test:2579", "verdict": "ambiguous", "correct_label": "World", "reason": "Text alone shows a Supreme Court hearing on Zee Telefilms' rights; only context reveals the cricket broadcast dispute, so Sports and World both defensible."}
+{"id": "ag_news:test:946", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Internet-grooming laws are both a cybercrime tech story and parliamentary news."}
+{"id": "ag_news:test:5114", "verdict": "gold_wrong", "correct_label": "World", "reason": "Locust crop damage in Mauritania reported by the UN is African news, not Sci/Tech."}
+{"id": "ag_news:test:1074", "verdict": "ambiguous", "correct_label": "Business", "reason": "Oracle shareholder lawsuit is a tech-company legal story."}
+{"id": "ag_news:test:3453", "verdict": "gold_wrong", "correct_label": "Business", "reason": "Jobs report pushing stocks lower is a market story, Business not World."}
+{"id": "ag_news:test:2686", "verdict": "gold_wrong", "correct_label": "Business", "reason": "Consumer Confidence Index release is an economic indicator, Business not World."}
+{"id": "ag_news:test:6150", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "England vs Springboks rugby report is Sports, not World."}
+{"id": "ag_news:test:3107", "verdict": "ambiguous", "correct_label": "Business", "reason": "EU antitrust review of the Oracle-PeopleSoft bid is a tech-company merger story."}
+{"id": "ag_news:test:2247", "verdict": "gold_wrong", "correct_label": "Business", "reason": "ADB regional growth forecast is an economic-indicator story, Business not World."}
+{"id": "ag_news:test:6369", "verdict": "gold_wrong", "correct_label": "World", "reason": "TSA pat-down complaints from travelers is general/government news, not Business."}
+{"id": "ag_news:test:5233", "verdict": "ambiguous", "correct_label": "Business", "reason": "Flat-screen TV price trends and retail markups mix consumer electronics with industry business."}
+{"id": "ag_news:test:623", "verdict": "ambiguous", "correct_label": "World", "reason": "Civil servants disciplined for downloading porn is UK news with an internet-misuse angle; both defensible."}
+{"id": "ag_news:test:6140", "verdict": "jev_wrong", "correct_label": "Sci/Tech", "reason": "Earthquake shifting islands by metres is geoscience; Sci/Tech is defensible and World not clearly better."}
+{"id": "ag_news:test:6320", "verdict": "ambiguous", "correct_label": "Business", "reason": "Telecom job cuts after a merger sit between Business and Sci/Tech."}
+{"id": "ag_news:test:2028", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "Ryder Cup golf report is Sports, not World."}
+{"id": "ag_news:test:4451", "verdict": "ambiguous", "correct_label": "Business", "reason": "FCC approval of the Cingular-AT&T Wireless merger is a telecom merger story."}
+{"id": "ag_news:test:4148", "verdict": "ambiguous", "correct_label": "Business", "reason": "Motorola quarterly earnings are tech-company results."}
+{"id": "ag_news:test:1373", "verdict": "gold_wrong", "correct_label": "Business", "reason": "Stocks reacting to Greenspan testimony is a market story, Business not World."}
+{"id": "ag_news:test:4551", "verdict": "ambiguous", "correct_label": "Business", "reason": "DOJ clearance of the Cingular-AT&T Wireless deal is a telecom merger story."}
+{"id": "ag_news:test:1884", "verdict": "ambiguous", "correct_label": "Business", "reason": "Nortel revenue warning is tech-company guidance."}
+{"id": "ag_news:test:642", "verdict": "gold_wrong", "correct_label": "World", "reason": "UN appeal for locust-control aid in Africa is World news, not Sci/Tech."}
+{"id": "ag_news:test:3180", "verdict": "ambiguous", "correct_label": "World", "reason": "Russian parliament ratifying Kyoto is climate policy: politics and science both defensible."}
+{"id": "ag_news:test:3708", "verdict": "ambiguous", "correct_label": "World", "reason": "Thai wildlife-crime enforcement is conservation (Sci/Tech) and regional news (World)."}
+{"id": "ag_news:test:1447", "verdict": "gold_wrong", "correct_label": "World", "reason": "Hurricane recovery with Bush visiting and asking Congress for aid is politics/general news, not Sci/Tech."}
+{"id": "ag_news:test:4540", "verdict": "gold_wrong", "correct_label": "World", "reason": "A beauty pageant is not a sport; Miss World in China is World news."}
+{"id": "ag_news:test:7239", "verdict": "gold_wrong", "correct_label": "Sci/Tech", "reason": "Delta 4 rocket maiden-flight delay is a space/technology story, not World."}
+{"id": "ag_news:test:4744", "verdict": "ambiguous", "correct_label": "Business", "reason": "Cingular's post-merger ad spending is a telecom business story with a tech-company subject."}
+{"id": "ag_news:test:6712", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Cingular network upgrade for high-speed data is both a technology and a telecom-company story."}
+{"id": "ag_news:test:2958", "verdict": "ambiguous", "correct_label": "Business", "reason": "DOJ declining to appeal the Oracle-PeopleSoft ruling is a tech-company merger story."}
+{"id": "ag_news:test:3775", "verdict": "gold_wrong", "correct_label": "Business", "reason": "European bourses opening-losses preview is a stock market story, Business not Sci/Tech."}
+{"id": "ag_news:test:5597", "verdict": "gold_wrong", "correct_label": "Business", "reason": "BSkyB quarterly profit rise is company earnings, Business not World."}
+{"id": "ag_news:test:7231", "verdict": "ambiguous", "correct_label": "Business", "reason": "Oracle acquiring PeopleSoft is a tech-company merger."}
+{"id": "ag_news:test:2353", "verdict": "ambiguous", "correct_label": "Business", "reason": "Take-Two video game pricing outlook mixes game tech with company business."}
+{"id": "ag_news:test:680", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Computer-based passenger screening program is government policy with a strong tech/privacy angle."}
+{"id": "ag_news:test:3741", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Qualcomm acquiring a mobile UI company is a tech acquisition; both labels defensible."}
+{"id": "ag_news:test:5145", "verdict": "gold_wrong", "correct_label": "World", "reason": "Criminal trial verdict for HIV exposure is a crime story, not Sci/Tech."}
+{"id": "ag_news:test:2062", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Consumer adoption of Time Warner Cable VoIP is a tech service story with a company business angle."}
+{"id": "ag_news:test:719", "verdict": "gold_wrong", "correct_label": "Business", "reason": "US GDP growth revision is an economic indicator, Business not World."}
+{"id": "ag_news:test:6276", "verdict": "gold_wrong", "correct_label": "Sci/Tech", "reason": "Survey of federal CISOs on patch management is IT security, not Business."}
+{"id": "ag_news:test:584", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "Olympic long jump and hurdles report is Sports, not World."}
+{"id": "ag_news:test:3702", "verdict": "ambiguous", "correct_label": "Business", "reason": "Intel quarterly earnings are tech-company results."}
+{"id": "ag_news:test:887", "verdict": "gold_wrong", "correct_label": "Sci/Tech", "reason": "Internet video's technical and piracy hurdles is a technology story, not Business."}
+{"id": "ag_news:test:989", "verdict": "ambiguous", "correct_label": "Business", "reason": "Veritas acquiring an email-archiving software firm is a tech acquisition."}
+{"id": "ag_news:test:2210", "verdict": "ambiguous", "correct_label": "Business", "reason": "Microsoft CFO acquisition outlook is tech-company corporate strategy."}
+{"id": "ag_news:test:5941", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "New Zealand cricket injury news is Sports, not World."}
+{"id": "ag_news:test:3217", "verdict": "ambiguous", "correct_label": "Business", "reason": "PeopleSoft board testimony in the Oracle takeover trial is a tech-company merger/lawsuit story."}
+{"id": "ag_news:test:2521", "verdict": "ambiguous", "correct_label": "World", "reason": "Soldiers' Iraq war blogs are both an internet-culture story and war coverage."}
+{"id": "ag_news:test:5379", "verdict": "gold_wrong", "correct_label": "Business", "reason": "Cocoa price market report from traders is a commodities story, Business not World."}
+{"id": "ag_news:test:2423", "verdict": "ambiguous", "correct_label": "World", "reason": "Headline frames the internet as a terrorist tool but the lead is entirely about the Iraq hostage crisis."}
+{"id": "ag_news:test:3747", "verdict": "gold_wrong", "correct_label": "Business", "reason": "Ahold executives barred over a US fraud settlement is corporate news, Business not World."}
+{"id": "ag_news:test:4580", "verdict": "gold_wrong", "correct_label": "Sci/Tech", "reason": "Vendors backing Microsoft Live Communications Server is enterprise software news, not Business."}

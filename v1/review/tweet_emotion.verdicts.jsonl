@@ -1,0 +1,50 @@
+{"id": "tweet_emotion:test:671", "verdict": "ambiguous", "correct_label": "sadness", "reason": "Hypochondriac worry about coping; distress fits sadness better, but exasperation ('how the jeff') keeps anger defensible."}
+{"id": "tweet_emotion:test:1163", "verdict": "ambiguous", "correct_label": "anger", "reason": "Snide remark about a 'dark individual' is mild contempt (anger) but could be read as gloomy commentary."}
+{"id": "tweet_emotion:test:44", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Guilty \ud83d\ude26 about procrastinating with no anger; the frown makes sadness the closest label."}
+{"id": "tweet_emotion:test:789", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Roleplay line with a chest poke and 'a low snarl' is anger, not sadness."}
+{"id": "tweet_emotion:test:768", "verdict": "ambiguous", "correct_label": "sadness", "reason": "Anticipating a trip (optimism) but '#alone' and \ud83d\udc40 suggest apprehension; both readings are defensible."}
+{"id": "tweet_emotion:test:999", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'music to my ears \ud83d\ude2d\u2764\ufe0f #missedyou' are happy tears at a reunion; the \ud83d\ude2d was misread as sadness."}
+{"id": "tweet_emotion:test:952", "verdict": "ambiguous", "correct_label": "sadness", "reason": "Opens with 'Im terrific thanks' but dwells on a 'crushing defeat' and dejection; mixed emotions."}
+{"id": "tweet_emotion:test:745", "verdict": "ambiguous", "correct_label": "sadness", "reason": "Dread that a showrunner will ruin a season mixes fear/sadness with annoyance at him."}
+{"id": "tweet_emotion:test:1231", "verdict": "ambiguous", "correct_label": "anger", "reason": "Self-deprecating \ud83d\ude05 about kids testing patience; mild annoyance, humour and worry are all present."}
+{"id": "tweet_emotion:test:192", "verdict": "gold_wrong", "correct_label": "joy", "reason": "A sarcastic joke about not intimidating other women; there is no hope or encouragement, only humour."}
+{"id": "tweet_emotion:test:775", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Quoted news line about viewers expressing 'displeasure' at the FCC; the only emotion referenced is anger, none is sadness."}
+{"id": "tweet_emotion:test:194", "verdict": "ambiguous", "correct_label": "optimism", "reason": "Condemns terrorism as cowardice (anger) but ends with 'Let's unite ... Luv all' (encouragement)."}
+{"id": "tweet_emotion:test:453", "verdict": "ambiguous", "correct_label": "anger", "reason": "Contemptuous of Love Island tweeters (anger) yet phrased as a wistful 'world would be better' lament with #dull."}
+{"id": "tweet_emotion:test:696", "verdict": "ambiguous", "correct_label": "sadness", "reason": "Comic dread of working at McDonald's on French Fry Day; fear is not a label and neither anger nor sadness fits well."}
+{"id": "tweet_emotion:test:70", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "The punchline explicitly denies hating authority and states that authority figures terrify the speaker (#SocialAnxiety); anxiety is closest to sadness, not anger."}
+{"id": "tweet_emotion:test:861", "verdict": "ambiguous", "correct_label": "anger", "reason": "':/ #crap' about forgetting the massaging seats is mild annoyance shading into regret."}
+{"id": "tweet_emotion:test:392", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Sneering at an 'attention seeker' journalist is contempt, not joy."}
+{"id": "tweet_emotion:test:71", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Snide advice to 'improve on the makeup' to avoid losing viewers is a put-down; nothing sad about it."}
+{"id": "tweet_emotion:test:1069", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Defiant refusal to give someone 'satisfaction' is resentment/defiance, not hope or encouragement."}
+{"id": "tweet_emotion:test:926", "verdict": "ambiguous", "correct_label": "anger", "reason": "Bitterness that people enjoy others' misery blends resentment with sadness."}
+{"id": "tweet_emotion:test:185", "verdict": "jev_wrong", "correct_label": "anger", "reason": "Exasperation that people argue about a stabbing victim's body; the 'hehehee' is derisive, not joyful."}
+{"id": "tweet_emotion:test:200", "verdict": "gold_wrong", "correct_label": "optimism", "reason": "'Let not your heart be troubled' with #peace is reassurance/encouragement, which the guidelines assign to optimism."}
+{"id": "tweet_emotion:test:517", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Accusing Merkel of backing 'terror initiatives' is condemnation, not sadness."}
+{"id": "tweet_emotion:test:1362", "verdict": "gold_wrong", "correct_label": "anger", "reason": "'Sorry to burst your bubble' is a dismissive rebuke; there is no sadness."}
+{"id": "tweet_emotion:test:799", "verdict": "ambiguous", "correct_label": "joy", "reason": "\ud83d\ude02\ud83d\ude02\ud83d\ude02 disbelief could be amusement (joy) or mocking incredulity (anger)."}
+{"id": "tweet_emotion:test:751", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'im obsessed \ud83e\udd13' about binge-watching a show is joy; the show title 'revenge' likely triggered the anger label."}
+{"id": "tweet_emotion:test:1142", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Celebrating a sobriety milestone with '!!!!' is joy/pride, not sadness."}
+{"id": "tweet_emotion:test:1041", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'my pout was actually serious' describes sulking, not optimism."}
+{"id": "tweet_emotion:test:1388", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "A practical weather notice for pickers; the only emotional cue is 'dreary', so joy is unsupported."}
+{"id": "tweet_emotion:test:1364", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Cheerful agreement 'wear whatever the hell you want! \ud83d\ude05'; no anger."}
+{"id": "tweet_emotion:test:77", "verdict": "ambiguous", "correct_label": "joy", "reason": "Gratitude for a partnership is joy, but '#inspiring' supports optimism too."}
+{"id": "tweet_emotion:test:195", "verdict": "ambiguous", "correct_label": "optimism", "reason": "'God bless him' is a well-wish (hope) that can also be read as warm joy."}
+{"id": "tweet_emotion:test:466", "verdict": "ambiguous", "correct_label": "anger", "reason": "Annoyance at a bully's behaviour (anger) alongside \ud83d\ude1e\ud83d\ude11 (sadness/weariness)."}
+{"id": "tweet_emotion:test:615", "verdict": "gold_wrong", "correct_label": "anger", "reason": "'Sort it out' is a curt demand/complaint; nothing optimistic."}
+{"id": "tweet_emotion:test:1155", "verdict": "ambiguous", "correct_label": "joy", "reason": "\ud83d\ude02 football banter is amused mockery; joy and anger are both defensible."}
+{"id": "tweet_emotion:test:533", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Gratitude for an 'amazing' rodeo family is joy, not anger ('shocking' is used positively)."}
+{"id": "tweet_emotion:test:395", "verdict": "jev_wrong", "correct_label": "joy", "reason": "Happily accepting pizza and refusing to fight the 'hypocrisy' is playful joy, not anger."}
+{"id": "tweet_emotion:test:1340", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Outrage at pilgrims being killed with sarcastic 'Thanks!' at the PMO is anger, not sadness."}
+{"id": "tweet_emotion:test:496", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Wistful frustration over wanting to dye hair after growing dye out; no hope or encouragement."}
+{"id": "tweet_emotion:test:687", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'trying so hard not to smile or laugh' while the 'inner fujoshi was screaming' is delight, not sadness."}
+{"id": "tweet_emotion:test:1160", "verdict": "gold_wrong", "correct_label": "joy", "reason": "A \ud83e\udd23 innuendo joke is amusement, not sadness."}
+{"id": "tweet_emotion:test:1337", "verdict": "gold_wrong", "correct_label": "anger", "reason": "'Why does no one in my life ever look at a map??' is comic exasperation (annoyance), not sadness."}
+{"id": "tweet_emotion:test:1201", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'Always a #worry' with \ud83d\ude32 is apprehension, but '#great #short #story' praise leaves the tone unclear."}
+{"id": "tweet_emotion:test:1169", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Sarcastic 'thank you' and 'Do not look directly at the sun! #bad' mock Trump; neither optimism nor joy fits."}
+{"id": "tweet_emotion:test:910", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Cynical complaint that everyone abuses the word 'terror' for their own purpose; no sadness cue."}
+{"id": "tweet_emotion:test:189", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Playful \ud83d\ude02 exchange with a friend; 'disappointed' is a joke, not sadness."}
+{"id": "tweet_emotion:test:1063", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'im flourishing' in gloomy weather is joy; the word 'gloomy' likely triggered sadness."}
+{"id": "tweet_emotion:test:341", "verdict": "gold_wrong", "correct_label": "optimism", "reason": "'don't be afraid' about speaking in tongues is encouragement, not anger."}
+{"id": "tweet_emotion:test:204", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Impatiently correcting people ('look at the top left of the snap people') is annoyance, not joy."}
+{"id": "tweet_emotion:test:170", "verdict": "ambiguous", "correct_label": "anger", "reason": "Teasing 'you have not been the perfect patient like I was #dread' could be mild jibe or apprehension."}

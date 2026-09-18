@@ -1,0 +1,50 @@
+{"id": "sms_spam:train:4773", "verdict": "ambiguous", "correct_label": "spam", "reason": "Automated fullonsms.com notification that doubles as an unsolicited advert for the service; not personal, but triggered by a contact's action."}
+{"id": "sms_spam:train:44", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Personal sexting between partners with no number, link or offer; explicit content is not spam."}
+{"id": "sms_spam:train:1857", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Religious chain message forwarded person-to-person; no commercial or scam element."}
+{"id": "sms_spam:train:2813", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Duplicate of the religious chain forward; personal chain messages are ham in this corpus."}
+{"id": "sms_spam:train:3227", "verdict": "jev_wrong", "correct_label": "ham", "reason": "'Rose for red' friendship chain forward; personal, no commercial content."}
+{"id": "sms_spam:train:3532", "verdict": "jev_wrong", "correct_label": "ham", "reason": "One-line personal sexual tease with no CTA, link or number."}
+{"id": "sms_spam:train:4222", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Hoax warning forwarded between friends about SIM-card 'terrorists'; misinformation but not commercial spam."}
+{"id": "sms_spam:train:2619", "verdict": "jev_wrong", "correct_label": "ham", "reason": "'Hey pple' message to friends comparing hotel prices for a trip; personal planning, not an advert."}
+{"id": "sms_spam:train:4213", "verdict": "ambiguous", "correct_label": "spam", "reason": "Reads like a network missed-call alert, but the 070 personal-number callback is the classic UK missed-call scam pattern; gold defensible."}
+{"id": "sms_spam:train:1430", "verdict": "gold_wrong", "correct_label": "ham", "reason": "'Arsenal dartboard... no doubles or trebles' is a football joke shared between friends; no offer, number or link."}
+{"id": "sms_spam:train:4911", "verdict": "jev_wrong", "correct_label": "ham", "reason": "NHS 'you were never actually born' is a joke forwarded between friends, not a scam or advert."}
+{"id": "sms_spam:train:3035", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Personal sexual tease from the same conversation as other partner texts; no CTA or service."}
+{"id": "sms_spam:train:2379", "verdict": "ambiguous", "correct_label": "spam", "reason": "Duplicate fullonsms.com contact-list notification that advertises the service; automated marketing, not clearly a scam."}
+{"id": "sms_spam:train:5372", "verdict": "gold_wrong", "correct_label": "ham", "reason": "A person complaining about receiving dating spam after texting a radio station; this is the victim's own message, not spam."}
+{"id": "sms_spam:train:5361", "verdict": "jev_wrong", "correct_label": "ham", "reason": "'Face astrology' pick-a-number game sent to a friend; personal chain game."}
+{"id": "sms_spam:train:3798", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Onion/petrol/beer price joke forwarded between friends; no commercial element."}
+{"id": "sms_spam:train:1680", "verdict": "jev_wrong", "correct_label": "ham", "reason": "'Song dedicated day' chain between friends; personal."}
+{"id": "sms_spam:train:2204", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Personal sexting ('princess') with no link, number or offer."}
+{"id": "sms_spam:train:4729", "verdict": "ambiguous", "correct_label": "spam", "reason": "Automated INDYAROCKS.COM notification pushing a free-SMS service with an opt-out; unsolicited service marketing rather than a personal note."}
+{"id": "sms_spam:train:1260", "verdict": "ambiguous", "correct_label": "ham", "reason": "Recruiter saying a job description was emailed; plausibly a reply to an application (ham) or unsolicited recruiting blast (spam)."}
+{"id": "sms_spam:train:4977", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Personal flirtation thanking someone for pictures; no commercial content."}
+{"id": "sms_spam:train:425", "verdict": "jev_wrong", "correct_label": "ham", "reason": "'How is my speaking expression' chain game sent to friends; personal."}
+{"id": "sms_spam:train:1506", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Friend suggesting a Google search for free software; personal tip, not an advert."}
+{"id": "sms_spam:train:3799", "verdict": "jev_wrong", "correct_label": "ham", "reason": "'Feb is I LOVE U day' chain forward between friends; personal."}
+{"id": "sms_spam:train:3805", "verdict": "jev_wrong", "correct_label": "ham", "reason": "'No dude, its not fake' is a friend replying in conversation about a referral scheme; conversational, not a blast."}
+{"id": "sms_spam:train:68", "verdict": "gold_wrong", "correct_label": "ham", "reason": "'Divorce Barbie' is a joke between friends with no number, link or offer; nothing spam-like in the content."}
+{"id": "sms_spam:train:2701", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Duplicate 'I LOVE U day' chain forward; personal."}
+{"id": "sms_spam:train:1077", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Person asking where to download movies; a question, not an advert."}
+{"id": "sms_spam:train:2526", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Duplicate religious chain forward; personal."}
+{"id": "sms_spam:train:2907", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Good-morning greeting forward; personal."}
+{"id": "sms_spam:train:4914", "verdict": "gold_wrong", "correct_label": "ham", "reason": "Live football score update from a subscribed alert service; no offer, premium number or scam, so ham under the opted-in rule."}
+{"id": "sms_spam:train:714", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Conversational advice about sending money via a dorm account; personal reply, not a scam blast."}
+{"id": "sms_spam:train:55", "verdict": "gold_wrong", "correct_label": "spam", "reason": "'Do you know what Mallika Sherawat did yesterday? Find out now @ URL' is a clickbait promotional template, not a personal message."}
+{"id": "sms_spam:train:2503", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Personal message about a friend Ola and a car-shipping partnership; conversational, addressed to a known recipient."}
+{"id": "sms_spam:train:2774", "verdict": "gold_wrong", "correct_label": "ham", "reason": "A one-liner joke about teenagers staying out all night; no commercial or scam content."}
+{"id": "sms_spam:train:2545", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Shoranur-incident solidarity chain forward; activist chain, not commercial."}
+{"id": "sms_spam:train:852", "verdict": "jev_wrong", "correct_label": "ham", "reason": "'I am real, baby' personal flirt from the same sexting thread; no link or number."}
+{"id": "sms_spam:train:2764", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Duplicate religious chain forward; personal."}
+{"id": "sms_spam:train:2833", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Someone explaining an email address is hotmail.com; conversational."}
+{"id": "sms_spam:train:2777", "verdict": "jev_wrong", "correct_label": "ham", "reason": "'Send me your id and password' between acquaintances; terse personal request with no scam framing."}
+{"id": "sms_spam:train:1638", "verdict": "gold_wrong", "correct_label": "ham", "reason": "Signed personal note (B. G.) discussing how networks bill for SMS; a conversation about spam, not spam."}
+{"id": "sms_spam:train:3360", "verdict": "ambiguous", "correct_label": "spam", "reason": "Reads as a personal 'sorry I missed your call' but directs to an 070 number, the classic callback-scam pattern; both labels defensible."}
+{"id": "sms_spam:train:5389", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Explicit personal sexting; no service, link or number."}
+{"id": "sms_spam:train:883", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Personal flirtation about massages; no commercial content."}
+{"id": "sms_spam:train:2065", "verdict": "jev_wrong", "correct_label": "ham", "reason": "'Give me one color' chain game sent to contacts; personal."}
+{"id": "sms_spam:train:5131", "verdict": "jev_wrong", "correct_label": "ham", "reason": "Duplicate 'Rose for red' chain forward; personal."}
+{"id": "sms_spam:train:751", "verdict": "gold_wrong", "correct_label": "ham", "reason": "Joke about old ladies with tattoos; no offer, number or link, nothing spam-like."}
+{"id": "sms_spam:train:5046", "verdict": "ambiguous", "correct_label": "ham", "reason": "Duplicate recruiter JD notice; could be a solicited follow-up or an unsolicited recruiting blast."}
+{"id": "sms_spam:train:3017", "verdict": "jev_wrong", "correct_label": "ham", "reason": "New-year greeting listing every holiday, signed 'your's Raj'; personal forward."}
+{"id": "sms_spam:train:3610", "verdict": "jev_wrong", "correct_label": "ham", "reason": "IQ riddle sent to a friend; personal."}

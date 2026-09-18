@@ -1,0 +1,13 @@
+{"id": "trec:test:280", "verdict": "ambiguous", "correct_label": "ENTY", "reason": "The answer is a body part (TREC ENTY:body), but the 'Where' framing makes LOC:other defensible under TREC practice."}
+{"id": "trec:test:291", "verdict": "gold_wrong", "correct_label": "DESC", "reason": "'What is X?' asking for a definition of a disease is a DESC definition question by TREC convention, not a request for an entity."}
+{"id": "trec:test:294", "verdict": "jev_wrong", "correct_label": "DESC", "reason": "'What are Aborigines?' asks for a definition (DESC:def); HUM would apply only if a person or group were the requested answer."}
+{"id": "trec:test:293", "verdict": "jev_wrong", "correct_label": "ENTY", "reason": "'What do you call ...' asks for a term/word (TREC ENTY:termeq), which is the gold convention; HUM is wrong."}
+{"id": "trec:test:298", "verdict": "jev_wrong", "correct_label": "ENTY", "reason": "The answer is a thing ('atmospheric pressure'), an entity, not a description or explanation."}
+{"id": "trec:test:425", "verdict": "ambiguous", "correct_label": "LOC", "reason": "Lindisfarne is a place as much as an institution; LOC is natural, but TREC's ENTY:other for named buildings/institutions is defensible."}
+{"id": "trec:test:322", "verdict": "jev_wrong", "correct_label": "ABBR", "reason": "TMJ is an abbreviation and 'What is <acronym>?' asks for its expansion (ABBR:exp), a core TREC convention."}
+{"id": "trec:test:249", "verdict": "ambiguous", "correct_label": "DESC", "reason": "A criterion is answered by a descriptive definition (20/200 visual acuity), so DESC fits best, but TREC's ENTY:other for 'what is the criterion' is defensible."}
+{"id": "trec:test:135", "verdict": "ambiguous", "correct_label": "LOC", "reason": "A named fault line is a geographic feature, so LOC:other fits well, but TREC often files such named things under ENTY:other."}
+{"id": "trec:test:492", "verdict": "jev_wrong", "correct_label": "ENTY", "reason": "Asking for a way/method is ENTY:techmeth by TREC convention, which the gold follows; DESC:manner is the trap jev fell into."}
+{"id": "trec:test:223", "verdict": "gold_wrong", "correct_label": "NUM", "reason": "The expected answer is a numeric measurement (220 volts / 50 Hz), so NUM is right and ENTY does not fit."}
+{"id": "trec:test:460", "verdict": "jev_wrong", "correct_label": "HUM", "reason": "The answer is an organization (Rainbow Coalition / Operation PUSH), which TREC files under HUM:gr; the gold follows that convention."}
+{"id": "trec:test:190", "verdict": "gold_wrong", "correct_label": "NUM", "reason": "The answer is a percentage (6.5%), a clear NUM:perc, not an entity."}

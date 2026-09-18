@@ -1,0 +1,50 @@
+{"id": "tweet_offensive:test:727", "verdict": "gold_wrong", "correct_label": "offensive", "reason": "Calls a political group 'thugs', a targeted group insult under OffensEval."}
+{"id": "tweet_offensive:test:805", "verdict": "gold_wrong", "correct_label": "offensive", "reason": "'Titty.' is a vulgar/profane term, which OffensEval counts as offensive even untargeted."}
+{"id": "tweet_offensive:test:96", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Partisan challenge with no profanity, insult or threat."}
+{"id": "tweet_offensive:test:69", "verdict": "gold_wrong", "correct_label": "offensive", "reason": "Accuses the target of murders and says 'THE PAIN IS COMING ... Hope they televise your demise' - an explicit wish for the target's death."}
+{"id": "tweet_offensive:test:197", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Political slogan tweet; 'cronies' and 'madness' are mild rhetoric, not profanity or a targeted insult."}
+{"id": "tweet_offensive:test:13", "verdict": "gold_wrong", "correct_label": "offensive", "reason": "The pun's intended reading calls conservatives disgusting, an insult aimed at a group."}
+{"id": "tweet_offensive:test:223", "verdict": "gold_wrong", "correct_label": "offensive", "reason": "'time for her to load the Webley' suggests Theresa May should shoot herself, a veiled incitement to self-harm."}
+{"id": "tweet_offensive:test:42", "verdict": "ambiguous", "correct_label": "non-offensive", "reason": "'sucks' aimed at a game is very mild slang; annotators split on whether it counts as profanity."}
+{"id": "tweet_offensive:test:672", "verdict": "ambiguous", "correct_label": "non-offensive", "reason": "'Poison everything they touch' is harsh political criticism of a party but contains no slur, profanity or personal insult."}
+{"id": "tweet_offensive:test:811", "verdict": "jev_wrong", "correct_label": "offensive", "reason": "'kicks ass' is untargeted profanity, which OffensEval labels offensive even in praise."}
+{"id": "tweet_offensive:test:638", "verdict": "gold_wrong", "correct_label": "offensive", "reason": "Hashtag barrage calling Ocasio-Cortez '#Crazy #Insane #mentalillness #EmptyHeaded' is a targeted insult."}
+{"id": "tweet_offensive:test:510", "verdict": "ambiguous", "correct_label": "non-offensive", "reason": "Accuses Serena Williams of cheating and being a thief by analogy; harsh criticism but no profanity or slur."}
+{"id": "tweet_offensive:test:519", "verdict": "gold_wrong", "correct_label": "offensive", "reason": "'She is just nasty' is a direct targeted insult of a person."}
+{"id": "tweet_offensive:test:708", "verdict": "gold_wrong", "correct_label": "offensive", "reason": "Calls Serena Williams 'embarrassingly entitled and a bully', a targeted insult."}
+{"id": "tweet_offensive:test:121", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Playful Follow-Friday shoutout ('alien from the future') with no offensive content."}
+{"id": "tweet_offensive:test:768", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Mentions sex but has no profanity, insult or target."}
+{"id": "tweet_offensive:test:130", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Political opinion that Holder should have been impeached; no profanity or insult."}
+{"id": "tweet_offensive:test:376", "verdict": "ambiguous", "correct_label": "offensive", "reason": "'Perhaps he can't read' is a sarcastic dig at a named politician; mild enough that annotators could go either way."}
+{"id": "tweet_offensive:test:673", "verdict": "jev_wrong", "correct_label": "offensive", "reason": "Contains 'shit' and 'ass'; untargeted profanity counts as offensive under OffensEval."}
+{"id": "tweet_offensive:test:794", "verdict": "ambiguous", "correct_label": "non-offensive", "reason": "Sarcastic accusation that Gottlieb is 'not an expert on anything' and only counts money; criticism without profanity or slur."}
+{"id": "tweet_offensive:test:494", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Affectionate description of a fictional superhero; no profanity or insult."}
+{"id": "tweet_offensive:test:390", "verdict": "ambiguous", "correct_label": "offensive", "reason": "'This blow hard' plus a poop emoji is a mild targeted insult at a politician."}
+{"id": "tweet_offensive:test:408", "verdict": "gold_wrong", "correct_label": "offensive", "reason": "'#SoyBoys #Fairyland' mocks Google employees with emasculating/homophobic slurs, a targeted group insult."}
+{"id": "tweet_offensive:test:571", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Partisan claim about Kavanaugh accusations; no profanity, insult or threat."}
+{"id": "tweet_offensive:test:561", "verdict": "gold_wrong", "correct_label": "offensive", "reason": "'And dicks.' is profanity."}
+{"id": "tweet_offensive:test:37", "verdict": "gold_wrong", "correct_label": "offensive", "reason": "Ends by calling the Panthers 'Douch(e)', a targeted insult."}
+{"id": "tweet_offensive:test:648", "verdict": "ambiguous", "correct_label": "non-offensive", "reason": "'just as clueless as she is' is a mild put-down inside a political argument."}
+{"id": "tweet_offensive:test:381", "verdict": "jev_wrong", "correct_label": "non-offensive", "reason": "Shares a news headline quoting George Conway; the author adds no profanity or insult."}
+{"id": "tweet_offensive:test:789", "verdict": "jev_wrong", "correct_label": "non-offensive", "reason": "Heated political argument ('sham', 'Dems are going down') without profanity, slur or threat."}
+{"id": "tweet_offensive:test:772", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Factual bullet list criticising Trump's Puerto Rico response; no offensive language."}
+{"id": "tweet_offensive:test:478", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Sarcastic gun-control commentary with no profanity, insult or threat."}
+{"id": "tweet_offensive:test:326", "verdict": "ambiguous", "correct_label": "offensive", "reason": "Mocks a name ('STALL-WELL') and calls a person 'the LIAR' in caps; borderline targeted insult."}
+{"id": "tweet_offensive:test:342", "verdict": "jev_wrong", "correct_label": "non-offensive", "reason": "Commentary on Michael Che's Emmys joke; the 'ExCrackheads' wording is quoted from the joke, not the author's insult."}
+{"id": "tweet_offensive:test:240", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Partisan argument about equality; no profanity, insult or threat."}
+{"id": "tweet_offensive:test:389", "verdict": "jev_wrong", "correct_label": "non-offensive", "reason": "Says 'Nature will get you', an appeal to karma rather than a threat; no profanity or insult."}
+{"id": "tweet_offensive:test:579", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "A grim statement about a missing person; disturbing but contains no profanity, insult or threat."}
+{"id": "tweet_offensive:test:418", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Announcement of an anti-far-right demo; no offensive content."}
+{"id": "tweet_offensive:test:635", "verdict": "gold_wrong", "correct_label": "offensive", "reason": "'#CreepyPornPresident' is a targeted insult at Trump."}
+{"id": "tweet_offensive:test:793", "verdict": "jev_wrong", "correct_label": "non-offensive", "reason": "Karma-appeal to a stalker ('Nature will get you'); no profanity, insult or explicit threat."}
+{"id": "tweet_offensive:test:332", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Star Wars 'white mask privilege' joke; no profanity or insult toward anyone."}
+{"id": "tweet_offensive:test:458", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "A description of a pet cat; nothing remotely offensive."}
+{"id": "tweet_offensive:test:139", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Hashtag pile plus a news headline; no profanity or insult."}
+{"id": "tweet_offensive:test:728", "verdict": "ambiguous", "correct_label": "non-offensive", "reason": "'Bull crap' is a minced oath and 'giving nonsense' is mild; borderline profanity."}
+{"id": "tweet_offensive:test:634", "verdict": "jev_wrong", "correct_label": "non-offensive", "reason": "Political complaint with '#CorruptDemocrats'; no profanity or personal insult beyond ordinary political rhetoric."}
+{"id": "tweet_offensive:test:195", "verdict": "jev_wrong", "correct_label": "non-offensive", "reason": "Mocking 'participation trophy' jab; no profanity, slur or threat."}
+{"id": "tweet_offensive:test:272", "verdict": "ambiguous", "correct_label": "non-offensive", "reason": "Shares a headline calling an accuser 'Absolutely NUTS'; quoted insult rather than the author's own."}
+{"id": "tweet_offensive:test:770", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Economic criticism of the Conservative government; no offensive language."}
+{"id": "tweet_offensive:test:189", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Debate point about fascism and Antifa; no profanity or insult."}
+{"id": "tweet_offensive:test:286", "verdict": "ambiguous", "correct_label": "non-offensive", "reason": "Calls fans 'foolish' and blames a contestant with angry emojis; mild, borderline insult."}
+{"id": "tweet_offensive:test:426", "verdict": "gold_wrong", "correct_label": "non-offensive", "reason": "Drama episode recap dialogue ('she is crazy' spoken by a character); not offensive."}

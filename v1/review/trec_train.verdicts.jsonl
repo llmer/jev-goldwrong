@@ -1,0 +1,50 @@
+{"id": "trec_train:train:3158", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "Buildings and structures are LOC:other in TREC."}
+{"id": "trec_train:train:4252", "verdict": "gold_wrong", "correct_label": "DESC", "reason": "Chemical reactivity of neon is a descriptive property, not a numeric value."}
+{"id": "trec_train:train:1468", "verdict": "jev_wrong", "correct_label": "HUM", "reason": "Radio stations are organizations, HUM:gr in TREC."}
+{"id": "trec_train:train:4648", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "Celestial bodies are LOC in TREC."}
+{"id": "trec_train:train:1807", "verdict": "jev_wrong", "correct_label": "HUM", "reason": "A person's nickname is treated as the person, HUM:ind, in TREC."}
+{"id": "trec_train:train:68", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "Tourist attractions are places, LOC:other."}
+{"id": "trec_train:train:161", "verdict": "jev_wrong", "correct_label": "NUM", "reason": "Seasons and other time periods are NUM:date in TREC."}
+{"id": "trec_train:train:3887", "verdict": "ambiguous", "correct_label": "ENTY", "reason": "Asks for the name of a process (fusion), which leans ENTY, but a description of the process is also a fair reading."}
+{"id": "trec_train:train:4354", "verdict": "ambiguous", "correct_label": "LOC", "reason": "TREC consistently files web sites under LOC, but ENTY is the more natural reading of a website."}
+{"id": "trec_train:train:334", "verdict": "gold_wrong", "correct_label": "ABBR", "reason": "Asks what an abbreviation stands for, i.e. ABBR:exp."}
+{"id": "trec_train:train:3331", "verdict": "ambiguous", "correct_label": "DESC", "reason": "'What were X' is a definition question (DESC:def), though the answer is a concrete item (beaver pelts) so ENTY is defensible."}
+{"id": "trec_train:train:3716", "verdict": "jev_wrong", "correct_label": "HUM", "reason": "A fast food chain is an organization, HUM:gr."}
+{"id": "trec_train:train:4128", "verdict": "gold_wrong", "correct_label": "ENTY", "reason": "Asks for a unit of measure (stones), which is an entity, not a numeric value."}
+{"id": "trec_train:train:1736", "verdict": "jev_wrong", "correct_label": "HUM", "reason": "A team is HUM:gr in TREC."}
+{"id": "trec_train:train:1704", "verdict": "gold_wrong", "correct_label": "DESC", "reason": "Asks to explain a connection/relationship, which is descriptive."}
+{"id": "trec_train:train:4285", "verdict": "ambiguous", "correct_label": "NUM", "reason": "Geological epochs follow TREC's time-period-as-NUM:date convention, but the answer is a named period so ENTY is defensible."}
+{"id": "trec_train:train:5279", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "Planets are LOC in TREC."}
+{"id": "trec_train:train:2564", "verdict": "gold_wrong", "correct_label": "ENTY", "reason": "A birthstone is a concrete entity; there is no definition being asked for."}
+{"id": "trec_train:train:110", "verdict": "gold_wrong", "correct_label": "LOC", "reason": "Chihuahuas come from Mexico; the answer is a place."}
+{"id": "trec_train:train:3755", "verdict": "gold_wrong", "correct_label": "DESC", "reason": "Dew comes from condensation; the answer is an explanation, not a place."}
+{"id": "trec_train:train:2178", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "Stars are celestial bodies, LOC in TREC."}
+{"id": "trec_train:train:165", "verdict": "jev_wrong", "correct_label": "HUM", "reason": "A car maker is a company, HUM:gr."}
+{"id": "trec_train:train:656", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "Buildings are LOC:other in TREC."}
+{"id": "trec_train:train:3965", "verdict": "ambiguous", "correct_label": "LOC", "reason": "TREC consistently files web sites under LOC, but ENTY is the more natural reading of a website."}
+{"id": "trec_train:train:2483", "verdict": "ambiguous", "correct_label": "DESC", "reason": "Open-ended list of activities is DESC:desc by TREC habit, but ENTY for activities is defensible."}
+{"id": "trec_train:train:671", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "A monument/arch is a structure, LOC:other."}
+{"id": "trec_train:train:2509", "verdict": "jev_wrong", "correct_label": "DESC", "reason": "'What's new in...' asks for an open description, not an entity."}
+{"id": "trec_train:train:4206", "verdict": "jev_wrong", "correct_label": "NUM", "reason": "Seasons are NUM:date in TREC."}
+{"id": "trec_train:train:3761", "verdict": "ambiguous", "correct_label": "LOC", "reason": "TREC consistently files web sites under LOC, but ENTY is the more natural reading of a website."}
+{"id": "trec_train:train:1702", "verdict": "ambiguous", "correct_label": "LOC", "reason": "Nationality answers name a country (LOC:country) but are adjectival, so ENTY is also defensible."}
+{"id": "trec_train:train:3975", "verdict": "gold_wrong", "correct_label": "NUM", "reason": "Legal blood alcohol limit is a number (0.08%)."}
+{"id": "trec_train:train:1372", "verdict": "jev_wrong", "correct_label": "ENTY", "reason": "Asks for the term for a fear, ENTY:termeq."}
+{"id": "trec_train:train:1519", "verdict": "jev_wrong", "correct_label": "ENTY", "reason": "Best way/method to do something is ENTY:techmeth in TREC."}
+{"id": "trec_train:train:1961", "verdict": "gold_wrong", "correct_label": "ENTY", "reason": "Asks to list the numeral symbols 1-10, which are entities/symbols, not a description."}
+{"id": "trec_train:train:77", "verdict": "jev_wrong", "correct_label": "ENTY", "reason": "Body parts are ENTY:body in TREC, not locations."}
+{"id": "trec_train:train:3030", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "A hotel is a building/place, LOC:other."}
+{"id": "trec_train:train:2420", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "Constellations are celestial, LOC in TREC."}
+{"id": "trec_train:train:466", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "Stars are celestial bodies, LOC in TREC."}
+{"id": "trec_train:train:4402", "verdict": "jev_wrong", "correct_label": "HUM", "reason": "The Commonwealth is an organization, HUM:gr."}
+{"id": "trec_train:train:1708", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "Things worth seeing in a city are attractions/places, LOC:other."}
+{"id": "trec_train:train:1290", "verdict": "jev_wrong", "correct_label": "HUM", "reason": "Team nicknames follow TREC's nickname-of-group convention, HUM:gr."}
+{"id": "trec_train:train:4507", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "A street name names a location, LOC:other."}
+{"id": "trec_train:train:4620", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "The Great Wall is a structure, LOC:other."}
+{"id": "trec_train:train:3431", "verdict": "ambiguous", "correct_label": "DESC", "reason": "Open-ended 'what are some rights' is descriptive, but a list of named rights could be ENTY."}
+{"id": "trec_train:train:3097", "verdict": "ambiguous", "correct_label": "DESC", "reason": "'What is DEET?' is a definition question, but DEET is an acronym so ABBR:exp is defensible."}
+{"id": "trec_train:train:4166", "verdict": "jev_wrong", "correct_label": "NUM", "reason": "Months are NUM:date in TREC."}
+{"id": "trec_train:train:2784", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "Buildings are LOC:other in TREC."}
+{"id": "trec_train:train:3235", "verdict": "jev_wrong", "correct_label": "LOC", "reason": "A building is LOC:other in TREC."}
+{"id": "trec_train:train:665", "verdict": "ambiguous", "correct_label": "NUM", "reason": "Answer is a chapter number (Psalm 119), so NUM is defensible, but a chapter is also an entity."}
+{"id": "trec_train:train:1977", "verdict": "ambiguous", "correct_label": "ENTY", "reason": "Reads as a reverse-definition asking for a term (ENTY:termeq), but the odd phrasing also supports a descriptive answer."}

@@ -1,0 +1,16 @@
+{"id": "trec:test:190", "text": "What is the sales tax in Minnesota ?", "gold": "ENTY", "jev": "NUM", "p_gold": 0, "p_jev": 1, "top3": [["NUM", 1], ["ENTY", 0], ["LOC", 0]]}
+{"id": "trec:test:319", "text": "What is the brightest star ?", "gold": "LOC", "jev": "ENTY", "p_gold": 0, "p_jev": 1, "top3": [["ENTY", 1], ["HUM", 0], ["ABBR", 0]]}
+{"id": "trec:test:492", "text": "What 's the easiest way to remove wallpaper ?", "gold": "ENTY", "jev": "DESC", "p_gold": 0, "p_jev": 1, "top3": [["DESC", 1], ["HUM", 0], ["LOC", 0]]}
+{"id": "trec:test:249", "text": "What is the criterion for being legally blind ?", "gold": "ENTY", "jev": "DESC", "p_gold": 0, "p_jev": 0.99, "top3": [["DESC", 0.99], ["NUM", 0.01], ["ABBR", 0]]}
+{"id": "trec:test:307", "text": "What planet has the strongest magnetic field of all the planets ?", "gold": "LOC", "jev": "ENTY", "p_gold": 0.01, "p_jev": 0.99, "top3": [["ENTY", 0.99], ["LOC", 0.01], ["HUM", 0]]}
+{"id": "trec:test:291", "text": "What is foot and mouth disease ?", "gold": "ENTY", "jev": "DESC", "p_gold": 0.01, "p_jev": 0.99, "top3": [["DESC", 0.99], ["ENTY", 0.01], ["NUM", 0]]}
+{"id": "trec:test:255", "text": "What planet is known as the `` red '' planet ?", "gold": "LOC", "jev": "ENTY", "p_gold": 0.02, "p_jev": 0.98, "top3": [["ENTY", 0.98], ["LOC", 0.02], ["ABBR", 0]]}
+{"id": "trec:test:293", "text": "What do you call a professional map drawer ?", "gold": "ENTY", "jev": "HUM", "p_gold": 0.04, "p_jev": 0.95, "top3": [["HUM", 0.95], ["ENTY", 0.04], ["DESC", 0.01]]}
+{"id": "trec:test:245", "text": "What is the longest suspension bridge in the U.S. ?", "gold": "LOC", "jev": "ENTY", "p_gold": 0.05, "p_jev": 0.95, "top3": [["ENTY", 0.95], ["LOC", 0.05], ["ABBR", 0]]}
+{"id": "trec:test:99", "text": "What is the longest major league baseball-winning streak ?", "gold": "ENTY", "jev": "NUM", "p_gold": 0.06, "p_jev": 0.92, "top3": [["NUM", 0.92], ["ENTY", 0.06], ["HUM", 0.02]]}
+{"id": "trec:test:127", "text": "During which season do most thunderstorms occur ?", "gold": "NUM", "jev": "ENTY", "p_gold": 0.07, "p_jev": 0.93, "top3": [["ENTY", 0.93], ["NUM", 0.07], ["HUM", 0]]}
+{"id": "trec:test:94", "text": "What is the oldest university in the US ?", "gold": "HUM", "jev": "ENTY", "p_gold": 0.07, "p_jev": 0.93, "top3": [["ENTY", 0.93], ["HUM", 0.07], ["DESC", 0]]}
+{"id": "trec:test:109", "text": "What is the highest dam in the U.S. ?", "gold": "LOC", "jev": "ENTY", "p_gold": 0.1, "p_jev": 0.89, "top3": [["ENTY", 0.89], ["LOC", 0.1], ["NUM", 0.01]]}
+{"id": "trec:test:460", "text": "What did Jesse Jackson organize ?", "gold": "HUM", "jev": "ENTY", "p_gold": 0.13, "p_jev": 0.86, "top3": [["ENTY", 0.86], ["HUM", 0.13], ["DESC", 0.01]]}
+{"id": "trec:test:6", "text": "George Bush purchased a small interest in which baseball team ?", "gold": "HUM", "jev": "ENTY", "p_gold": 0.15, "p_jev": 0.85, "top3": [["ENTY", 0.85], ["HUM", 0.15], ["DESC", 0]]}
+{"id": "trec:test:138", "text": "What position did Willie Davis play in baseball ?", "gold": "HUM", "jev": "ENTY", "p_gold": 0.15, "p_jev": 0.77, "top3": [["ENTY", 0.77], ["HUM", 0.15], ["DESC", 0.08]]}

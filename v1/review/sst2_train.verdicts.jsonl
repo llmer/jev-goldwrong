@@ -1,0 +1,50 @@
+{"id": "sst2_train:train:27718", "verdict": "ambiguous", "correct_label": "negative", "reason": "'jarring' is usually a complaint but 'jarring glimpses' could be praise for striking moments; fragment lacks context."}
+{"id": "sst2_train:train:55806", "verdict": "ambiguous", "correct_label": "negative", "reason": "Neutral infinitive fragment, likely from 'fails to convince us', but alone carries no verdict."}
+{"id": "sst2_train:train:52123", "verdict": "ambiguous", "correct_label": "positive", "reason": "'an old-fashioned drama' is a neutral descriptor that can be affectionate or dismissive."}
+{"id": "sst2_train:train:13425", "verdict": "jev_wrong", "correct_label": "positive", "reason": "'I Killed My Father' is the film title and 'compelling' is praise; the violent title misled the model."}
+{"id": "sst2_train:train:29509", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'halfhearted zeal of an 8th grade boy' is a clear complaint about lack of commitment."}
+{"id": "sst2_train:train:21861", "verdict": "jev_wrong", "correct_label": "positive", "reason": "Keeping you wide awake and very tense is praise for a thriller."}
+{"id": "sst2_train:train:63154", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'cloyingly hagiographic' is an unambiguous criticism of the documentary."}
+{"id": "sst2_train:train:50090", "verdict": "ambiguous", "correct_label": "negative", "reason": "'was longer than an hour' is a bare neutral fragment."}
+{"id": "sst2_train:train:35654", "verdict": "ambiguous", "correct_label": "negative", "reason": "Neutral fragment about a philosophical question; no clear verdict without the rest of the sentence."}
+{"id": "sst2_train:train:51198", "verdict": "ambiguous", "correct_label": "negative", "reason": "'his own preoccupations and obsessions' is a neutral noun phrase."}
+{"id": "sst2_train:train:34985", "verdict": "ambiguous", "correct_label": "negative", "reason": "'serial murders' is subject matter, not an evaluation."}
+{"id": "sst2_train:train:55453", "verdict": "ambiguous", "correct_label": "negative", "reason": "'84 minutes is short' is a neutral fact that could precede either 'but feels long' or 'and sweet'."}
+{"id": "sst2_train:train:11052", "verdict": "gold_wrong", "correct_label": "positive", "reason": "'expertly' is unambiguous praise; nothing negative in the fragment."}
+{"id": "sst2_train:train:28911", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'fairly trite narrative' is a straightforward criticism."}
+{"id": "sst2_train:train:710", "verdict": "gold_wrong", "correct_label": "positive", "reason": "'intimate, unguarded moments' is appreciative language for a documentary's content."}
+{"id": "sst2_train:train:1120", "verdict": "gold_wrong", "correct_label": "negative", "reason": "Being so skeeved out you need a shower is a negative reaction as a standalone phrase."}
+{"id": "sst2_train:train:22585", "verdict": "jev_wrong", "correct_label": "negative", "reason": "The 'just doesn't have big screen magic' clause carries the verdict, which is negative."}
+{"id": "sst2_train:train:49318", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'two dimension tale' means two-dimensional, a criticism of shallowness."}
+{"id": "sst2_train:train:1375", "verdict": "jev_wrong", "correct_label": "negative", "reason": "'virtually no aftertaste' for a film means forgettable/disposable, a mild negative."}
+{"id": "sst2_train:train:4794", "verdict": "ambiguous", "correct_label": "negative", "reason": "Neutral statement about the recording industry; no film evaluation."}
+{"id": "sst2_train:train:15387", "verdict": "ambiguous", "correct_label": "negative", "reason": "'is, quite pointedly,' is a contentless fragment."}
+{"id": "sst2_train:train:39045", "verdict": "ambiguous", "correct_label": "positive", "reason": "Neutral plot description of a character awakening; no verdict."}
+{"id": "sst2_train:train:18688", "verdict": "ambiguous", "correct_label": "negative", "reason": "'of any opportunity for finding meaning' implies deprivation but the fragment alone lacks the governing verb."}
+{"id": "sst2_train:train:8102", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'taking the easy hollywood road' is a dismissive criticism."}
+{"id": "sst2_train:train:27352", "verdict": "ambiguous", "correct_label": "negative", "reason": "''m not' is a contentless fragment."}
+{"id": "sst2_train:train:4680", "verdict": "ambiguous", "correct_label": "positive", "reason": "'one the public rarely sees' is neutral, at most a faint note of rarity."}
+{"id": "sst2_train:train:58058", "verdict": "jev_wrong", "correct_label": "negative", "reason": "'would have benefited from a sharper, cleaner script' is criticism of the script."}
+{"id": "sst2_train:train:21847", "verdict": "ambiguous", "correct_label": "negative", "reason": "'overcome' hints at praise while 'predictable outcome' and 'glosses over' are complaints; missing subject decides it."}
+{"id": "sst2_train:train:29950", "verdict": "ambiguous", "correct_label": "positive", "reason": "'strokes the eyeballs' suggests visual pleasure but could be part of a backhanded remark."}
+{"id": "sst2_train:train:44744", "verdict": "jev_wrong", "correct_label": "positive", "reason": "Feeling like you've lived in another community is praise for immersion."}
+{"id": "sst2_train:train:55445", "verdict": "jev_wrong", "correct_label": "positive", "reason": "'high-profile talent' serving 'literate material' is praise (from 'rarely does...')."}
+{"id": "sst2_train:train:60692", "verdict": "ambiguous", "correct_label": "negative", "reason": "Neutral plot description about a character seeking love."}
+{"id": "sst2_train:train:64696", "verdict": "ambiguous", "correct_label": "negative", "reason": "'so insatiable' is a bare fragment with no clear target."}
+{"id": "sst2_train:train:54672", "verdict": "gold_wrong", "correct_label": "negative", "reason": "The 'but, curiously, he waters it down' clause carries the verdict, which is negative."}
+{"id": "sst2_train:train:47596", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'the world's most generic rock star' is a sarcastic put-down."}
+{"id": "sst2_train:train:21333", "verdict": "ambiguous", "correct_label": "negative", "reason": "'a handful' is a contentless fragment."}
+{"id": "sst2_train:train:51346", "verdict": "jev_wrong", "correct_label": "positive", "reason": "An overwhelming sadness that enters your bloodstream is praise for the film's emotional power."}
+{"id": "sst2_train:train:65393", "verdict": "jev_wrong", "correct_label": "positive", "reason": "'wryly' connotes appreciated dry humor; nothing supports negative."}
+{"id": "sst2_train:train:44918", "verdict": "gold_wrong", "correct_label": "positive", "reason": "'indomitability' is an admiring quality; no negative reading of the fragment."}
+{"id": "sst2_train:train:38788", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'destined to fill the after-school slot at shopping mall theaters' is dismissive."}
+{"id": "sst2_train:train:10061", "verdict": "ambiguous", "correct_label": "negative", "reason": "'an unruly adolescent boy' describes a character, not the film."}
+{"id": "sst2_train:train:6969", "verdict": "gold_wrong", "correct_label": "negative", "reason": "'(borders) on hammy at times' is a criticism of acting."}
+{"id": "sst2_train:train:61547", "verdict": "ambiguous", "correct_label": "negative", "reason": "'shows moments of promise but' is faint praise about to be reversed; the trailing 'but' points negative but the payload is missing."}
+{"id": "sst2_train:train:55697", "verdict": "ambiguous", "correct_label": "negative", "reason": "'of all hollywood fantasies' is a neutral fragment."}
+{"id": "sst2_train:train:21740", "verdict": "ambiguous", "correct_label": "negative", "reason": "'make the stones weep' could be praise for emotional power but 'as shameful' pulls negative; fragment is unresolved."}
+{"id": "sst2_train:train:12147", "verdict": "ambiguous", "correct_label": "negative", "reason": "'set out to lampoon, anyway' is neutral alone, though it likely follows a complaint."}
+{"id": "sst2_train:train:32020", "verdict": "ambiguous", "correct_label": "negative", "reason": "'will be occupied for 72 minutes' is faint, possibly damning, praise; no clear verdict."}
+{"id": "sst2_train:train:45520", "verdict": "ambiguous", "correct_label": "negative", "reason": "Garbled neutral fragment about a documentary and bias."}
+{"id": "sst2_train:train:2943", "verdict": "gold_wrong", "correct_label": "negative", "reason": "Sarcastic summary ('callow rich boy', 'self-satisfied' girlfriend and mistress) mocks the film's pretension to epic tragedy."}
+{"id": "sst2_train:train:15835", "verdict": "ambiguous", "correct_label": "negative", "reason": "'brow' is a single contentless token."}

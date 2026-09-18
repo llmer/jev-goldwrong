@@ -1,0 +1,50 @@
+{"id": "imdb:test:12191", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'amounts to a great deal more than the sum of its parts', 'extraordinary', 'excellent performances': praise throughout."}
+{"id": "imdb:test:14533", "verdict": "ambiguous", "correct_label": "neg", "reason": "Lukewarm ('characters and script so ordinary', 'starts getting more interesting halfway'); neither label clearly contradicted."}
+{"id": "imdb:test:14583", "verdict": "ambiguous", "correct_label": "pos", "reason": "Calls the story 'muddled' but 'rarely tedious' and defends Cimino; mixed."}
+{"id": "imdb:test:24069", "verdict": "gold_wrong", "correct_label": "neg", "reason": "'vilification', 'mediocrity', 'not at all impressed'; only the nude scenes are praised."}
+{"id": "imdb:test:6678", "verdict": "ambiguous", "correct_label": "pos", "reason": "So-bad-it's-good review ('very entertaining', 'it is a classic') with crude effects; low star rating is defensible."}
+{"id": "imdb:test:14343", "verdict": "ambiguous", "correct_label": "pos", "reason": "Nostalgic praise for a 'big crowd puller' but admits 'the overall laughter equation was missing' now."}
+{"id": "imdb:test:10298", "verdict": "ambiguous", "correct_label": "pos", "reason": "Ironic 'cult classic' listing corny highlights; enjoyment expressed but low rating for quality is defensible."}
+{"id": "imdb:test:13089", "verdict": "jev_wrong", "correct_label": "pos", "reason": "Anger is at the police in this 'compelling look at the criminal justice system'; the film itself is praised."}
+{"id": "imdb:test:19521", "verdict": "gold_wrong", "correct_label": "neg", "reason": "'plot is flimsy', 'flat and unfunny', 'see only if a fan... otherwise wait for video'; no annotator would call this positive."}
+{"id": "imdb:test:2690", "verdict": "ambiguous", "correct_label": "neg", "reason": "'OK western... ain't too bad' faint praise alongside jabs at the cast; lukewarm either way."}
+{"id": "imdb:test:14883", "verdict": "ambiguous", "correct_label": "pos", "reason": "'holds its own with the best', 'well written', but 'has not aged well'; mixed-positive."}
+{"id": "imdb:test:20", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'you'll probably enjoy this little flick', enjoyed performances, 'that's what makes these movies so good'; consistently positive."}
+{"id": "imdb:test:18713", "verdict": "ambiguous", "correct_label": "pos", "reason": "'I enjoyed this series' but most of the text complains about the sound mix."}
+{"id": "imdb:test:230", "verdict": "ambiguous", "correct_label": "pos", "reason": "'it isn't fantastic, but I think it is worth a look' plus praise for cast; mild enough that a low rating is not absurd."}
+{"id": "imdb:test:22240", "verdict": "gold_wrong", "correct_label": "neg", "reason": "Only verdict is 'This film is not shown very often and I really can understand WHY!'"}
+{"id": "imdb:test:5614", "verdict": "ambiguous", "correct_label": "pos", "reason": "'one of my favorite shows' and a long defense, but ends wishing they had pulled the plug; truncated."}
+{"id": "imdb:test:24732", "verdict": "jev_wrong", "correct_label": "pos", "reason": "Reviewer is furious the show was cancelled and is boycotting NBC; loves the show."}
+{"id": "imdb:test:19209", "verdict": "ambiguous", "correct_label": "pos", "reason": "Nostalgic ('most chilling shot of my childhood') but calls the story standard and the moral unclear."}
+{"id": "imdb:test:4729", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'I was proven wrong', 'superb job', 'the deaths are good', 'I'm not one of them [who hate it]'; positive throughout."}
+{"id": "imdb:test:4682", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'Armageddon rocks big time' and Bay 'one of the top five directors of all time'; unambiguous praise."}
+{"id": "imdb:test:23474", "verdict": "gold_wrong", "correct_label": "neg", "reason": "'This movie got it all wrong... ridiculousness of the plot'; negative throughout."}
+{"id": "imdb:test:20410", "verdict": "ambiguous", "correct_label": "pos", "reason": "'They are garbage' but 'worth the price if you are a fan of cheesy movies', 'may become a cult classic'; so-bad-it's-good."}
+{"id": "imdb:test:15354", "verdict": "ambiguous", "correct_label": "neg", "reason": "Truncated; visible text dwells on weaknesses ('overwritten', 'comically inept') after a long synopsis."}
+{"id": "imdb:test:17971", "verdict": "ambiguous", "correct_label": "neg", "reason": "Truncated; 'wildly uneven', 'arbitrary and inauthentic' but engaged and detailed, a mixed 7/10 is plausible."}
+{"id": "imdb:test:4794", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'brilliant performance', 'THAT is GREAT ACTING', 'Run to see it'; positive throughout."}
+{"id": "imdb:test:6832", "verdict": "ambiguous", "correct_label": "neg", "reason": "'EVERYTHING about this movie is poor' yet 'very, VERY funny... it's magic'; so-bad-it's-good."}
+{"id": "imdb:test:5937", "verdict": "ambiguous", "correct_label": "pos", "reason": "'I really liked this movie' but explicitly says swearing makes them 'give them a lower rating'."}
+{"id": "imdb:test:2189", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'the whole movie is refreshing', great cast, 'a nice try'; only the score is criticized."}
+{"id": "imdb:test:17088", "verdict": "ambiguous", "correct_label": "pos", "reason": "'lacks searing emotional impact' but 'entertaining, well acted, occasionally moving'; mixed-positive, truncated."}
+{"id": "imdb:test:14736", "verdict": "gold_wrong", "correct_label": "neg", "reason": "Reviewer states 'My Grade: C+' and calls it 'a lesser work', which contradicts a 7-10 star label."}
+{"id": "imdb:test:17399", "verdict": "ambiguous", "correct_label": "pos", "reason": "'yes its bad... but wow did I get into this film'; nostalgic recommendation despite admitting it is bad."}
+{"id": "imdb:test:7063", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'stands up very well', 'eerie, intense', 'I'm glad I watched it, it was worth the wait'."}
+{"id": "imdb:test:13654", "verdict": "ambiguous", "correct_label": "neg", "reason": "'taut and atmospheric' but 'somewhat of a disappointment... underwhelming'; truncated mixed review."}
+{"id": "imdb:test:11626", "verdict": "gold_wrong", "correct_label": "pos", "reason": "Production memoir with only praise ('excellent attention to detail', 'a real thrill'); nothing supports a negative label."}
+{"id": "imdb:test:4411", "verdict": "ambiguous", "correct_label": "neg", "reason": "Heavily sarcastic mock-epic praise for a DIY VHS movie with genuine affection underneath; either read defensible."}
+{"id": "imdb:test:15834", "verdict": "ambiguous", "correct_label": "pos", "reason": "'a lot to recommend it... gorgeous' but 'acting mediocre, direction confusing... didn't live up to' potential."}
+{"id": "imdb:test:12530", "verdict": "ambiguous", "correct_label": "pos", "reason": "'I enjoyed it', 'art was fun' but 'didn't think much of this cartoon' and no humor; mild."}
+{"id": "imdb:test:22974", "verdict": "ambiguous", "correct_label": "neg", "reason": "Truncated; 'little or no depth', 'pretentious' but engaged analysis of an Antonioni film."}
+{"id": "imdb:test:7802", "verdict": "gold_wrong", "correct_label": "pos", "reason": "Defends the film: 'by no means a bad cinematic experience', 'acting is fine', 'cinematography excellent', 'many excellent...'."}
+{"id": "imdb:test:15296", "verdict": "ambiguous", "correct_label": "pos", "reason": "'fails in giving accurate facts', miscast lead, but 'terrific' Fletcher and 'great songs'; mixed."}
+{"id": "imdb:test:19369", "verdict": "gold_wrong", "correct_label": "neg", "reason": "'offending our intelligence', 'frankly insulting', 'all over the place', 'disappointing'; negative throughout."}
+{"id": "imdb:test:24442", "verdict": "ambiguous", "correct_label": "pos", "reason": "Lists what should have been done differently but 'Fans of the first should see it'; mixed."}
+{"id": "imdb:test:3893", "verdict": "ambiguous", "correct_label": "neg", "reason": "'masterpiece of celluloid' about George Wendt sucked out by his rear reads sarcastic, but could be sincere cult enthusiasm."}
+{"id": "imdb:test:20868", "verdict": "ambiguous", "correct_label": "pos", "reason": "'the movie didn't add up' vs 'actors did a fine job', 'it is great in itself'; mixed-positive."}
+{"id": "imdb:test:16106", "verdict": "ambiguous", "correct_label": "pos", "reason": "'falls flat on its face', 'ultimately fails' vs 'tremendously appealing', best excuse to stay; mixed."}
+{"id": "imdb:test:24722", "verdict": "jev_wrong", "correct_label": "pos", "reason": "'I love this show. It's truly unique.'; disappointment is only about cancellation."}
+{"id": "imdb:test:2474", "verdict": "jev_wrong", "correct_label": "neg", "reason": "Praise is for Visconti; the documentary is dismissed ('What a terrible fate') and a different doc is recommended instead."}
+{"id": "imdb:test:1119", "verdict": "gold_wrong", "correct_label": "pos", "reason": "'quite engaging', 'ground-breaking', 'dozens of hours of entertainment', 'I enjoy them to this day'."}
+{"id": "imdb:test:20615", "verdict": "gold_wrong", "correct_label": "neg", "reason": "Sarcastic plot summary ending 'a way down in all artistic properties' compared to U Turn; negative throughout."}
+{"id": "imdb:test:7033", "verdict": "ambiguous", "correct_label": "neg", "reason": "'**** ' (this reviewer's 4/10 convention) matches neg, but text is affectionate B-movie praise ('adds to the fun', 'very good' makeup)."}

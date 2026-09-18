@@ -1,0 +1,50 @@
+{"id": "tweet_hate:test:243", "verdict": "ambiguous", "correct_label": "hate", "reason": "#DeportThemAll is a deportation demand, but it is hedged with 'or they fit in and contribute', so non-hate is defensible."}
+{"id": "tweet_hate:test:2513", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "One-off insult to an individual ('Ginger Bitch'); no misogynistic or anti-immigrant content."}
+{"id": "tweet_hate:test:1919", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "Quoted/skit dialogue of insults toward an individual; not a statement about women as a group."}
+{"id": "tweet_hate:test:2012", "verdict": "gold_wrong", "correct_label": "hate", "reason": "'#SENDTHEMBACK #RefugessAreNotWelcomeHere' explicitly demands removal of refugees; hate against immigrants."}
+{"id": "tweet_hate:test:1078", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Rap lyrics quoting Gucci Mane; crude but not hate targeting women or immigrants."}
+{"id": "tweet_hate:test:1475", "verdict": "ambiguous", "correct_label": "non-hate", "reason": "Body is a complaint at politicians; #DeportThemAll is boilerplate hashtag, so non-hate is defensible though the hashtag itself demands deportation."}
+{"id": "tweet_hate:test:2948", "verdict": "gold_wrong", "correct_label": "hate", "reason": "Generalizes immigrants as criminals ('this is becoming the norm') and demands #DeportThemAll; hate against immigrants."}
+{"id": "tweet_hate:test:2898", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Policy opinion that illegal immigration is not multiculturalism; no dehumanization or deportation demand."}
+{"id": "tweet_hate:test:2149", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Interpersonal 'bitch stop playing w me'; individual insult, not misogyny."}
+{"id": "tweet_hate:test:80", "verdict": "ambiguous", "correct_label": "non-hate", "reason": "Political headline tying MS-13 murders to unaccompanied minors; disparaging framing but no explicit demand, non-hate defensible."}
+{"id": "tweet_hate:test:1058", "verdict": "ambiguous", "correct_label": "non-hate", "reason": "Content is partisan loyalty; #BuildTheWall #SendThemBack are boilerplate hashtags, so non-hate is defensible."}
+{"id": "tweet_hate:test:1295", "verdict": "gold_wrong", "correct_label": "hate", "reason": "'Rapefugee culture' is a dehumanizing slur against refugees; hate against immigrants."}
+{"id": "tweet_hate:test:516", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "Terminology argument about 'illegal aliens'; no dehumanization or deportation demand."}
+{"id": "tweet_hate:test:820", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "'Lace that bitch up' refers to a shoe; no target group at all."}
+{"id": "tweet_hate:test:2179", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Personal spat telling someone to delete a snap name; individual insult, not misogyny."}
+{"id": "tweet_hate:test:2089", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Policy argument for a border wall framed as security; no dehumanizing or deportation content."}
+{"id": "tweet_hate:test:501", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "Author is criticizing someone for insulting their ex; the slurs are quoted, not endorsed."}
+{"id": "tweet_hate:test:392", "verdict": "gold_wrong", "correct_label": "hate", "reason": "Disparages Cuban immigrants as unassimilated 'invasion' with #ThirdWorldCountry #StopTheInvasion; hate against immigrants."}
+{"id": "tweet_hate:test:2207", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "Reports and condemns someone else's abusive words; not hate speech by the author."}
+{"id": "tweet_hate:test:1670", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "Interpersonal drama with slang 'bitches/hoes'; individual beef, not misogyny."}
+{"id": "tweet_hate:test:1273", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Threat/insult to one individual; aggressive but not hate against women as a group."}
+{"id": "tweet_hate:test:863", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "Argument about the term 'illegal aliens'; no dehumanization or deportation demand."}
+{"id": "tweet_hate:test:1942", "verdict": "ambiguous", "correct_label": "non-hate", "reason": "Conspiratorial rant about voting blocs; racial framing plus #StopTheInvasion, but Muslims are framed as voters, not immigrants; non-hate defensible."}
+{"id": "tweet_hate:test:350", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Political criticism of a female politician's tactics; not misogynistic, not about immigrants."}
+{"id": "tweet_hate:test:2379", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Generic slang shout-out 'lurking hoes'; no targeted hate against women or immigrants."}
+{"id": "tweet_hate:test:1786", "verdict": "gold_wrong", "correct_label": "hate", "reason": "'They should go back to their country of origin' with #StopTheInvasion is a deportation demand; hate against immigrants."}
+{"id": "tweet_hate:test:42", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "Contextless individual insult (likely captioning an image); not a statement about women as a group."}
+{"id": "tweet_hate:test:1521", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "'lil hunky bitch' is playful insult, apparently toward a man; not misogyny."}
+{"id": "tweet_hate:test:1899", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "Complaint to Twitter about the legal term 'illegal aliens'; no hate content."}
+{"id": "tweet_hate:test:645", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Banter with a friend ('one step from slapping you'); individual, not misogynistic."}
+{"id": "tweet_hate:test:2816", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "Anger at politicians ('punk ass'); #IllegalAliens hashtag alone is not hate."}
+{"id": "tweet_hate:test:917", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "Meta-request to use a hashtag; no hate content."}
+{"id": "tweet_hate:test:901", "verdict": "ambiguous", "correct_label": "non-hate", "reason": "Attack on Warren ('Pocohantas') is not misogynistic or anti-immigrant; #SendThemBack is boilerplate, so non-hate defensible."}
+{"id": "tweet_hate:test:814", "verdict": "gold_wrong", "correct_label": "hate", "reason": "Rewrites a news headline to call the suspect a 'Sudanese Rapefugee', a dehumanizing slur against refugees."}
+{"id": "tweet_hate:test:2833", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Individual sexual insult in a personal spat; crude but not hate against women as a group."}
+{"id": "tweet_hate:test:1641", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Banter with laughing emoji directed at one person; not misogyny."}
+{"id": "tweet_hate:test:1809", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Personal beef ('keep my name out your mouth'); individual insult, not group hate."}
+{"id": "tweet_hate:test:1930", "verdict": "gold_wrong", "correct_label": "hate", "reason": "Calls immigrant children a 'Scam' and demands '#SendthemBack at the Border'; hate against immigrants."}
+{"id": "tweet_hate:test:1462", "verdict": "gold_wrong", "correct_label": "hate", "reason": "Blames shoddy construction on '#IllegalAliens... what do you expect?', disparaging immigrants as a group."}
+{"id": "tweet_hate:test:1782", "verdict": "gold_wrong", "correct_label": "hate", "reason": "'#BanMuslims #CloseTheBorders #SendThemBack' frames Muslims as immigrants to be expelled; hate."}
+{"id": "tweet_hate:test:2924", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "'Karma is a bitch' idiom in a personal grievance; no group target."}
+{"id": "tweet_hate:test:1439", "verdict": "ambiguous", "correct_label": "non-hate", "reason": "'No we wouldn't!' plus a wall of boilerplate hashtags; #SendThemBack is present but the content is not about immigrants, non-hate defensible."}
+{"id": "tweet_hate:test:2679", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "Sympathetic to exploited immigrant workers ('unfair to illegals'); the opposite of hate."}
+{"id": "tweet_hate:test:1119", "verdict": "gold_wrong", "correct_label": "hate", "reason": "'#fakeugee #sendthemhome' delegitimizes a refugee and demands deportation; hate against immigrants."}
+{"id": "tweet_hate:test:2421", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Political complaint about a NYT piece; nothing targeting women or immigrants."}
+{"id": "tweet_hate:test:721", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "'I love your header bitch' is affectionate; no hate at all."}
+{"id": "tweet_hate:test:1575", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "Author asserting their own Mexican-American identity with slang; not hate."}
+{"id": "tweet_hate:test:2256", "verdict": "jev_wrong", "correct_label": "non-hate", "reason": "Reports harassment of a lifeguard by others; the author is not the abuser."}
+{"id": "tweet_hate:test:1997", "verdict": "gold_wrong", "correct_label": "non-hate", "reason": "Joking idiom 'I'll cut a bitch' about defending a puppy; not misogyny."}
+{"id": "tweet_hate:test:507", "verdict": "gold_wrong", "correct_label": "hate", "reason": "'So #SendThemBack' about immigrants who visit home is a deportation demand; hate against immigrants."}

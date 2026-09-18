@@ -1,0 +1,50 @@
+{"id": "ag_news_train:train:30289", "verdict": "ambiguous", "correct_label": "Business", "reason": "China litchi-industry feature is an economy story (investment, overproduction, crashing profits) but a foreign-affairs section is a defensible home for a China feature."}
+{"id": "ag_news_train:train:100783", "verdict": "gold_wrong", "correct_label": "Business", "reason": "A TV exporter's losses from declining sales and a customer scandal is a corporate-earnings story with no technology content."}
+{"id": "ag_news_train:train:16529", "verdict": "ambiguous", "correct_label": "Business", "reason": "Video-game publisher collapse and layoffs is corporate news but the games industry routinely files under Sci/Tech."}
+{"id": "ag_news_train:train:64862", "verdict": "ambiguous", "correct_label": "Business", "reason": "Tech-company quarterly earnings sit between Business and Sci/Tech."}
+{"id": "ag_news_train:train:96242", "verdict": "ambiguous", "correct_label": "Business", "reason": "A pension fund tendering shares in the Oracle/PeopleSoft takeover is finance news, but the software merger saga runs under Sci/Tech too."}
+{"id": "ag_news_train:train:117123", "verdict": "ambiguous", "correct_label": "Business", "reason": "Sprint/Nextel $35B telecom merger is a deal story that either section would defensibly carry."}
+{"id": "ag_news_train:train:48645", "verdict": "ambiguous", "correct_label": "Business", "reason": "A CNET founder's private investment fund is finance news with a tech-industry hook."}
+{"id": "ag_news_train:train:64718", "verdict": "gold_wrong", "correct_label": "Business", "reason": "German economic growth forecast from research institutes is an economic-indicator story, not World politics."}
+{"id": "ag_news_train:train:40528", "verdict": "ambiguous", "correct_label": "Business", "reason": "A biotech trade council hiring the House Speaker amid a perjury probe mixes politics and industry news."}
+{"id": "ag_news_train:train:16059", "verdict": "gold_wrong", "correct_label": "World", "reason": "Senegal's president planning a military-style locust campaign is regional/government news, not science."}
+{"id": "ag_news_train:train:5275", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "Phelps winning Olympic swimming gold is unambiguously Sports."}
+{"id": "ag_news_train:train:65048", "verdict": "gold_wrong", "correct_label": "Business", "reason": "Daily stock-market wrap ('Stocks Higher on Strong Tech Earnings') is Business."}
+{"id": "ag_news_train:train:111171", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Nintendo raising DS console shipment targets is a product/console story with a corporate-forecast angle."}
+{"id": "ag_news_train:train:4103", "verdict": "ambiguous", "correct_label": "Business", "reason": "Post-hurricane price gouging is consumer/business news but also general domestic disaster coverage."}
+{"id": "ag_news_train:train:63826", "verdict": "gold_wrong", "correct_label": "Sci/Tech", "reason": "Scientists identifying which printer produced a document is a pure science/technology story."}
+{"id": "ag_news_train:train:44673", "verdict": "gold_wrong", "correct_label": "World", "reason": "Theatre reviews of Kevin Spacey's Old Vic debut have no science or tech content; entertainment falls to the World catch-all."}
+{"id": "ag_news_train:train:77691", "verdict": "gold_wrong", "correct_label": "World", "reason": "The visible text is an election/politics column with no business content."}
+{"id": "ag_news_train:train:77379", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Business publications honoring Apple's Jobs for innovation straddles tech-industry and business news."}
+{"id": "ag_news_train:train:3050", "verdict": "gold_wrong", "correct_label": "Business", "reason": "Daily stock-market wrap with oil prices and the Google IPO is Business."}
+{"id": "ag_news_train:train:79274", "verdict": "gold_wrong", "correct_label": "World", "reason": "Canada moving to decriminalise marijuana possession is pure politics/legislation."}
+{"id": "ag_news_train:train:26356", "verdict": "gold_wrong", "correct_label": "Business", "reason": "BAE Systems acquiring a US IT contractor is a corporate acquisition, not World news."}
+{"id": "ag_news_train:train:1018", "verdict": "ambiguous", "correct_label": "World", "reason": "Malfunctioning biometric voting devices delaying the Chavez recall is politics with a genuine technology angle."}
+{"id": "ag_news_train:train:109067", "verdict": "ambiguous", "correct_label": "Business", "reason": "Analysis of Oracle's proposed acquisition of PeopleSoft is a software-industry merger story."}
+{"id": "ag_news_train:train:1977", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "Phelps and the US relay winning Olympic gold is unambiguously Sports."}
+{"id": "ag_news_train:train:49807", "verdict": "ambiguous", "correct_label": "Business", "reason": "Trial testimony about PeopleSoft's CEO firing over the Oracle bid is a tech-company lawsuit story."}
+{"id": "ag_news_train:train:97754", "verdict": "gold_wrong", "correct_label": "World", "reason": "Death of the world's oldest man at 113 is human-interest general news, not Sports."}
+{"id": "ag_news_train:train:57697", "verdict": "gold_wrong", "correct_label": "Business", "reason": "Oil futures hitting a record $53 is a commodity-market story despite the Nigeria/Yukos context."}
+{"id": "ag_news_train:train:11892", "verdict": "ambiguous", "correct_label": "Business", "reason": "Oracle extending its hostile bid for PeopleSoft is a software-industry merger story."}
+{"id": "ag_news_train:train:93093", "verdict": "ambiguous", "correct_label": "World", "reason": "Gordon Brown rejecting the EU Commission's budget demand is politics-meets-economy."}
+{"id": "ag_news_train:train:21336", "verdict": "gold_wrong", "correct_label": "Business", "reason": "A phone company paying a $400,000 do-not-call settlement is a regulatory/business story with no technology content."}
+{"id": "ag_news_train:train:43734", "verdict": "gold_wrong", "correct_label": "Sci/Tech", "reason": "IBM BlueGene becoming the world's fastest supercomputer is a pure technology story."}
+{"id": "ag_news_train:train:54991", "verdict": "ambiguous", "correct_label": "Business", "reason": "InfoSpace's share price and bottom line is tech-company financial performance."}
+{"id": "ag_news_train:train:99725", "verdict": "gold_wrong", "correct_label": "Sci/Tech", "reason": "A controversial video game (JFK Reloaded) release has nothing to do with Sports; games belong under Sci/Tech."}
+{"id": "ag_news_train:train:15315", "verdict": "ambiguous", "correct_label": "Business", "reason": "Business-software maker firing its president over sales and stock price is tech-company corporate news."}
+{"id": "ag_news_train:train:20278", "verdict": "gold_wrong", "correct_label": "World", "reason": "An opinion piece on preventing Beslan siege deaths is World news; the author's science faculty does not make it Sci/Tech."}
+{"id": "ag_news_train:train:114423", "verdict": "jev_wrong", "correct_label": "Sci/Tech", "reason": "Archaeologists unveiling a 2,500-year-old tomb and mummies is an archaeology/science discovery story, the gold label is right."}
+{"id": "ag_news_train:train:49265", "verdict": "gold_wrong", "correct_label": "Business", "reason": "Daily stock-market wrap on oil and Fed comments is Business."}
+{"id": "ag_news_train:train:115447", "verdict": "gold_wrong", "correct_label": "Business", "reason": "European bourses opening higher ahead of a Fed rate decision is a market story; the PeopleSoft mention does not make it tech."}
+{"id": "ag_news_train:train:56392", "verdict": "gold_wrong", "correct_label": "Sports", "reason": "Jets winning on a late field goal is unambiguously Sports."}
+{"id": "ag_news_train:train:59824", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Analyst commentary on Microsoft Media Center Extender pricing is a tech-product story with a market-analysis framing."}
+{"id": "ag_news_train:train:41402", "verdict": "ambiguous", "correct_label": "World", "reason": "Paralympic closing ceremony cancelled after a fatal bus crash is both a sports-event story and a tragedy/general news item."}
+{"id": "ag_news_train:train:30577", "verdict": "gold_wrong", "correct_label": "World", "reason": "New TSA airport screening rules are government security policy, not Business."}
+{"id": "ag_news_train:train:28212", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "LCD panel maker shelving a fab after a price slump is tech-manufacturing news with a corporate-finance angle."}
+{"id": "ag_news_train:train:77352", "verdict": "jev_wrong", "correct_label": "World", "reason": "A Lucian Freud portrait of Kate Moss going to auction is arts/entertainment news, which falls to World; Business is a stretch."}
+{"id": "ag_news_train:train:86174", "verdict": "ambiguous", "correct_label": "Sci/Tech", "reason": "Boeing and Northrop partnering to bid on a NASA spaceship is space news with a corporate-partnership angle."}
+{"id": "ag_news_train:train:31536", "verdict": "gold_wrong", "correct_label": "World", "reason": "A teen arraigned for online threats and weapons possession is a crime story; the online element does not make it tech."}
+{"id": "ag_news_train:train:70022", "verdict": "gold_wrong", "correct_label": "Sci/Tech", "reason": "A Soyuz capsule returning ISS crew to Earth is a space story, consistently Sci/Tech."}
+{"id": "ag_news_train:train:23685", "verdict": "ambiguous", "correct_label": "Business", "reason": "Oracle winning the antitrust case over its PeopleSoft bid is a tech-company lawsuit/merger story."}
+{"id": "ag_news_train:train:71682", "verdict": "gold_wrong", "correct_label": "Business", "reason": "San Francisco mayor urging an end to a hotel labor lockout is labor/business (or local political) news with no tech content."}
+{"id": "ag_news_train:train:13923", "verdict": "ambiguous", "correct_label": "Business", "reason": "Sri Lanka Telecom withdrawing a lawsuit over a damaged submarine cable is a corporate legal matter with a telecom-infrastructure hook."}

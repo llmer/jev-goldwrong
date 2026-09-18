@@ -1,0 +1,1 @@
+{"id": "trec:test:234", "text": "What are the two houses of the Legislative branch ?", "gold": "ENTY", "jev": "ENTY", "p_gold": 0.82, "confidence": 0.79, "gold_wrong": 0.76, "fits_any": 0.93, "top3": [["ENTY", 0.82], ["HUM", 0.15], ["DESC", 0.02]]}

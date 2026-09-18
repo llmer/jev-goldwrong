@@ -1,0 +1,100 @@
+{"id": "emotion:test:1957", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'Feeling amazing' is plain joy; surprise is a keyword artifact of 'amazing'."}
+{"id": "emotion:test:4", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Feeling 'a little vain' is playful self-satisfaction, nothing sad about it; joy is the closest label."}
+{"id": "emotion:test:1876", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'Stressed out' is anxiety/pressure, which falls under fear; no irritation or hostility is expressed."}
+{"id": "emotion:test:202", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'Feeling ... great' is joy; love comes only from the keyword 'hot'."}
+{"id": "emotion:test:1533", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'I felt terrible for her' is sympathetic sadness, but the surrounding rant about yelling and unfair treatment is indignant, so anger is also defensible."}
+{"id": "emotion:test:349", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Negated: the writer does NOT think the author is talented, a critical/dismissive judgement, not joy."}
+{"id": "emotion:test:366", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Feeling like a stranger to one's partner ('like im molesting some stranger') is alienation and distress; love is a keyword artifact of 'affectionate'."}
+{"id": "emotion:test:1249", "verdict": "gold_wrong", "correct_label": "anger", "reason": "'No excuse for lame invitations' is irritation/disapproval, not sadness."}
+{"id": "emotion:test:1630", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Feeling 'less of a woman ... less valuable' is clear sadness; joy is absurd here."}
+{"id": "emotion:test:1015", "verdict": "ambiguous", "correct_label": "joy", "reason": "Feeling blessed is gratitude/contentment (joy), but it is specifically about supportive people, so feeling cared for (love) is also defensible."}
+{"id": "emotion:test:1847", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Negation: 'not feeling as terrific as I have been' is a dip in mood, not joy."}
+{"id": "emotion:test:1740", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Restless, bored and on the verge of giving up is despondency; fear is a keyword artifact of 'restless'."}
+{"id": "emotion:test:816", "verdict": "gold_wrong", "correct_label": "love", "reason": "Putting yourself in others' shoes to make them happy is empathy/caring (love); nothing angry here."}
+{"id": "emotion:test:890", "verdict": "ambiguous", "correct_label": "love", "reason": "Feeling that others are supporting you is feeling cared for (love), while 'i become happier' points to joy; both defensible."}
+{"id": "emotion:test:1442", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'Less frightened and more grounded and centered' expresses relief and calm (joy), not fear."}
+{"id": "emotion:test:1459", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Never feeling anything gets resolved and drifting away from counseling is hopelessness, not joy."}
+{"id": "emotion:test:218", "verdict": "ambiguous", "correct_label": "fear", "reason": "'Rushed and flustered' is nervous agitation (fear), but 'coerced' carries resentment, so anger is defensible too."}
+{"id": "emotion:test:219", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Jealousy is negated ('wont feel too jealous') and the sentence ends on 'its nice to have a husband again', which is joy."}
+{"id": "emotion:test:62", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Dazed, unsociable, hiding for days and forcing oneself out is a low, withdrawn mood, not joy."}
+{"id": "emotion:test:822", "verdict": "ambiguous", "correct_label": "anger", "reason": "'Getting agitated sitting around doing nothing' is restless irritation (anger), but the unnamed 'gnawing feeling' is unease (fear)."}
+{"id": "emotion:test:1425", "verdict": "gold_wrong", "correct_label": "joy", "reason": "This is a playful, enthusiastic food-blog pitch ('totally amazing'); the 'scorn' belongs to the reader and the writer expresses no fear."}
+{"id": "emotion:test:1465", "verdict": "gold_wrong", "correct_label": "fear", "reason": "The point is worry that people thought the writer was rude, i.e. social anxiety; surprise is a keyword artifact of 'dazed'."}
+{"id": "emotion:test:856", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Wanting someone to feel as humiliated as they made you feel is vengeful resentment (anger), not sadness."}
+{"id": "emotion:test:875", "verdict": "ambiguous", "correct_label": "surprise", "reason": "Feeling 'more curious than anything' fits the dataset's surprise (curiosity/wonder), but 'on another adventure' reads as excitement (joy)."}
+{"id": "emotion:test:1052", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Negated: 'not feeling child friendly' is irritation with children, not joy."}
+{"id": "emotion:test:881", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'A really bad feeling that ...' is dread/foreboding (fear); anger is a keyword artifact of 'cold'."}
+{"id": "emotion:test:1703", "verdict": "gold_wrong", "correct_label": "love", "reason": "A reflection on love being vast and exploring it together is about love; nothing expresses happiness."}
+{"id": "emotion:test:453", "verdict": "ambiguous", "correct_label": "surprise", "reason": "The writer's own emotion is amazement (surprise), while the labeled phrase 'feel unloved' is about other men (sadness); depends on whose emotion is labeled."}
+{"id": "emotion:test:772", "verdict": "ambiguous", "correct_label": "sadness", "reason": "Being unable to tell him how one feels and 'it really sucks' is mainly frustrated sadness, though the frustration makes anger defensible."}
+{"id": "emotion:test:1641", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Not feeling love toward oneself, lazy and de-motivated is depression/sadness, not anger."}
+{"id": "emotion:test:1475", "verdict": "gold_wrong", "correct_label": "fear", "reason": "The text literally names 'fear and anxiety and distrust' as the feelings."}
+{"id": "emotion:test:1434", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Longing for lost carefree days while life is now 'so complicated' is wistful sadness; joy is a keyword artifact of 'wonderful'."}
+{"id": "emotion:test:627", "verdict": "jev_wrong", "correct_label": "love", "reason": "Feeling horny is sexual desire, which the dataset files under love (passion/affection); it is not contentment or joy."}
+{"id": "emotion:test:1910", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'Underappreciated and under valued' is plainly sad; joy is a keyword artifact of 'valued'."}
+{"id": "emotion:test:716", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Sardonic dig at Donald's 'densely focused meanderings and their inherent shortcomings' is contempt, not joy."}
+{"id": "emotion:test:67", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'A bit stressed' is anxiety (fear); nothing angry, and the writer notes the causes are fun."}
+{"id": "emotion:test:877", "verdict": "ambiguous", "correct_label": "love", "reason": "'Respected and secure' is contentment (joy) but the sentence is about loving and being loved, so love is at least as fitting."}
+{"id": "emotion:test:615", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Satisfaction with product packaging is joy; love is a keyword artifact of 'lovely'."}
+{"id": "emotion:test:1618", "verdict": "ambiguous", "correct_label": "fear", "reason": "Feeling uncomfortable enough to leave a bar is unease (fear), but the sexist heckling recounted makes anger defensible too."}
+{"id": "emotion:test:905", "verdict": "gold_wrong", "correct_label": "fear", "reason": "The writer names 'anxious feelings' about a baby arriving, which is fear; 'impatient' alone does not make this anger."}
+{"id": "emotion:test:759", "verdict": "gold_wrong", "correct_label": "love", "reason": "Feeling strongly about helping children through charities is compassion/caring (love), not happiness."}
+{"id": "emotion:test:1008", "verdict": "ambiguous", "correct_label": "anger", "reason": "Explicitly mixed: 'morose' (sadness) but 'now im livid on top of everything' (anger) is the current dominant feeling."}
+{"id": "emotion:test:206", "verdict": "gold_wrong", "correct_label": "anger", "reason": "A sarcastic rant about wanting to set an airline on fire is anger; love is a keyword artifact of 'sympathetic'."}
+{"id": "emotion:test:120", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'Less whiney since the sun came out' describes a lifted mood, i.e. joy, not sadness."}
+{"id": "emotion:test:108", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "The writer names 'a weird mixture of anger and loss' about a cancer diagnosis; loss is sadness and fear is never expressed."}
+{"id": "emotion:test:356", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Pleading that someone out there has to listen is loneliness/sadness; love is a keyword artifact of 'sympathetic'."}
+{"id": "emotion:test:683", "verdict": "ambiguous", "correct_label": "fear", "reason": "Judging that a hilly race would be foolish and disrespectful expresses cautious apprehension at most; too little context for either label to be clear."}
+{"id": "emotion:test:495", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'I wanna feel good again' implies the writer currently feels bad; sadness, not joy."}
+{"id": "emotion:test:1303", "verdict": "ambiguous", "correct_label": "love", "reason": "Feeling greatly respected by a spouse is contentment (joy) but the sentence is about marital attraction and devotion (love)."}
+{"id": "emotion:test:1647", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Feeling strongly against doing giveaways for numbers is principled disapproval, not joy."}
+{"id": "emotion:test:823", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'Bitter dark and boring' mixes bitterness (anger) with gloom and boredom (sadness)."}
+{"id": "emotion:test:1183", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Dissatisfaction with one's lifestyle and wanting at least a third of life to be worthwhile is discontent, not joy."}
+{"id": "emotion:test:92", "verdict": "ambiguous", "correct_label": "anger", "reason": "Envy of others' self-confidence sits between resentment (anger, the dataset's convention) and wistful lack (sadness)."}
+{"id": "emotion:test:953", "verdict": "ambiguous", "correct_label": "sadness", "reason": "Feeling fake and lacking self-confidence in conversation is self-doubt (sadness) mingled with social anxiety (fear)."}
+{"id": "emotion:test:777", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'Really stressed out due to homework' is anxiety (fear), not sadness."}
+{"id": "emotion:test:1293", "verdict": "ambiguous", "correct_label": "fear", "reason": "'Feeling somehow disturbed' is unsettled unease, which reads more like fear but could be low mood; too little context."}
+{"id": "emotion:test:1655", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'I feel so helpless' is despair (sadness) but helplessness is also a fear-family feeling under the dataset's convention."}
+{"id": "emotion:test:376", "verdict": "gold_wrong", "correct_label": "fear", "reason": "The writer was 'stressed by the elevator ride'; 'generous' is a rhetorical aside, not the emotion."}
+{"id": "emotion:test:529", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Satisfaction that one's company is 'finally coming together' is joy; love is a keyword artifact of 'sweet'."}
+{"id": "emotion:test:604", "verdict": "ambiguous", "correct_label": "fear", "reason": "'I fucked up big time but I have to protect us' mixes self-directed anger with fear for safety."}
+{"id": "emotion:test:1791", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Everything 'feeling amazing' after a body scan is joy, not surprise."}
+{"id": "emotion:test:900", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'Feeling the excitement' at a movie is joy; anger is a keyword artifact of 'violent waves'."}
+{"id": "emotion:test:1680", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Living in Austin was 'really sweet' means pleasant/good, i.e. joy, not love."}
+{"id": "emotion:test:223", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Not feeling well and lying in bed all day is a low, unwell state; joy is indefensible."}
+{"id": "emotion:test:736", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Wanting to feel less stressed refers to stress/anxiety (fear), not sadness."}
+{"id": "emotion:test:1524", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Feeling 'gentle and calm' looking at a photo is serene contentment (joy); love is a keyword artifact of 'gentle'."}
+{"id": "emotion:test:359", "verdict": "gold_wrong", "correct_label": "love", "reason": "Offering guidance to aid women with infertility is caring/helping (love); nothing joyful is expressed."}
+{"id": "emotion:test:1541", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'Feeling delicate' means fragile/vulnerable, a low state; love is a keyword artifact of 'delicate'."}
+{"id": "emotion:test:1883", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Worrying that a compliment was not taken as sincere is anxiety (fear), not joy."}
+{"id": "emotion:test:1056", "verdict": "ambiguous", "correct_label": "fear", "reason": "Not daring to ask a 'dumb question' is intimidation (fear) mixed with feeling stupid (sadness)."}
+{"id": "emotion:test:1422", "verdict": "ambiguous", "correct_label": "anger", "reason": "Garbled text; it scolds someone for complaining and being needy (anger) but 'feeling needy' itself is sadness."}
+{"id": "emotion:test:930", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "A neutral recollection of forgetting a hair product; there is no irritation at all, at most mild regret, so anger is indefensible."}
+{"id": "emotion:test:1362", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Dismissing cleanses as a recurring fad one has 'written off' is skeptical disdain, not joy."}
+{"id": "emotion:test:460", "verdict": "ambiguous", "correct_label": "sadness", "reason": "Overwhelmed to the point of tears reads as sadness, but 'overwhelmed' is also anxiety (fear)."}
+{"id": "emotion:test:1296", "verdict": "ambiguous", "correct_label": "sadness", "reason": "Feeling that someone is being tortured is distress on her behalf; sadness or fear, too little context."}
+{"id": "emotion:test:23", "verdict": "ambiguous", "correct_label": "love", "reason": "The writer is compassionately urging others to let go of shame (love), while the labeled phrase 'feeling stigmatized or ashamed' is sadness."}
+{"id": "emotion:test:796", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'Much more peaceful and happy' is joy; 'needy' is negated and about the kids."}
+{"id": "emotion:test:1010", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Feeling 'too tortured to write' is anguish/torment (sadness), not fear."}
+{"id": "emotion:test:581", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Feeling 'less than perfect' is a down mood, not joy."}
+{"id": "emotion:test:1221", "verdict": "ambiguous", "correct_label": "love", "reason": "Holding and rocking a daughter to sleep is tenderness (love), though 'feel most successful as father' is joy."}
+{"id": "emotion:test:1317", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Grief context: feeling that people think one no longer needs to talk about Jeremy is sadness, not joy."}
+{"id": "emotion:test:43", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Imagining 'rather unpleasant possible cases' is apprehension (fear); nothing sad is expressed."}
+{"id": "emotion:test:1178", "verdict": "ambiguous", "correct_label": "love", "reason": "Feeling accepted despite a condition is feeling cared for/belonging (love) or contentment (joy); both defensible."}
+{"id": "emotion:test:2", "verdict": "gold_wrong", "correct_label": "love", "reason": "Never separating from her so she never feels you are ashamed of her is protective tenderness (love); 'ashamed' is negated."}
+{"id": "emotion:test:1920", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Not feeling part of the popular bands is exclusion/sadness, not joy."}
+{"id": "emotion:test:1397", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Feeling like the coach hated you is hurt (sadness); anger is a keyword artifact of 'hated'."}
+{"id": "emotion:test:1267", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Feeling not pretty/smart/interesting enough for a boyfriend is insecurity and low self-worth (sadness, or fear); joy is indefensible."}
+{"id": "emotion:test:126", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'We are doomed' is hopelessness (sadness) or dread (fear); both defensible."}
+{"id": "emotion:test:1366", "verdict": "gold_wrong", "correct_label": "anger", "reason": "Calling resolutions 'boring and cliche' is dismissive disdain, not sadness."}
+{"id": "emotion:test:1014", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Being alone and feeling watched is fear; sadness is a keyword artifact of 'unwelcome'."}
+{"id": "emotion:test:1424", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Feeling 'greedy and lame' for making one is self-conscious embarrassment (sadness/shame), not anger."}
+{"id": "emotion:test:409", "verdict": "ambiguous", "correct_label": "fear", "reason": "Expecting to struggle, fail and suffer is anticipatory dread (fear) and despondency (sadness); both defensible."}
+{"id": "emotion:test:1320", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Playful 'greedy pig ... yay chocolates' is delight; anger is a keyword artifact of 'greedy'."}
+{"id": "emotion:test:940", "verdict": "gold_wrong", "correct_label": "fear", "reason": "Worry about having misled readers is concern/guilt (fear); joy is a keyword artifact of 'gracious'."}
+{"id": "emotion:test:878", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'Relieved' is immediately undercut by 'painful', 'creepily numb' and 'like a ghost'; the dominant emotion is sadness."}
+{"id": "emotion:test:1412", "verdict": "gold_wrong", "correct_label": "joy", "reason": "The writer describes enjoying the freedom to add to drawings; 'pressured' is negated, so fear is wrong and contentment (joy) fits."}
+{"id": "emotion:test:1560", "verdict": "ambiguous", "correct_label": "fear", "reason": "Helpless to regain a safe feeling is both fear (lack of safety) and despair (sadness)."}
+{"id": "emotion:test:216", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Sitting there physically cold at a game expresses no anger at all; the only emotion is mild misery/discomfort."}
+{"id": "emotion:test:1961", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "Wanting to fit in and feeling no one liked you is sadness; love is indefensible."}
+{"id": "emotion:test:161", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'So thankful' for warm weather is joy; anger is a keyword artifact of 'cold'."}

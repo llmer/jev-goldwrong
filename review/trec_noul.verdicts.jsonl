@@ -1,0 +1,1 @@
+{"id": "trec:test:234", "verdict": "ambiguous", "correct_label": "HUM", "reason": "The two houses of Congress are legislative bodies, which TREC convention treats as organizations/groups (HUM:gr), but ENTY:other for 'named things' is also a defensible reading."}

@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&amp;family=Source+Sans+3:wght@400;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap">
+  <style>
+    body { margin: 0; background: #F3F5F7; color: #14181D; font-family: 'Source Sans 3', 'Helvetica Neue', Arial, sans-serif; font-size: 18px; line-height: 1.4; }
+    a { color: #1F6F8B; } a:hover { color: #B4532A; }
+    .display { font-family: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-variant-numeric: tabular-nums; }
+    .eyebrow { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 15px; letter-spacing: .1em; text-transform: uppercase; color: #5B6673; }
+    .step { border-radius: 10px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px; background: #FFFFFF; border: 1px solid #C9D1D9; }
+    .step .k { font-family: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif; font-size: 17px; font-weight: 600; }
+    .step .n { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 26px; line-height: 1.1; }
+  </style>
+</helmet>
+<div style="width: 1200px; height: 630px; box-sizing: border-box; padding: 48px 56px 44px; display: flex; flex-direction: column; justify-content: space-between; background: #F3F5F7;">
+  <div style="display: grid; grid-template-columns: 640px minmax(0, 1fr); gap: 40px; align-items: start;">
+    <div style="display: flex; flex-direction: column; gap: 14px;">
+      <div class="eyebrow">jev-goldwrong · a label-error hunt in four experiments</div>
+      <h1 class="display" style="margin: 0; font-size: 58px; line-height: 1.02; letter-spacing: -0.02em; font-weight: 700; max-width: 18ch; text-wrap: balance;">Finding the wrong answers in the answer key</h1>
+      <p style="margin: 0; font-size: 22px; line-height: 1.35; max-width: 46ch;">A four-cent-per-million-token decision model relabeled five NLP test sets. Two more models checked its confident disagreements. 313 rows, all three agree the published label is wrong.</p>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 14px; padding-top: 34px;">
+      <div class="eyebrow" style="font-size: 12px;">rows · width is √rows</div>
+      <div style="display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 12px; align-items: center;"><span class="mono" style="font-size: 20px; text-align: right;">14,048</span><div style="height: 30px; width: 100%; border-radius: 5px; background: #1F6F8B;"></div></div>
+      <div style="display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 12px; align-items: center;"><span class="mono" style="font-size: 20px; text-align: right;">2,174</span><div style="height: 30px; width: 39%; border-radius: 5px; background: #1F6F8B;"></div></div>
+      <div style="display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 12px; align-items: center;"><span class="mono" style="font-size: 20px; text-align: right;">432</span><div style="height: 30px; width: 17.5%; border-radius: 5px; background: #B4532A;"></div></div>
+      <div style="display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 12px; align-items: center;"><span class="mono" style="font-size: 20px; text-align: right;">313</span><div style="height: 30px; width: 15%; border-radius: 5px; background: #B4532A;"></div></div>
+      <div style="display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 12px; align-items: center;"><span class="mono" style="font-size: 20px; text-align: right; color: #5B6673;">→</span><div style="height: 30px; width: 15%; box-sizing: border-box; border-radius: 5px; border: 2px dashed #14181D;"></div></div>
+      <div style="display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 12px; font-size: 13px; color: #5B6673;"><span></span><span>relabeled · disagree · high tier · both models agree · a person</span></div>
+    </div>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 12px;">
+    <div class="step"><span class="k">rows relabeled</span><span class="n">14,048</span></div>
+    <div class="step" style="background: #DCEBF1; border-color: #1F6F8B;"><span class="k">Jev spend</span><span class="n">$1.79</span></div>
+    <div class="step"><span class="k">high tier, held out</span><span class="n">0.82</span></div>
+    <div class="step" style="background: #F4E3DB; border-color: #B4532A;"><span class="k">both models agree</span><span class="n" style="color: #B4532A;">313 / 432</span></div>
+    <div class="step" style="border: 2px dashed #14181D; background: transparent;"><span class="k">human pass</span><span class="n">next</span></div>
+  </div>
+</div>
+</x-dc>
+</body>
+</html>

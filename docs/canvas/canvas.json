@@ -1,14 +1,87 @@
 {
   "artboards": [
-    { "file": "Cover.dc.html", "x": 0, "y": 0, "w": 1600, "h": 1000, "title": "Cover and timeline" },
-    { "file": "Request.dc.html", "x": 0, "y": 1140, "w": 1600, "h": 900, "title": "One request" },
-    { "file": "Bands.dc.html", "x": 1700, "y": 1140, "w": 1600, "h": 900, "title": "How a row becomes a finding" },
-    { "file": "Cascade.dc.html", "x": 0, "y": 2180, "w": 1600, "h": 900, "title": "Verify before a person reads" },
-    { "file": "Precision.dc.html", "x": 1700, "y": 2180, "w": 1600, "h": 900, "title": "Precision by experiment" },
-    { "file": "Agreement.dc.html", "x": 0, "y": 3220, "w": 1600, "h": 900, "title": "Agreement per dataset" },
-    { "file": "Share.dc.html", "x": 1700, "y": 3220, "w": 1600, "h": 900, "title": "Estimated errors per split" },
-    { "file": "Guidance.dc.html", "x": 0, "y": 4260, "w": 1600, "h": 900, "title": "Which page shaped which change" },
-    { "file": "Main.dc.html", "x": 1700, "y": 4260, "w": 1600, "h": 900, "title": "Story in one frame" }
+    {
+      "file": "Cover.dc.html",
+      "x": 0,
+      "y": 0,
+      "w": 1600,
+      "h": 1000,
+      "title": "Cover and timeline"
+    },
+    {
+      "file": "Request.dc.html",
+      "x": 0,
+      "y": 1140,
+      "w": 1600,
+      "h": 900,
+      "title": "One request"
+    },
+    {
+      "file": "Bands.dc.html",
+      "x": 1700,
+      "y": 1140,
+      "w": 1600,
+      "h": 900,
+      "title": "How a row becomes a finding"
+    },
+    {
+      "file": "Cascade.dc.html",
+      "x": 0,
+      "y": 2180,
+      "w": 1600,
+      "h": 900,
+      "title": "Verify before a person reads"
+    },
+    {
+      "file": "Precision.dc.html",
+      "x": 1700,
+      "y": 2180,
+      "w": 1600,
+      "h": 900,
+      "title": "Precision by experiment"
+    },
+    {
+      "file": "Agreement.dc.html",
+      "x": 0,
+      "y": 3220,
+      "w": 1600,
+      "h": 900,
+      "title": "Agreement per dataset"
+    },
+    {
+      "file": "Share.dc.html",
+      "x": 1700,
+      "y": 3220,
+      "w": 1600,
+      "h": 900,
+      "title": "Estimated errors per split"
+    },
+    {
+      "file": "Guidance.dc.html",
+      "x": 0,
+      "y": 4260,
+      "w": 1600,
+      "h": 900,
+      "title": "Which page shaped which change"
+    },
+    {
+      "file": "Main.dc.html",
+      "x": 1700,
+      "y": 4260,
+      "w": 1600,
+      "h": 900,
+      "title": "Story in one frame"
+    },
+    {
+      "file": "OG.dc.html",
+      "x": 1700,
+      "y": 0,
+      "w": 1200,
+      "h": 630,
+      "title": "Open Graph card 1200x630"
+    }
   ],
-  "launch": { "view": "canvas" }
+  "launch": {
+    "view": "canvas"
+  }
 }

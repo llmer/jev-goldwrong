@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Jev Gold-Wrong</title>
+<meta name="description" content="A four-cent-per-million-token decision model relabeled five NLP test sets. Two more models checked its confident disagreements. 313 rows, all three agree the published label is wrong.">
+<link rel="canonical" href="https://llmer.github.io/jev-goldwrong/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="jev-goldwrong">
+<meta property="og:title" content="Finding the wrong answers in the answer key">
+<meta property="og:description" content="A four-cent-per-million-token decision model relabeled five NLP test sets. Two more models checked its confident disagreements. 313 rows, all three agree the published label is wrong.">
+<meta property="og:url" content="https://llmer.github.io/jev-goldwrong/">
+<meta property="og:image" content="https://llmer.github.io/jev-goldwrong/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Finding the wrong answers in the answer key: 14,048 rows relabeled, $1.79 of Jev, 0.82 high-tier precision, 313 of 432 confirmed by two models, human pass next">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Finding the wrong answers in the answer key">
+<meta name="twitter:description" content="A cheap calibrated model relabeled five NLP test sets; two more models checked its confident disagreements. 313 rows, all three agree the label is wrong.">
+<meta name="twitter:image" content="https://llmer.github.io/jev-goldwrong/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{color-scheme:light;--ground:#F3F5F7;--surface:#FFFFFF;--ink:#14181D;--muted:#5B6673;--line:#C9D1D9;--faint:#E6EAEE;--accent:#1F6F8B;--err:#B4532A;--err_soft:#F4E3DB;
+  --display:'Bricolage Grotesque','Helvetica Neue',Arial,sans-serif;--sans:'Source Sans 3','Helvetica Neue',Arial,sans-serif;--mono:'JetBrains Mono',ui-monospace,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--ground:#12161B;--surface:#1A2028;--ink:#E8ECF0;--muted:#9AA5B1;--line:#34404C;--faint:#242C35;--accent:#58A6C4;--err:#E0865E;--err_soft:#3D2820}}
+:root[data-theme="dark"]{color-scheme:dark;--ground:#12161B;--surface:#1A2028;--ink:#E8ECF0;--muted:#9AA5B1;--line:#34404C;--faint:#242C35;--accent:#58A6C4;--err:#E0865E;--err_soft:#3D2820}
+html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);font-size:18px;line-height:1.55;padding-inline:clamp(16px,4vw,48px);padding-block:0 72px}
+.wrap{max-width:1160px;margin:0 auto}
+header{padding-block:56px 28px;border-bottom:1px solid var(--line);display:flex;flex-direction:column;gap:14px}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(36px,5.4vw,64px);line-height:1.02;letter-spacing:-.02em;margin:0;max-width:20ch;text-wrap:balance}
+.lede{font-size:clamp(19px,2.2vw,23px);max-width:58ch;margin:0}
+.links{display:flex;flex-wrap:wrap;gap:10px 18px;font-size:16px}
+a{color:var(--accent)} a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-top:8px}
+.tile{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:6px}
+.tile b{font-family:var(--mono);font-weight:500;font-size:30px;line-height:1;font-variant-numeric:tabular-nums}
+.tile span{font-size:14px;color:var(--muted)}
+.tile.hot{border-color:var(--err);background:var(--err_soft)} .tile.hot b{color:var(--err)}
+section{padding-block:44px 0;display:flex;flex-direction:column;gap:14px}
+h2{font-family:var(--display);font-weight:600;font-size:clamp(24px,3vw,34px);letter-spacing:-.015em;line-height:1.1;margin:0;text-wrap:balance}
+section>p{max-width:66ch;margin:0}
+figure{margin:8px 0 0;display:flex;flex-direction:column;gap:10px}
+figure img{display:block;width:100%;max-width:100%;height:auto;border:1px solid var(--line);border-radius:10px;background:#F3F5F7}
+figcaption{font-size:15px;color:var(--muted);max-width:80ch}
+footer{margin-top:56px;padding-top:20px;border-top:1px solid var(--line);font-size:15px;color:var(--muted);max-width:80ch}
+code{font-family:var(--mono);font-size:.9em;background:var(--faint);padding:1px 5px;border-radius:4px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="eyebrow">llmer / jev-goldwrong · four experiments · September 2026</div>
+  <h1>Finding the wrong answers in the answer key</h1>
+  <p class="lede">A decision model that costs four cents per million tokens relabeled five standard NLP test sets. Where it confidently disagreed, two other models checked its work. 313 rows came back with all three agreeing the published label is wrong.</p>
+  <div class="links">
+    <a href="https://github.com/llmer/jev-goldwrong">Repository</a>
+    <a href="https://github.com/llmer/jev-goldwrong/blob/main/EXPERIMENT-4.md">Experiment 4 write-up</a>
+    <a href="https://github.com/llmer/jev-goldwrong/blob/main/verify_v4/human_queue.md">The 313-row queue</a>
+    <a href="https://docs.typesafe.ai/">TypeSafe docs</a>
+  </div>
+  <div class="tiles">
+    <div class="tile"><b>14,048</b><span>test-split rows relabeled, five datasets</span></div>
+    <div class="tile"><b>$12.05</b><span>model spend across four experiments and 350k rows</span></div>
+    <div class="tile"><b>0.82</b><span>high-tier precision on rows no reviewer had seen</span></div>
+    <div class="tile hot"><b>313</b><span>rows Claude and Codex both call gold errors, ready for a human</span></div>
+  </div>
+</header>
+
+<section>
+  <h2>The story in one frame</h2>
+  <p>Relabel with a cheap calibrated model. Ask it what fits. Verify with two more. Then read. Each experiment changed the questions, never the model; every change came from a page of the TypeSafe docs read against the previous round's reviewer verdicts.</p>
+  <figure><img src="diagrams/main.png" alt="One-frame summary: the five stages from a plain classifier to two-model verification, the pipeline from state and questions through Jev, code bands, two model reviewers and a person, and the headline numbers" width="3200" height="1800"><figcaption>Flag precision on the same five test sets rose from 0.45 to 0.82 while the share of flags where Jev was wrong fell from 15% to 0.3%.</figcaption></figure>
+</section>
+
+<section>
+  <h2>From 0 to 4</h2>
+  <figure><img src="diagrams/cover.png" alt="Cover with four headline tiles and five stage cards from experiment 0 to 4" width="3200" height="2000" loading="lazy"><figcaption>Stage 0 is what most people would do first: ask a model for a label and call disagreement an error. Every later stage adds a way to tell a hard row, a dataset convention, and a real mislabel apart.</figcaption></figure>
+  <figure><img src="diagrams/precision.png" alt="Two bar charts: flag precision by experiment, and share of flags where Jev was wrong" width="3200" height="1800" loading="lazy"><figcaption>v3 and v4 are measured on rows no earlier reviewer saw. The red bracket is the v4 two-model verification of the whole high tier, from both-agree to either-agrees.</figcaption></figure>
+</section>
+
+<section>
+  <h2>One request, one response, then code</h2>
+  <p>Jev answers typed questions with probabilities and nothing else. The text goes in as state, every question the workflow might need goes in the same call, and code decides what the numbers mean. The dataset's own label is never shown to the model as an answer; it only picks which fit answer code reads back.</p>
+  <figure><img src="diagrams/request.png" alt="A real Emotion row: the state, eleven questions, Jev, the typed answers with probability bars, and the code rule that puts the row in the high tier" width="3200" height="1800" loading="lazy"><figcaption>"i don t feel brave though" is labeled joy in the dataset. Jev: fear at 0.99, joy fits at 0.04, fear fits at 0.76, negated at 0.98. Both verifiers later read it as fear.</figcaption></figure>
+</section>
+
+<section>
+  <h2>How a row becomes a finding</h2>
+  <p>Four numbers from one call decide the band. No cutoff was tuned against the labels under audit: 0.5 on every yes/no answer and the Confidence page's 0.9 and 0.5 tiers on the Choice. Precision is measured per band afterwards, and the queue is read top down.</p>
+  <figure><img src="diagrams/bands.png" alt="Decision tree from Jev's answers to review bands with experiment 4 counts on each leaf" width="3200" height="1800" loading="lazy"><figcaption>The error-candidate band needs the gold label to fail its own fit check and Jev's label to pass, with ambiguity under 0.5. Its high tier is what goes to verification.</figcaption></figure>
+</section>
+
+<section>
+  <h2>Verify before a person reads</h2>
+  <p>The docs describe Jev as a verifier for other models' output. Experiment 4 turns that on the pipeline itself: the 432 high-tier rows went blind to fresh Claude agents and to Codex under the same annotator protocol. The two disagree almost only about ambiguity, never about Jev being wrong.</p>
+  <figure><img src="diagrams/cascade.png" alt="Verification cascade: 14,048 rows to 2,174 disagreements to 432 high-tier rows to 382 either-agrees to 313 both-agree, then a human pass" width="3200" height="1800" loading="lazy"><figcaption>Across 864 individual judgments, three said Jev's label was wrong. The 119 rows the two models split on are kept as a disagreement file, not dropped.</figcaption></figure>
+</section>
+
+<section>
+  <h2>What moved, per dataset</h2>
+  <figure><img src="diagrams/agreement.png" alt="Line chart of agreement with the gold label per dataset across four experiments" width="3200" height="1800" loading="lazy"><figcaption>Banking77 gained six points from two rounds of criteria written out of reviewer reasons. Emotion did not move; about a fifth of its labels are hashtag artifacts.</figcaption></figure>
+  <figure><img src="diagrams/share.png" alt="Horizontal bars of estimated label-error share per test split" width="3200" height="1800" loading="lazy"><figcaption>Band counts times held-out band precision. On Emotion, the none band alone holds about 195 rows with no emotion in the text.</figcaption></figure>
+</section>
+
+<section>
+  <h2>Which page shaped which change</h2>
+  <figure><img src="diagrams/guidance.png" alt="Table of each change, the TypeSafe doc page behind it, and the experiment it entered" width="3200" height="1800" loading="lazy"><figcaption>Nothing here is a trick. Every step is a line of the documentation applied to a reviewer verdict.</figcaption></figure>
+</section>
+
+<footer>
+  <p>Reviewers so far are models, not people. The 313-row human pass in <code>verify_v4/human_queue.md</code> is the step that turns these into a public claim. Diagrams are built from <code>docs/canvas</code> and rendered by <code>docs/screenshot.sh</code>.</p>
+</footer>
+</div>
+</body>
+</html>

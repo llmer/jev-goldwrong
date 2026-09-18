@@ -23,7 +23,7 @@ Four experiments so far, about $12.05 of model spend in total:
 Experiment 1 estimates about 11,000 label errors (3.5% of rows) across 20 datasets. Experiment 2 reworks the pipeline
 around the [TypeSafe cookbooks](https://docs.typesafe.ai/cookbooks/classification_using_confidence) (rich option
 descriptions, a `none` option, companion yes/no questions in the same call, a dev-split confidence threshold) and
-raises flag precision from 0.53 to 0.65 on the same five datasets, with two negative results kept as ablations. Experiment 3 re-reads the docs, replaces the anchored "is the gold label wrong?" question with absolute per-label fit questions plus an explicit ambiguity question, writes structured criteria from the v2 reviewer verdicts, and drops the gold-tuned threshold for fixed bands: the top band reaches 0.82 precision on held-out rows with 1.6% Jev errors. Experiment 4 runs a second criteria loop, rewords the fit questions to lead with each category's scope, and then passes the whole 432-row high tier through two independent model reviewers (Claude and Codex): 313 rows come out with both saying the gold label is wrong and 309 naming the same correction. That list, `verify_v4/human_queue.md`, is what a human pass now has to read.
+raises flag precision from 0.53 to 0.65 on the same five datasets, with two negative results kept as ablations. Experiment 3 re-reads the docs, replaces the anchored "is the gold label wrong?" question with absolute per-label fit questions plus an explicit ambiguity question, writes structured criteria from the v2 reviewer verdicts, and drops the gold-tuned threshold for fixed bands: the top band reaches 0.82 precision on held-out rows with 1.6% Jev errors. Experiment 4 runs a second criteria loop, rewords the fit questions to lead with each category's scope, and then passes the whole 432-row high tier through two independent model reviewers (Claude and Codex): 313 rows come out with both saying the gold label is wrong and 309 naming the same correction. That list is `verify_v4/human_queue.md`; each row is checkable from its own text.
 
 Headline finds: about 20% of `dair-ai/emotion` is mislabeled (hashtag labels miss negation), 32 of 50 flagged MNLI
 pairs are crowd-label errors, DBpedia-14 types a racing yacht as `Building`, AG News files cricket under `World`,
@@ -88,4 +88,4 @@ VERSION=v4 python3 verify.py merge              # -> human_queue.md, disagreemen
 Requests go to OpenRouter's `POST /api/alpha/decisions` with model `typesafe/jev-1.13` ($0.042 per million input
 tokens, output free). Each call carries `state` (the row) and typed `questions`; the answer carries `choice`,
 `probabilities`, `confidence`, and `noul` values. Reviews were done by Claude Code subagents acting as strict
-annotators with each dataset's guidelines; a human pass is still needed before any public claim.
+annotators with each dataset's guidelines, and the v4 high tier was verified blind by Claude and Codex.

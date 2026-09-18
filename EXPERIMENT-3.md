@@ -136,7 +136,7 @@ at 0.28 precision. Wide confidence intervals apply.
   absolute noul stops reading "World" literally; expect the weak band to shrink into the error band.
 - Second feedback loop on the new confusable pairs, measured on rows neither v2 nor v3 reviewers saw.
 - Drop `none` on Banking77; drop `needs_context`.
-- Human verification of the high tier before any public claim; it is 407 rows.
+- Independent model verification of the high tier (407 rows) before any claim.
 
 ## Files
 

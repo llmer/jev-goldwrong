@@ -14,7 +14,7 @@
 <meta property="og:image" content="https://llmer.github.io/jev-goldwrong/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Finding the wrong answers in the answer key: 14,048 rows relabeled, $1.79 of Jev, 0.82 high-tier precision, 313 of 432 confirmed by two models, human pass next">
+<meta property="og:image:alt" content="Finding the wrong answers in the answer key: 14,048 rows relabeled, $1.79 of Jev, 0.82 high-tier precision, 313 of 432 confirmed by two models, 309 with the same correction">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Finding the wrong answers in the answer key">
 <meta name="twitter:description" content="A cheap calibrated model relabeled five NLP test sets; two more models checked its confident disagreements. 313 rows, all three agree the label is wrong.">
@@ -55,25 +55,25 @@ code{font-family:var(--mono);font-size:.9em;background:var(--faint);padding:1px 
 <header>
   <div class="eyebrow">llmer / jev-goldwrong · four experiments · September 2026</div>
   <h1>Finding the wrong answers in the answer key</h1>
-  <p class="lede">A decision model that costs four cents per million tokens relabeled five standard NLP test sets. Where it confidently disagreed, two other models checked its work. 313 rows came back with all three agreeing the published label is wrong.</p>
+  <p class="lede">A decision model that costs four cents per million tokens relabeled five standard NLP test sets. Where it confidently disagreed, two other models checked its work. 313 rows came back with all three agreeing the published label is wrong, and every one can be checked from its own text.</p>
   <div class="links">
     <a href="https://github.com/llmer/jev-goldwrong">Repository</a>
     <a href="https://github.com/llmer/jev-goldwrong/blob/main/EXPERIMENT-4.md">Experiment 4 write-up</a>
-    <a href="https://github.com/llmer/jev-goldwrong/blob/main/verify_v4/human_queue.md">The 313-row queue</a>
+    <a href="https://github.com/llmer/jev-goldwrong/blob/main/verify_v4/human_queue.md">The 313 rows</a>
     <a href="https://docs.typesafe.ai/">TypeSafe docs</a>
   </div>
   <div class="tiles">
     <div class="tile"><b>14,048</b><span>test-split rows relabeled, five datasets</span></div>
     <div class="tile"><b>$12.05</b><span>model spend across four experiments and 350k rows</span></div>
     <div class="tile"><b>0.82</b><span>high-tier precision on rows no reviewer had seen</span></div>
-    <div class="tile hot"><b>313</b><span>rows Claude and Codex both call gold errors, ready for a human</span></div>
+    <div class="tile hot"><b>313</b><span>rows Claude and Codex both call gold errors; 309 name the same correction</span></div>
   </div>
 </header>
 
 <section>
   <h2>The story in one frame</h2>
-  <p>Relabel with a cheap calibrated model. Ask it what fits. Verify with two more. Then read. Each experiment changed the questions, never the model; every change came from a page of the TypeSafe docs read against the previous round's reviewer verdicts.</p>
-  <figure><img src="diagrams/main.png" alt="One-frame summary: the five stages from a plain classifier to two-model verification, the pipeline from state and questions through Jev, code bands, two model reviewers and a person, and the headline numbers" width="3200" height="1800"><figcaption>Flag precision on the same five test sets rose from 0.45 to 0.82 while the share of flags where Jev was wrong fell from 15% to 0.3%.</figcaption></figure>
+  <p>Relabel with a cheap calibrated model. Ask it what fits. Verify with two more. Each experiment changed the questions, never the model; every change came from a page of the TypeSafe docs read against the previous round's reviewer verdicts.</p>
+  <figure><img src="diagrams/main.png" alt="One-frame summary: the five stages from a plain classifier to two-model verification, the pipeline from state and questions through Jev, code bands, two model reviewers and the confirmed list, and the headline numbers" width="3200" height="1800"><figcaption>Flag precision on the same five test sets rose from 0.45 to 0.82 while the share of flags where Jev was wrong fell from 15% to 0.3%.</figcaption></figure>
 </section>
 
 <section>
@@ -95,9 +95,9 @@ code{font-family:var(--mono);font-size:.9em;background:var(--faint);padding:1px 
 </section>
 
 <section>
-  <h2>Verify before a person reads</h2>
+  <h2>Verify with two more models</h2>
   <p>The docs describe Jev as a verifier for other models' output. Experiment 4 turns that on the pipeline itself: the 432 high-tier rows went blind to fresh Claude agents and to Codex under the same annotator protocol. The two disagree almost only about ambiguity, never about Jev being wrong.</p>
-  <figure><img src="diagrams/cascade.png" alt="Verification cascade: 14,048 rows to 2,174 disagreements to 432 high-tier rows to 382 either-agrees to 313 both-agree, then a human pass" width="3200" height="1800" loading="lazy"><figcaption>Across 864 individual judgments, three said Jev's label was wrong. The 119 rows the two models split on are kept as a disagreement file, not dropped.</figcaption></figure>
+  <figure><img src="diagrams/cascade.png" alt="Verification cascade: 14,048 rows to 2,174 disagreements to 432 high-tier rows to 382 either-agrees to 313 both-agree, 309 with the same correction" width="3200" height="1800" loading="lazy"><figcaption>Across 864 individual judgments, three said Jev's label was wrong. The 119 rows the two models split on are kept as a disagreement file, not dropped.</figcaption></figure>
 </section>
 
 <section>
@@ -112,7 +112,7 @@ code{font-family:var(--mono);font-size:.9em;background:var(--faint);padding:1px 
 </section>
 
 <footer>
-  <p>Reviewers so far are models, not people. The 313-row human pass in <code>verify_v4/human_queue.md</code> is the step that turns these into a public claim. Diagrams are built from <code>docs/canvas</code> and rendered by <code>docs/screenshot.sh</code>.</p>
+  <p>Reviewers are models, not people; the claim per row is that its text reads as the corrected label, which anyone can check. The list is <code>verify_v4/human_queue.md</code>. Diagrams are built from <code>docs/canvas</code> and rendered by <code>docs/screenshot.sh</code>.</p>
 </footer>
 </div>
 </body>

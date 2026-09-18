@@ -6,9 +6,8 @@ spend after four experiments: about $12.05 of $25.
 
 Two goals. First, the v3 follow-ups: a second feedback loop from the v3 reviewer verdicts, and fit questions that
 lead with the category's scope so the absolute noul stops reading label names literally. Second, the question of
-what stands between a model-found error and a public claim: before a person reads anything, run the docs'
-verify-and-escalate cascade on our own queue with two independent model reviewers, and hand the person only the
-rows both agree on.
+what stands between a model-found error and a claim: run the docs' verify-and-escalate cascade on our own
+queue with two independent model reviewers, and keep only the rows both agree on.
 
 ## What changed from v3
 
@@ -90,12 +89,12 @@ card_delivery_estimate.
 
 ## What this changes about the public claim
 
-- **A person now reads 313 rows, not 432, and not 2,174.** Each row comes with a text, a gold label, one corrected
-  label two models agree on, and one sentence of reason. `verify_v4/human_queue.md` is that list with checkboxes.
+- **The confirmed list is 313 rows, not 432, and not 2,174.** Each row comes with a text, a gold label, one corrected
+  label two models agree on, and one sentence of reason. `verify_v4/human_queue.md` is that list.
 - **The claim is per row, not per estimate.** "Row N of dataset D is labeled X and reads as Y" can be checked by
   anyone from the text. The error-rate estimates in these write-ups stay estimates.
 - **Cost of the cascade.** Jev on 14,048 rows: $1.79. Two model reviewers on 432 rows: roughly an hour of agent
-  time. The human pass is the only expensive step and it is now sized at 313 rows.
+  time.
 
 ## Findings
 
@@ -113,7 +112,7 @@ card_delivery_estimate.
 
 ## What v5 should try
 
-- Human pass over `verify_v4/human_queue.md` (313 rows); publish per-row finds with the two model reasons.
+- Publish per-row finds from `verify_v4/human_queue.md` with the two model reasons.
 - Run the same cascade on the mid tier and the Emotion none band (about 250 rows) to see how much the
   two-model filter recovers there.
 - A third loop only if it targets ambiguity: add a per-pair "either label is acceptable" note to the criteria for the

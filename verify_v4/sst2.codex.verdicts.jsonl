@@ -1,0 +1,11 @@
+{"id":"sst2:validation:282","verdict":"gold_wrong","correct_label":"negative","reason":"The concession about something \"intrinsically funny\" yields to the dismissive verdict \"little else to offer\"."}
+{"id":"sst2:validation:112","verdict":"ambiguous","correct_label":"negative","reason":"\"Inept and ridiculous\" sounds critical, but \"hilariously\" could describe either enjoyable comedy or laughable incompetence."}
+{"id":"sst2:validation:519","verdict":"gold_wrong","correct_label":"positive","reason":"\"Compelling anatomy of grief\" praises the film's treatment despite its sorrowful subject."}
+{"id":"sst2:validation:656","verdict":"gold_wrong","correct_label":"negative","reason":"\"Facile technique\" and \"so little movie\" dismiss the film as superficial."}
+{"id":"sst2:validation:95","verdict":"gold_wrong","correct_label":"positive","reason":"\"Riveting\" praises the film, while \"racial prejudice\" describes its subject rather than the critic's verdict."}
+{"id":"sst2:validation:501","verdict":"gold_wrong","correct_label":"negative","reason":"The clause after \"but\" criticizes the film because \"its brains are in no particular place at all\"."}
+{"id":"sst2:validation:850","verdict":"gold_wrong","correct_label":"negative","reason":"Making \"the audience hostage to his swaggering affectation of seriousness\" condemns the film's emotional manipulation."}
+{"id":"sst2:validation:699","verdict":"gold_wrong","correct_label":"negative","reason":"\"Routine, harmless diversion and little else\" is dismissive faint praise."}
+{"id":"sst2:validation:271","verdict":"gold_wrong","correct_label":"negative","reason":"Calling the film \"as unseemly as its title suggests\" expresses disapproval."}
+{"id":"sst2:validation:736","verdict":"ambiguous","correct_label":"positive","reason":"\"Encourages rueful laughter\" suggests successful humor, but \"only an indian-american would recognize\" could also criticize limited appeal."}
+{"id":"sst2:validation:749","verdict":"gold_wrong","correct_label":"negative","reason":"\"No heartstring untugged and no liberal cause unplundered\" sarcastically criticizes emotional and political exploitation."}

@@ -1,0 +1,286 @@
+[
+ {
+  "dataset": "banking77",
+  "rows": 3076,
+  "errors": 0,
+  "agreement": 0.85370611183355,
+  "ece": 0.06995448634590447,
+  "bands": {
+   "agree": 2499,
+   "agree_gold_unfit": 127,
+   "ambiguous_candidate": 285,
+   "weak_disagree": 52,
+   "error_candidate": 113
+  },
+  "error_tiers": {
+   "low": 4,
+   "high": 78,
+   "mid": 31
+  },
+  "error_rate": 0.03673602080624187,
+  "error_held_out": 22,
+  "ambiguous_rate": 0.09265279583875162,
+  "none_rate": 0.0,
+  "v2_flags": 125,
+  "v2_flag_landing": {
+   "error_candidate": 63,
+   "ambiguous_candidate": 48,
+   "agree": 12,
+   "weak_disagree": 2
+  },
+  "second_calls": 450,
+  "conventions": {
+   "reports_problem": {
+    "agree": 0.456,
+    "agree_gold_unfit": 0.207,
+    "ambiguous_candidate": 0.56,
+    "weak_disagree": 0.274,
+    "error_candidate": 0.411
+   }
+  },
+  "models": [
+   "typesafe/jev-1.13-20260917"
+  ],
+  "cost_usd": 0.6893566679999992,
+  "median_latency_ms": 239,
+  "p95_latency_ms": 516
+ },
+ {
+  "dataset": "trec",
+  "rows": 500,
+  "errors": 0,
+  "agreement": 0.972,
+  "ece": 0.019559999999999224,
+  "bands": {
+   "agree": 483,
+   "agree_gold_unfit": 3,
+   "ambiguous_candidate": 7,
+   "weak_disagree": 2,
+   "error_candidate": 5
+  },
+  "error_tiers": {
+   "high": 3,
+   "mid": 2
+  },
+  "error_rate": 0.01,
+  "error_held_out": 0,
+  "ambiguous_rate": 0.014,
+  "none_rate": 0.0,
+  "v2_flags": 13,
+  "v2_flag_landing": {
+   "error_candidate": 4,
+   "ambiguous_candidate": 3,
+   "agree": 6
+  },
+  "second_calls": 0,
+  "conventions": {
+   "asks_definition": {
+    "agree": 0.515,
+    "ambiguous_candidate": 0.811,
+    "error_candidate": 0.694
+   },
+   "asks_term": {
+    "agree": 0.226,
+    "ambiguous_candidate": 0.467,
+    "error_candidate": 0.08
+   },
+   "answer_is_number": {
+    "agree": 0.258,
+    "ambiguous_candidate": 0.056,
+    "error_candidate": 0.694
+   },
+   "asks_abbrev": {
+    "agree": 0.044,
+    "ambiguous_candidate": 0.274,
+    "error_candidate": 0.022
+   }
+  },
+  "models": [
+   "typesafe/jev-1.13-20260917"
+  ],
+  "cost_usd": 0.06590677799999999,
+  "median_latency_ms": 226,
+  "p95_latency_ms": 987
+ },
+ {
+  "dataset": "sst2",
+  "rows": 872,
+  "errors": 0,
+  "agreement": 0.9655963302752294,
+  "ece": 0.015630733944956187,
+  "bands": {
+   "agree": 795,
+   "agree_gold_unfit": 47,
+   "error_candidate": 14,
+   "ambiguous_candidate": 12,
+   "weak_disagree": 4
+  },
+  "error_tiers": {
+   "high": 11,
+   "mid": 3
+  },
+  "error_rate": 0.016055045871559634,
+  "error_held_out": 0,
+  "ambiguous_rate": 0.013761467889908258,
+  "none_rate": 0.0,
+  "v2_flags": 17,
+  "v2_flag_landing": {
+   "error_candidate": 11,
+   "ambiguous_candidate": 6
+  },
+  "second_calls": 0,
+  "conventions": {
+   "reversal": {
+    "agree": 0.168,
+    "agree_gold_unfit": 0.09,
+    "error_candidate": 0.25,
+    "ambiguous_candidate": 0.416
+   },
+   "subject_matter_dark": {
+    "agree": 0.207,
+    "agree_gold_unfit": 0.287,
+    "error_candidate": 0.298,
+    "ambiguous_candidate": 0.175
+   },
+   "sarcastic": {
+    "agree": 0.329,
+    "agree_gold_unfit": 0.233,
+    "error_candidate": 0.567,
+    "ambiguous_candidate": 0.372
+   }
+  },
+  "models": [
+   "typesafe/jev-1.13-20260917"
+  ],
+  "cost_usd": 0.06282553199999999,
+  "median_latency_ms": 288,
+  "p95_latency_ms": 910
+ },
+ {
+  "dataset": "ag_news",
+  "rows": 7600,
+  "errors": 0,
+  "agreement": 0.8932894736842105,
+  "ece": 0.06270789473682768,
+  "bands": {
+   "agree": 6660,
+   "ambiguous_candidate": 539,
+   "error_candidate": 248,
+   "weak_disagree": 24,
+   "agree_gold_unfit": 129
+  },
+  "error_tiers": {
+   "high": 236,
+   "mid": 11,
+   "low": 1
+  },
+  "error_rate": 0.03263157894736842,
+  "error_held_out": 134,
+  "ambiguous_rate": 0.07092105263157895,
+  "none_rate": 0.0,
+  "v2_flags": 383,
+  "v2_flag_landing": {
+   "ambiguous_candidate": 144,
+   "agree": 25,
+   "error_candidate": 210,
+   "weak_disagree": 4
+  },
+  "second_calls": 0,
+  "conventions": {
+   "about_technology": {
+    "agree": 0.267,
+    "ambiguous_candidate": 0.528,
+    "error_candidate": 0.254,
+    "weak_disagree": 0.123,
+    "agree_gold_unfit": 0.337
+   },
+   "about_money": {
+    "agree": 0.254,
+    "ambiguous_candidate": 0.397,
+    "error_candidate": 0.306,
+    "weak_disagree": 0.105,
+    "agree_gold_unfit": 0.127
+   },
+   "about_politics": {
+    "agree": 0.327,
+    "ambiguous_candidate": 0.447,
+    "error_candidate": 0.279,
+    "weak_disagree": 0.105,
+    "agree_gold_unfit": 0.194
+   }
+  },
+  "models": [
+   "typesafe/jev-1.13-20260917"
+  ],
+  "cost_usd": 0.754057878,
+  "median_latency_ms": 207,
+  "p95_latency_ms": 352
+ },
+ {
+  "dataset": "emotion",
+  "rows": 2000,
+  "errors": 0,
+  "agreement": 0.5655,
+  "ece": 0.265740000000002,
+  "bands": {
+   "agree": 998,
+   "agree_gold_unfit": 133,
+   "error_candidate": 138,
+   "weak_disagree": 45,
+   "ambiguous_candidate": 470,
+   "none_candidate": 195,
+   "none_weak": 21
+  },
+  "error_tiers": {
+   "mid": 30,
+   "high": 104,
+   "low": 4
+  },
+  "error_rate": 0.069,
+  "error_held_out": 20,
+  "ambiguous_rate": 0.235,
+  "none_rate": 0.108,
+  "v2_flags": 160,
+  "v2_flag_landing": {
+   "error_candidate": 80,
+   "ambiguous_candidate": 78,
+   "weak_disagree": 2
+  },
+  "second_calls": 0,
+  "conventions": {
+   "negated": {
+    "agree": 0.053,
+    "agree_gold_unfit": 0.082,
+    "error_candidate": 0.193,
+    "weak_disagree": 0.342,
+    "ambiguous_candidate": 0.144,
+    "none_candidate": 0.171,
+    "none_weak": 0.188
+   },
+   "not_own_current_feeling": {
+    "agree": 0.191,
+    "agree_gold_unfit": 0.208,
+    "error_candidate": 0.268,
+    "weak_disagree": 0.262,
+    "ambiguous_candidate": 0.243,
+    "none_candidate": 0.417,
+    "none_weak": 0.575
+   },
+   "no_emotion": {
+    "agree": 0.092,
+    "agree_gold_unfit": 0.226,
+    "error_candidate": 0.152,
+    "weak_disagree": 0.224,
+    "ambiguous_candidate": 0.109,
+    "none_candidate": 0.372,
+    "none_weak": 0.155
+   }
+  },
+  "models": [
+   "typesafe/jev-1.13-20260917"
+  ],
+  "cost_usd": 0.21370956600000007,
+  "median_latency_ms": 210,
+  "p95_latency_ms": 369
+ }
+]

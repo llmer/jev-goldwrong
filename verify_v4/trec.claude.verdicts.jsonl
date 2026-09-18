@@ -1,0 +1,3 @@
+{"id": "trec:test:190", "verdict": "gold_wrong", "correct_label": "NUM", "reason": "'the sales tax in Minnesota' is answered by a percentage, and percentages are NUM under the guidelines."}
+{"id": "trec:test:99", "verdict": "gold_wrong", "correct_label": "NUM", "reason": "'the longest ... winning streak' is answered by a count of games, a number, so NUM rather than ENTY."}
+{"id": "trec:test:223", "verdict": "gold_wrong", "correct_label": "NUM", "reason": "'the electrical output in Madrid' asks for a voltage or amount of power, i.e. a number with units, which is NUM."}

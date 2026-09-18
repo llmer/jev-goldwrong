@@ -1,0 +1,1352 @@
+{
+"ag_news:test:4867": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.29,
+"confidence": 0.96,
+"fit_gold": 0.34,
+"fit_choice": 0.63,
+"ambiguous": 0.42,
+"conventions": {
+"about_technology": 0.53,
+"about_money": 0.02,
+"about_politics": 0.98
+},
+"v2_flag": true
+},
+"ag_news:test:316": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.8999999999999999,
+"confidence": 1,
+"fit_gold": 0.06,
+"fit_choice": 0.96,
+"ambiguous": 0.15,
+"conventions": {
+"about_technology": 0.04,
+"about_money": 0.96,
+"about_politics": 0.05
+},
+"v2_flag": false
+},
+"ag_news:test:1110": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.94,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.97,
+"ambiguous": 0.06,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.02,
+"about_politics": 0.98
+},
+"v2_flag": true
+},
+"ag_news:test:7415": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.26,
+"confidence": 0.81,
+"fit_gold": 0.57,
+"fit_choice": 0.83,
+"ambiguous": 0.75,
+"conventions": {
+"about_technology": 0.84,
+"about_money": 0.11,
+"about_politics": 0.45
+},
+"v2_flag": false
+},
+"ag_news:test:6068": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.16999999999999998,
+"confidence": 0.91,
+"fit_gold": 0.01,
+"fit_choice": 0.18,
+"ambiguous": 0.48,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.43,
+"about_politics": 0.97
+},
+"v2_flag": false
+},
+"ag_news:test:6940": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.2,
+"confidence": 0.36,
+"fit_gold": 0.66,
+"fit_choice": 0.46,
+"ambiguous": 0.71,
+"conventions": {
+"about_technology": 0.11,
+"about_money": 0.08,
+"about_politics": 0.85
+},
+"v2_flag": false
+},
+"ag_news:test:4997": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.6299999999999999,
+"confidence": 1,
+"fit_gold": 0.34,
+"fit_choice": 0.97,
+"ambiguous": 0.29,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.53,
+"about_politics": 0.12
+},
+"v2_flag": true
+},
+"ag_news:test:6887": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.36,
+"confidence": 0.34,
+"fit_gold": 0.55,
+"fit_choice": 0.91,
+"ambiguous": 0.67,
+"conventions": {
+"about_technology": 0.97,
+"about_money": 0.51,
+"about_politics": 0.02
+},
+"v2_flag": false
+},
+"ag_news:test:7115": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.12,
+"confidence": 0.6,
+"fit_gold": 0.18,
+"fit_choice": 0.3,
+"ambiguous": 0.58,
+"conventions": {
+"about_technology": 0.28,
+"about_money": 0.08,
+"about_politics": 0.01
+},
+"v2_flag": false
+},
+"ag_news:test:83": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.7999999999999999,
+"confidence": 0.98,
+"fit_gold": 0.16,
+"fit_choice": 0.96,
+"ambiguous": 0.62,
+"conventions": {
+"about_technology": 0.98,
+"about_money": 0.28,
+"about_politics": 0.02
+},
+"v2_flag": false
+},
+"ag_news:test:565": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.9199999999999999,
+"confidence": 0.99,
+"fit_gold": 0.03,
+"fit_choice": 0.95,
+"ambiguous": 0.51,
+"conventions": {
+"about_technology": 0.8,
+"about_money": 0.98,
+"about_politics": 0.02
+},
+"v2_flag": true
+},
+"ag_news:test:3332": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.24,
+"confidence": 0.16,
+"fit_gold": 0.42,
+"fit_choice": 0.18,
+"ambiguous": 0.56,
+"conventions": {
+"about_technology": 0.31,
+"about_money": 0.1,
+"about_politics": 0.05
+},
+"v2_flag": false
+},
+"ag_news:test:6427": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.020000000000000018,
+"confidence": 0.33,
+"fit_gold": 0.24,
+"fit_choice": 0.26,
+"ambiguous": 0.54,
+"conventions": {
+"about_technology": 0.52,
+"about_money": 0.11,
+"about_politics": 0.03
+},
+"v2_flag": false
+},
+"ag_news:test:6093": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.9099999999999999,
+"confidence": 1,
+"fit_gold": 0.05,
+"fit_choice": 0.96,
+"ambiguous": 0.33,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.02,
+"about_politics": 0.14
+},
+"v2_flag": true
+},
+"ag_news:test:1079": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.47,
+"confidence": 0.95,
+"fit_gold": 0.35,
+"fit_choice": 0.82,
+"ambiguous": 0.38,
+"conventions": {
+"about_technology": 0.52,
+"about_money": 0.41,
+"about_politics": 0.02
+},
+"v2_flag": true
+},
+"ag_news:test:344": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.4,
+"confidence": 0.62,
+"fit_gold": 0.06,
+"fit_choice": 0.46,
+"ambiguous": 0.41,
+"conventions": {
+"about_technology": 0.2,
+"about_money": 0.05,
+"about_politics": 0.12
+},
+"v2_flag": false
+},
+"ag_news:test:2236": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.82,
+"confidence": 1,
+"fit_gold": 0.04,
+"fit_choice": 0.86,
+"ambiguous": 0.17,
+"conventions": {
+"about_technology": 0.83,
+"about_money": 0.01,
+"about_politics": 0.02
+},
+"v2_flag": true
+},
+"ag_news:test:2188": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.1399999999999999,
+"confidence": 0.36,
+"fit_gold": 0.7,
+"fit_choice": 0.56,
+"ambiguous": 0.77,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.13,
+"about_politics": 0.96
+},
+"v2_flag": false
+},
+"ag_news:test:4783": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.7100000000000001,
+"confidence": 0.99,
+"fit_gold": 0.22,
+"fit_choice": 0.93,
+"ambiguous": 0.59,
+"conventions": {
+"about_technology": 0.97,
+"about_money": 0.05,
+"about_politics": 0.52
+},
+"v2_flag": false
+},
+"ag_news:test:7030": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.07,
+"confidence": 0.58,
+"fit_gold": 0.07,
+"fit_choice": 0.14,
+"ambiguous": 0.38,
+"conventions": {
+"about_technology": 0.09,
+"about_money": 0.07,
+"about_politics": 0.07
+},
+"v2_flag": false
+},
+"ag_news:test:2006": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.38000000000000006,
+"confidence": 0.97,
+"fit_gold": 0.43,
+"fit_choice": 0.81,
+"ambiguous": 0.39,
+"conventions": {
+"about_technology": 0.72,
+"about_money": 0.97,
+"about_politics": 0.03
+},
+"v2_flag": true
+},
+"ag_news:test:1840": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.42999999999999994,
+"confidence": 0.85,
+"fit_gold": 0.28,
+"fit_choice": 0.71,
+"ambiguous": 0.32,
+"conventions": {
+"about_technology": 0.12,
+"about_money": 0.9,
+"about_politics": 0.05
+},
+"v2_flag": false
+},
+"ag_news:test:3081": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.95,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.98,
+"ambiguous": 0.18,
+"conventions": {
+"about_technology": 0.03,
+"about_money": 0.98,
+"about_politics": 0.02
+},
+"v2_flag": true
+},
+"ag_news:test:6348": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.36,
+"confidence": 0.72,
+"fit_gold": 0.51,
+"fit_choice": 0.87,
+"ambiguous": 0.74,
+"conventions": {
+"about_technology": 0.9,
+"about_money": 0.22,
+"about_politics": 0.94
+},
+"v2_flag": false
+},
+"ag_news:test:4440": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.11000000000000001,
+"confidence": 0.99,
+"fit_gold": 0.22,
+"fit_choice": 0.33,
+"ambiguous": 0.34,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.08,
+"about_politics": 0.98
+},
+"v2_flag": true
+},
+"ag_news:test:348": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.94,
+"confidence": 1,
+"fit_gold": 0.05,
+"fit_choice": 0.99,
+"ambiguous": 0.21,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.01,
+"about_politics": 0.06
+},
+"v2_flag": false
+},
+"ag_news:test:5828": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.1,
+"confidence": 0.56,
+"fit_gold": 0.09,
+"fit_choice": 0.19,
+"ambiguous": 0.39,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.02,
+"about_politics": 0.29
+},
+"v2_flag": false
+},
+"ag_news:test:5142": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.9299999999999999,
+"confidence": 1,
+"fit_gold": 0.05,
+"fit_choice": 0.98,
+"ambiguous": 0.25,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.98,
+"about_politics": 0.1
+},
+"v2_flag": true
+},
+"ag_news:test:747": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.96,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.99,
+"ambiguous": 0.16,
+"conventions": {
+"about_technology": 0.01,
+"about_money": 0.01,
+"about_politics": 0.03
+},
+"v2_flag": true
+},
+"ag_news:test:881": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.34,
+"confidence": 1,
+"fit_gold": 0.06,
+"fit_choice": 0.4,
+"ambiguous": 0.27,
+"conventions": {
+"about_technology": 0.03,
+"about_money": 0.01,
+"about_politics": 0.08
+},
+"v2_flag": true
+},
+"ag_news:test:1751": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.24000000000000005,
+"confidence": 0.63,
+"fit_gold": 0.41,
+"fit_choice": 0.65,
+"ambiguous": 0.75,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.09,
+"about_politics": 0.98
+},
+"v2_flag": false
+},
+"ag_news:test:7539": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.95,
+"confidence": 1,
+"fit_gold": 0.02,
+"fit_choice": 0.97,
+"ambiguous": 0.09,
+"conventions": {
+"about_technology": 0.93,
+"about_money": 0.01,
+"about_politics": 0.02
+},
+"v2_flag": true
+},
+"ag_news:test:614": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.96,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.99,
+"ambiguous": 0.13,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.01,
+"about_politics": 0.03
+},
+"v2_flag": true
+},
+"ag_news:test:4302": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.97,
+"confidence": 1,
+"fit_gold": 0.02,
+"fit_choice": 0.99,
+"ambiguous": 0.06,
+"conventions": {
+"about_technology": 0.01,
+"about_money": 0.02,
+"about_politics": 0.02
+},
+"v2_flag": true
+},
+"ag_news:test:1269": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.96,
+"confidence": 1,
+"fit_gold": 0.01,
+"fit_choice": 0.97,
+"ambiguous": 0.07,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.01,
+"about_politics": 0.97
+},
+"v2_flag": true
+},
+"ag_news:test:222": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.010000000000000002,
+"confidence": 0.84,
+"fit_gold": 0.04,
+"fit_choice": 0.05,
+"ambiguous": 0.41,
+"conventions": {
+"about_technology": 0.11,
+"about_money": 0.05,
+"about_politics": 0.06
+},
+"v2_flag": false
+},
+"ag_news:test:1042": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.69,
+"confidence": 1,
+"fit_gold": 0.13,
+"fit_choice": 0.82,
+"ambiguous": 0.39,
+"conventions": {
+"about_technology": 0.3,
+"about_money": 0.73,
+"about_politics": 0.02
+},
+"v2_flag": true
+},
+"ag_news:test:4030": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.46,
+"confidence": 0.99,
+"fit_gold": 0.45,
+"fit_choice": 0.91,
+"ambiguous": 0.27,
+"conventions": {
+"about_technology": 0.61,
+"about_money": 0.99,
+"about_politics": 0.09
+},
+"v2_flag": true
+},
+"ag_news:test:6766": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.8999999999999999,
+"confidence": 1,
+"fit_gold": 0.07,
+"fit_choice": 0.97,
+"ambiguous": 0.23,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.94,
+"about_politics": 0.03
+},
+"v2_flag": true
+},
+"ag_news:test:2778": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.6499999999999999,
+"confidence": 0.99,
+"fit_gold": 0.29,
+"fit_choice": 0.94,
+"ambiguous": 0.33,
+"conventions": {
+"about_technology": 0.6,
+"about_money": 0.98,
+"about_politics": 0.01
+},
+"v2_flag": true
+},
+"ag_news:test:3627": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.8400000000000001,
+"confidence": 0.42,
+"fit_gold": 0.06,
+"fit_choice": 0.9,
+"ambiguous": 0.63,
+"conventions": {
+"about_technology": 0.96,
+"about_money": 0.95,
+"about_politics": 0.04
+},
+"v2_flag": false
+},
+"ag_news:test:1691": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.85,
+"confidence": 1,
+"fit_gold": 0.12,
+"fit_choice": 0.97,
+"ambiguous": 0.2,
+"conventions": {
+"about_technology": 0.03,
+"about_money": 0.57,
+"about_politics": 0.05
+},
+"v2_flag": true
+},
+"ag_news:test:2468": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.98,
+"confidence": 1,
+"fit_gold": 0.01,
+"fit_choice": 0.99,
+"ambiguous": 0.06,
+"conventions": {
+"about_technology": 0.01,
+"about_money": 0.02,
+"about_politics": 0.01
+},
+"v2_flag": true
+},
+"ag_news:test:5692": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.38,
+"confidence": 0.92,
+"fit_gold": 0.01,
+"fit_choice": 0.39,
+"ambiguous": 0.39,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.27,
+"about_politics": 0.09
+},
+"v2_flag": false
+},
+"ag_news:test:2102": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.06000000000000005,
+"confidence": 0.37,
+"fit_gold": 0.92,
+"fit_choice": 0.86,
+"ambiguous": 0.7,
+"conventions": {
+"about_technology": 0.97,
+"about_money": 0.97,
+"about_politics": 0.02
+},
+"v2_flag": true
+},
+"ag_news:test:5773": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.43999999999999995,
+"confidence": 0.72,
+"fit_gold": 0.5,
+"fit_choice": 0.94,
+"ambiguous": 0.69,
+"conventions": {
+"about_technology": 0.97,
+"about_money": 0.12,
+"about_politics": 0.02
+},
+"v2_flag": false
+},
+"ag_news:test:3968": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.75,
+"confidence": 1,
+"fit_gold": 0.15,
+"fit_choice": 0.9,
+"ambiguous": 0.45,
+"conventions": {
+"about_technology": 0.96,
+"about_money": 0.06,
+"about_politics": 0.05
+},
+"v2_flag": true
+},
+"ag_news:test:833": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.42,
+"confidence": 0.76,
+"fit_gold": 0.44,
+"fit_choice": 0.86,
+"ambiguous": 0.54,
+"conventions": {
+"about_technology": 0.03,
+"about_money": 0.01,
+"about_politics": 0.02
+},
+"v2_flag": false
+},
+"ag_news:test:500": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.73,
+"confidence": 0.99,
+"fit_gold": 0.24,
+"fit_choice": 0.97,
+"ambiguous": 0.42,
+"conventions": {
+"about_technology": 0.57,
+"about_money": 0.02,
+"about_politics": 0.97
+},
+"v2_flag": true
+},
+"ag_news:test:806": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.75,
+"confidence": 1,
+"fit_gold": 0.07,
+"fit_choice": 0.82,
+"ambiguous": 0.3,
+"conventions": {
+"about_technology": 0.5,
+"about_money": 0.03,
+"about_politics": 0.14
+},
+"v2_flag": true
+},
+"ag_news:test:488": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.94,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.97,
+"ambiguous": 0.18,
+"conventions": {
+"about_technology": 0.07,
+"about_money": 0.02,
+"about_politics": 0.99
+},
+"v2_flag": false
+},
+"ag_news:test:2591": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.9,
+"confidence": 1,
+"fit_gold": 0.08,
+"fit_choice": 0.98,
+"ambiguous": 0.46,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.01,
+"about_politics": 0.54
+},
+"v2_flag": true
+},
+"ag_news:test:6325": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.54,
+"confidence": 1,
+"fit_gold": 0.01,
+"fit_choice": 0.55,
+"ambiguous": 0.15,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.01,
+"about_politics": 0.97
+},
+"v2_flag": true
+},
+"ag_news:test:6100": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.9199999999999999,
+"confidence": 1,
+"fit_gold": 0.04,
+"fit_choice": 0.96,
+"ambiguous": 0.17,
+"conventions": {
+"about_technology": 0.98,
+"about_money": 0.03,
+"about_politics": 0.05
+},
+"v2_flag": true
+},
+"ag_news:test:789": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.46,
+"confidence": 1,
+"fit_gold": 0.06,
+"fit_choice": 0.52,
+"ambiguous": 0.45,
+"conventions": {
+"about_technology": 0.03,
+"about_money": 0.01,
+"about_politics": 0.54
+},
+"v2_flag": false
+},
+"ag_news:test:6089": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.96,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.99,
+"ambiguous": 0.12,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.02,
+"about_politics": 0.01
+},
+"v2_flag": true
+},
+"ag_news:test:5916": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.9099999999999999,
+"confidence": 1,
+"fit_gold": 0.07,
+"fit_choice": 0.98,
+"ambiguous": 0.31,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.97,
+"about_politics": 0.06
+},
+"v2_flag": true
+},
+"ag_news:test:4366": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.14,
+"confidence": 0.98,
+"fit_gold": 0.18,
+"fit_choice": 0.32,
+"ambiguous": 0.47,
+"conventions": {
+"about_technology": 0.04,
+"about_money": 0.06,
+"about_politics": 0.96
+},
+"v2_flag": true
+},
+"ag_news:test:7463": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.32999999999999996,
+"confidence": 0.86,
+"fit_gold": 0.5,
+"fit_choice": 0.83,
+"ambiguous": 0.75,
+"conventions": {
+"about_technology": 0.83,
+"about_money": 0.08,
+"about_politics": 0.61
+},
+"v2_flag": false
+},
+"ag_news:test:6088": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.45,
+"confidence": 0.97,
+"fit_gold": 0.42,
+"fit_choice": 0.87,
+"ambiguous": 0.36,
+"conventions": {
+"about_technology": 0.32,
+"about_money": 0.89,
+"about_politics": 0.02
+},
+"v2_flag": true
+},
+"ag_news:test:2738": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.95,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.98,
+"ambiguous": 0.23,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.09,
+"about_politics": 0.15
+},
+"v2_flag": true
+},
+"ag_news:test:155": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.54,
+"confidence": 0.85,
+"fit_gold": 0.13,
+"fit_choice": 0.67,
+"ambiguous": 0.46,
+"conventions": {
+"about_technology": 0.08,
+"about_money": 0.02,
+"about_politics": 0.04
+},
+"v2_flag": false
+},
+"ag_news:test:2219": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.39999999999999997,
+"confidence": 0.73,
+"fit_gold": 0.43,
+"fit_choice": 0.83,
+"ambiguous": 0.69,
+"conventions": {
+"about_technology": 0.23,
+"about_money": 0.26,
+"about_politics": 0.97
+},
+"v2_flag": false
+},
+"ag_news:test:2574": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.9199999999999999,
+"confidence": 1,
+"fit_gold": 0.05,
+"fit_choice": 0.97,
+"ambiguous": 0.23,
+"conventions": {
+"about_technology": 0.98,
+"about_money": 0.03,
+"about_politics": 0.01
+},
+"v2_flag": true
+},
+"ag_news:test:707": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.77,
+"confidence": 0.94,
+"fit_gold": 0.06,
+"fit_choice": 0.83,
+"ambiguous": 0.39,
+"conventions": {
+"about_technology": 0.04,
+"about_money": 0.04,
+"about_politics": 0.08
+},
+"v2_flag": true
+},
+"ag_news:test:450": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.97,
+"confidence": 1,
+"fit_gold": 0.02,
+"fit_choice": 0.99,
+"ambiguous": 0.15,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.01,
+"about_politics": 0.03
+},
+"v2_flag": false
+},
+"ag_news:test:5457": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.67,
+"confidence": 0.95,
+"fit_gold": 0.25,
+"fit_choice": 0.92,
+"ambiguous": 0.54,
+"conventions": {
+"about_technology": 0.32,
+"about_money": 0.68,
+"about_politics": 0.01
+},
+"v2_flag": true
+},
+"ag_news:test:1712": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.8799999999999999,
+"confidence": 0.66,
+"fit_gold": 0.07,
+"fit_choice": 0.95,
+"ambiguous": 0.45,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.93,
+"about_politics": 0.06
+},
+"v2_flag": false
+},
+"ag_news:test:5740": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.96,
+"confidence": 1,
+"fit_gold": 0.02,
+"fit_choice": 0.98,
+"ambiguous": 0.27,
+"conventions": {
+"about_technology": 0.14,
+"about_money": 0.97,
+"about_politics": 0.02
+},
+"v2_flag": true
+},
+"ag_news:test:2126": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.88,
+"confidence": 1,
+"fit_gold": 0.01,
+"fit_choice": 0.89,
+"ambiguous": 0.43,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.41,
+"about_politics": 0.99
+},
+"v2_flag": true
+},
+"ag_news:test:6842": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.47,
+"confidence": 0.89,
+"fit_gold": 0.13,
+"fit_choice": 0.6,
+"ambiguous": 0.49,
+"conventions": {
+"about_technology": 0.87,
+"about_money": 0.2,
+"about_politics": 0.96
+},
+"v2_flag": true
+},
+"ag_news:test:2053": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.5499999999999999,
+"confidence": 0.98,
+"fit_gold": 0.4,
+"fit_choice": 0.95,
+"ambiguous": 0.48,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.71,
+"about_politics": 0.57
+},
+"v2_flag": true
+},
+"ag_news:test:5901": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.43000000000000005,
+"confidence": 0.94,
+"fit_gold": 0.47,
+"fit_choice": 0.9,
+"ambiguous": 0.73,
+"conventions": {
+"about_technology": 0.92,
+"about_money": 0.13,
+"about_politics": 0.89
+},
+"v2_flag": false
+},
+"ag_news:test:2296": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.59,
+"confidence": 0.8,
+"fit_gold": 0.23,
+"fit_choice": 0.82,
+"ambiguous": 0.61,
+"conventions": {
+"about_technology": 0.86,
+"about_money": 0.18,
+"about_politics": 0.02
+},
+"v2_flag": false
+},
+"ag_news:test:75": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.06,
+"confidence": 0.57,
+"fit_gold": 0.45,
+"fit_choice": 0.39,
+"ambiguous": 0.78,
+"conventions": {
+"about_technology": 0.01,
+"about_money": 0.01,
+"about_politics": 0.97
+},
+"v2_flag": false
+},
+"ag_news:test:3900": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.97,
+"confidence": 1,
+"fit_gold": 0.02,
+"fit_choice": 0.99,
+"ambiguous": 0.08,
+"conventions": {
+"about_technology": 0.01,
+"about_money": 0.02,
+"about_politics": 0.01
+},
+"v2_flag": true
+},
+"ag_news:test:6056": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.32000000000000006,
+"confidence": 0.38,
+"fit_gold": 0.8,
+"fit_choice": 0.48,
+"ambiguous": 0.81,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.01,
+"about_politics": 0.83
+},
+"v2_flag": false
+},
+"ag_news:test:1080": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.97,
+"confidence": 1,
+"fit_gold": 0.02,
+"fit_choice": 0.99,
+"ambiguous": 0.05,
+"conventions": {
+"about_technology": 0.01,
+"about_money": 0.01,
+"about_politics": 0.01
+},
+"v2_flag": true
+},
+"ag_news:test:6226": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.6699999999999999,
+"confidence": 0.95,
+"fit_gold": 0.29,
+"fit_choice": 0.96,
+"ambiguous": 0.58,
+"conventions": {
+"about_technology": 0.96,
+"about_money": 0.15,
+"about_politics": 0.03
+},
+"v2_flag": false
+},
+"ag_news:test:6009": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.15999999999999998,
+"confidence": 0.89,
+"fit_gold": 0.43,
+"fit_choice": 0.59,
+"ambiguous": 0.56,
+"conventions": {
+"about_technology": 0.28,
+"about_money": 0.03,
+"about_politics": 0.94
+},
+"v2_flag": false
+},
+"ag_news:test:336": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.95,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.98,
+"ambiguous": 0.1,
+"conventions": {
+"about_technology": 0.04,
+"about_money": 0.02,
+"about_politics": 0.99
+},
+"v2_flag": false
+},
+"ag_news:test:1527": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.24000000000000002,
+"confidence": 0.93,
+"fit_gold": 0.03,
+"fit_choice": 0.27,
+"ambiguous": 0.39,
+"conventions": {
+"about_technology": 0.64,
+"about_money": 0.02,
+"about_politics": 0.12
+},
+"v2_flag": true
+},
+"ag_news:test:2694": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.77,
+"confidence": 0.98,
+"fit_gold": 0.07,
+"fit_choice": 0.84,
+"ambiguous": 0.21,
+"conventions": {
+"about_technology": 0.05,
+"about_money": 0.18,
+"about_politics": 0.04
+},
+"v2_flag": true
+},
+"ag_news:test:1364": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.9099999999999999,
+"confidence": 1,
+"fit_gold": 0.06,
+"fit_choice": 0.97,
+"ambiguous": 0.29,
+"conventions": {
+"about_technology": 0.03,
+"about_money": 0.94,
+"about_politics": 0.05
+},
+"v2_flag": true
+},
+"ag_news:test:3899": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.97,
+"confidence": 1,
+"fit_gold": 0.02,
+"fit_choice": 0.99,
+"ambiguous": 0.08,
+"conventions": {
+"about_technology": 0.02,
+"about_money": 0.01,
+"about_politics": 0.02
+},
+"v2_flag": true
+},
+"ag_news:test:7077": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.97,
+"confidence": 1,
+"fit_gold": 0.02,
+"fit_choice": 0.99,
+"ambiguous": 0.08,
+"conventions": {
+"about_technology": 0.01,
+"about_money": 0.01,
+"about_politics": 0.02
+},
+"v2_flag": true
+},
+"ag_news:test:7461": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.49000000000000005,
+"confidence": 0.88,
+"fit_gold": 0.06,
+"fit_choice": 0.55,
+"ambiguous": 0.21,
+"conventions": {
+"about_technology": 0.1,
+"about_money": 0.13,
+"about_politics": 0.92
+},
+"v2_flag": false
+},
+"ag_news:test:7322": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.52,
+"confidence": 0.96,
+"fit_gold": 0.37,
+"fit_choice": 0.89,
+"ambiguous": 0.39,
+"conventions": {
+"about_technology": 0.35,
+"about_money": 0.07,
+"about_politics": 0.01
+},
+"v2_flag": true
+},
+"ag_news:test:456": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.9299999999999999,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.96,
+"ambiguous": 0.18,
+"conventions": {
+"about_technology": 0.07,
+"about_money": 0.02,
+"about_politics": 0.99
+},
+"v2_flag": false
+},
+"ag_news:test:1617": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.98,
+"confidence": 1,
+"fit_gold": 0.01,
+"fit_choice": 0.99,
+"ambiguous": 0.04,
+"conventions": {
+"about_technology": 0.01,
+"about_money": 0.01,
+"about_politics": 0.01
+},
+"v2_flag": true
+}
+}

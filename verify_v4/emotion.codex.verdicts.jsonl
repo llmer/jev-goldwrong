@@ -1,0 +1,104 @@
+{"id":"emotion:test:1440","verdict":"gold_wrong","correct_label":"fear","reason":"\"Nervous as hell on the inside about the scan\" explicitly overrides the writer's tentative claim of feeling okay."}
+{"id":"emotion:test:502","verdict":"gold_wrong","correct_label":"fear","reason":"\"Stressed and more than a bit anxious\" expresses anxiety rather than anger."}
+{"id":"emotion:test:1270","verdict":"gold_wrong","correct_label":"sadness","reason":"\"I feel very saddened\" states the current emotion, while respect for the king belongs to the past."}
+{"id":"emotion:test:603","verdict":"gold_wrong","correct_label":"fear","reason":"Anticipating something that will \"take everything i love\" and \"destroy me\" expresses dread of a threat."}
+{"id":"emotion:test:1426","verdict":"gold_wrong","correct_label":"fear","reason":"\"This could be dangerous\" expresses concern about possible danger, classified as fear under the convention."}
+{"id":"emotion:test:718","verdict":"gold_wrong","correct_label":"fear","reason":"\"Extremely dangerous for her to be wandering out to sea\" expresses worry about another person's safety."}
+{"id":"emotion:test:1190","verdict":"gold_wrong","correct_label":"fear","reason":"\"Very stressed and anxious\" identifies the writer's distress as anxiety, with no anger expressed."}
+{"id":"emotion:test:1144","verdict":"gold_wrong","correct_label":"fear","reason":"\"I worry too much\" directly expresses anxiety rather than anger."}
+{"id":"emotion:test:625","verdict":"gold_wrong","correct_label":"fear","reason":"\"Overwhelmed by trying to do it all\" describes overload, assigned to fear under the stated convention."}
+{"id":"emotion:test:820","verdict":"gold_wrong","correct_label":"fear","reason":"\"Feeling a bit overwhelmed\" is fear under the convention and does not express astonishment."}
+{"id":"emotion:test:1185","verdict":"gold_wrong","correct_label":"fear","reason":"\"A little overwhelmed knowing i have to\" conveys pressure about obligations rather than surprise."}
+{"id":"emotion:test:705","verdict":"gold_wrong","correct_label":"fear","reason":"\"I feel overwhelmed\" maps to fear under the explicit convention."}
+{"id":"emotion:test:1240","verdict":"gold_wrong","correct_label":"sadness","reason":"\"Going no where\" and enthusiasm that \"is now over\" express present disappointment and loss."}
+{"id":"emotion:test:1228","verdict":"gold_wrong","correct_label":"fear","reason":"\"Do not feel assured\" negates reassurance and expresses insecurity under the explicit convention."}
+{"id":"emotion:test:969","verdict":"gold_wrong","correct_label":"fear","reason":"\"Overwhelmed with it all and needing to take time out\" expresses overload rather than surprise."}
+{"id":"emotion:test:800","verdict":"gold_wrong","correct_label":"anger","reason":"Accusing someone of trying to \"steal private industries away from citizens\" expresses political indignation rather than happiness."}
+{"id":"emotion:test:444","verdict":"gold_wrong","correct_label":"fear","reason":"\"Something terrifyingly bad is bound to happen to me\" expresses anticipatory dread."}
+{"id":"emotion:test:900","verdict":"gold_wrong","correct_label":"joy","reason":"\"Feeling the excitement\" identifies the emotion, while \"violent waves\" describes its intensity rather than anger."}
+{"id":"emotion:test:1392","verdict":"gold_wrong","correct_label":"sadness","reason":"\"Not feeling jolly in the least\" explicitly negates happiness and conveys a downcast mood."}
+{"id":"emotion:test:67","verdict":"gold_wrong","correct_label":"fear","reason":"\"A bit stressed even though\" activities are fun makes current pressure the dominant feeling."}
+{"id":"emotion:test:1734","verdict":"gold_wrong","correct_label":"joy","reason":"\"Feeling absolutely amazing\" expresses strong positive wellbeing rather than surprise."}
+{"id":"emotion:test:777","verdict":"gold_wrong","correct_label":"fear","reason":"\"Really stressed out due to homework\" that has \"increased rapidly\" expresses pressure from an expanding workload."}
+{"id":"emotion:test:290","verdict":"gold_wrong","correct_label":"anger","reason":"\"Ludicrous and wasting space\" and \"so trite\" express irritated criticism rather than astonishment."}
+{"id":"emotion:test:745","verdict":"gold_wrong","correct_label":"sadness","reason":"\"Not feeling very hopeful\" expresses pessimism rather than the joy implied by unnegated hope."}
+{"id":"emotion:test:336","verdict":"ambiguous","correct_label":"fear","reason":"\"I do feel stressed\" suggests anxiety but does not distinguish anxious pressure from frustration or broader distress."}
+{"id":"emotion:test:1358","verdict":"gold_wrong","correct_label":"fear","reason":"\"Stress levels\" from \"planning a wedding in four months\" express pressure, while \"not loving\" negates affection."}
+{"id":"emotion:test:796","verdict":"gold_wrong","correct_label":"joy","reason":"\"Much more peaceful and happy\" describes the writer's feeling, whereas \"needy\" refers to the children and is negated."}
+{"id":"emotion:test:562","verdict":"gold_wrong","correct_label":"fear","reason":"\"I was worried\" describes the writer's concern about insufficient milk, while \"feeling lethargic\" describes someone else."}
+{"id":"emotion:test:1797","verdict":"gold_wrong","correct_label":"fear","reason":"\"The pressure to be funny all the time\" conveys performance anxiety rather than surprise."}
+{"id":"emotion:test:376","verdict":"gold_wrong","correct_label":"fear","reason":"\"I was stressed by the elevator ride\" describes the writer's distress, while \"feeling generous\" belongs to a hypothetical observer."}
+{"id":"emotion:test:1402","verdict":"gold_wrong","correct_label":"joy","reason":"\"Keep on feeling blessed\" expresses grateful happiness without stating affection toward another person."}
+{"id":"emotion:test:53","verdict":"gold_wrong","correct_label":"fear","reason":"\"Can t stop the anxiety\" directly identifies the dominant emotion as fear."}
+{"id":"emotion:test:1637","verdict":"gold_wrong","correct_label":"joy","reason":"\"Faster than yesterday and im feeling amazing\" expresses satisfaction with a successful run."}
+{"id":"emotion:test:1858","verdict":"gold_wrong","correct_label":"joy","reason":"\"Felt good to go with a clear mind\" expresses relief after the earlier distraction."}
+{"id":"emotion:test:1230","verdict":"gold_wrong","correct_label":"sadness","reason":"\"Not feeling the jolly this year\" expresses a lack of cheer rather than joy."}
+{"id":"emotion:test:1051","verdict":"gold_wrong","correct_label":"joy","reason":"\"Celebrate how great i was feeling\" expresses happiness about recovery beyond the physical absence of pain."}
+{"id":"emotion:test:1552","verdict":"gold_wrong","correct_label":"joy","reason":"\"Finally starting to feel like i have a real life\" expresses relief, and \"no longer\" negates the earlier confusion."}
+{"id":"emotion:test:202","verdict":"gold_wrong","correct_label":"joy","reason":"\"Feeling hot tired and great\" combines physical tiredness with positive satisfaction rather than affection."}
+{"id":"emotion:test:500","verdict":"gold_wrong","correct_label":"fear","reason":"\"Dangerous especially for the new believer\" expresses concern about vulnerability rather than anger."}
+{"id":"emotion:test:418","verdict":"gold_wrong","correct_label":"fear","reason":"\"Revising today\" and \"feeling quite stressed\" convey study-related pressure without an angry target."}
+{"id":"emotion:test:192","verdict":"gold_wrong","correct_label":"love","reason":"\"Feel very strongly for her\" expresses attachment, while resolve to speak to her does not establish joy."}
+{"id":"emotion:test:937","verdict":"ambiguous","correct_label":"fear","reason":"\"I feel is entirely more dangerous\" suggests concern but is too incomplete to separate felt fear from a neutral risk comparison."}
+{"id":"emotion:test:1475","verdict":"ambiguous","correct_label":"fear","reason":"\"Repressed fear and anxiety and distrust\" names fear, but \"did feel\" leaves unclear whether this feeling still applies now."}
+{"id":"emotion:test:624","verdict":"gold_wrong","correct_label":"joy","reason":"\"Finally losing that stubborn little bit\" conveys satisfaction with progress rather than anger at the remaining weight."}
+{"id":"emotion:test:1382","verdict":"ambiguous","correct_label":"sadness","reason":"\"Depth of sorrow\" states sadness, but mourning unposted \"ludicrous rants\" also permits an ironic reading."}
+{"id":"emotion:test:1876","verdict":"gold_wrong","correct_label":"fear","reason":"\"Need a break\" and \"feeling stressed out\" express overload rather than hostility."}
+{"id":"emotion:test:1070","verdict":"gold_wrong","correct_label":"sadness","reason":"\"I feel shame\" is sadness under the explicit convention, while \"strange\" does not establish surprise."}
+{"id":"emotion:test:1209","verdict":"ambiguous","correct_label":"joy","reason":"\"Determined to continue\" suggests resolve, while not wanting to be seen \"walking or stopping\" suggests unease and the discomfort is physical."}
+{"id":"emotion:test:1280","verdict":"gold_wrong","correct_label":"fear","reason":"Anticipating that \"hes not going to be too pleased\" expresses worry about another person's reaction."}
+{"id":"emotion:test:1386","verdict":"gold_wrong","correct_label":"fear","reason":"\"It will get taken away from me\" expresses fear of loss, while being \"too passionate\" is hypothetical."}
+{"id":"emotion:test:1957","verdict":"gold_wrong","correct_label":"joy","reason":"\"Feeling amazing and seeing the difference\" expresses positive satisfaction rather than surprise."}
+{"id":"emotion:test:606","verdict":"gold_wrong","correct_label":"fear","reason":"\"Don t feel comfortable\" expresses unease about the games, assigned to fear under the convention."}
+{"id":"emotion:test:615","verdict":"gold_wrong","correct_label":"joy","reason":"\"Really lovely\" packaging and a product that \"does everything you ask\" express consumer satisfaction rather than attachment."}
+{"id":"emotion:test:905","verdict":"ambiguous","correct_label":"fear","reason":"\"Anxious feelings\" supports fear, while \"impatient thoughts\" also supports frustration about preparations before the baby arrives."}
+{"id":"emotion:test:622","verdict":"gold_wrong","correct_label":"fear","reason":"\"Don t feel brave\" negates confidence and expresses fearfulness."}
+{"id":"emotion:test:921","verdict":"gold_wrong","correct_label":"joy","reason":"\"Less stress\" because obligations can be mixed with \"things i enjoy\" expresses reassurance and positive anticipation."}
+{"id":"emotion:test:191","verdict":"gold_wrong","correct_label":"joy","reason":"\"Enjoying my solitary confinement\" expresses contentment, while \"rarely feel lonely\" minimizes sadness."}
+{"id":"emotion:test:1934","verdict":"gold_wrong","correct_label":"sadness","reason":"\"Dont really care\" and \"dont feel proud of myself at all\" convey apathy and diminished self-regard."}
+{"id":"emotion:test:1792","verdict":"ambiguous","correct_label":"joy","reason":"\"Much more energized\" suggests an uplifted mood but could also describe physical energy without a distinct emotion."}
+{"id":"emotion:test:678","verdict":"gold_wrong","correct_label":"fear","reason":"\"Dont feel comfortable in them\" and uncertainty about coordinating clothes express insecurity rather than joy."}
+{"id":"emotion:test:249","verdict":"gold_wrong","correct_label":"none","reason":"\"If i feel overwhelmed\" is a hypothetical condition in a meditation plan rather than an emotion the writer currently reports."}
+{"id":"emotion:test:58","verdict":"gold_wrong","correct_label":"joy","reason":"\"Starting to understand the blessings\" expresses positive spiritual appreciation rather than sadness about being submissive."}
+{"id":"emotion:test:1142","verdict":"gold_wrong","correct_label":"love","reason":"\"I love you\" and \"my feelings are sincere my dear\" explicitly express affection."}
+{"id":"emotion:test:1377","verdict":"gold_wrong","correct_label":"none","reason":"\"He felt\" attributes the \"overjoyed feelings\" and affection for friends to a narrated person rather than the writer's present emotion."}
+{"id":"emotion:test:907","verdict":"gold_wrong","correct_label":"sadness","reason":"\"Dissatisfied with myself\" expresses self-directed disappointment rather than anger toward someone else."}
+{"id":"emotion:test:426","verdict":"gold_wrong","correct_label":"fear","reason":"\"I feel unprotected\" expresses vulnerability and insecurity."}
+{"id":"emotion:test:1465","verdict":"gold_wrong","correct_label":"fear","reason":"\"Never know how to talk to people\" and \"hope they didnt think i was rude\" express social anxiety rather than surprise."}
+{"id":"emotion:test:1744","verdict":"gold_wrong","correct_label":"joy","reason":"\"Happy to report\" states the writer's positive feeling, and \"not feeling terribly stressed\" negates substantial distress."}
+{"id":"emotion:test:778","verdict":"gold_wrong","correct_label":"fear","reason":"\"Begging fate not to mess with the next cycle\" expresses current worry, while feeling \"reassured\" is only the hoped-for outcome."}
+{"id":"emotion:test:303","verdict":"ambiguous","correct_label":"love","reason":"\"Very passionate about productions\" expresses love for theatre, while \"so impressed\" and \"always happy\" also support joy."}
+{"id":"emotion:test:856","verdict":"gold_wrong","correct_label":"anger","reason":"\"I want you to feel just as humiliated\" expresses present revenge, whereas the writer's own humiliation is past."}
+{"id":"emotion:test:471","verdict":"ambiguous","correct_label":"fear","reason":"\"A horrible feeling aching in the depths of my stomach\" could convey dread or merely physical discomfort without enough context."}
+{"id":"emotion:test:347","verdict":"gold_wrong","correct_label":"anger","reason":"\"Agitated and annoyed more than worried or fearful\" explicitly identifies irritation as the dominant emotion."}
+{"id":"emotion:test:464","verdict":"gold_wrong","correct_label":"none","reason":"\"An unpleasant drop in my stomach\" as elevator doors open describes a bodily sensation without stating an emotional cause."}
+{"id":"emotion:test:131","verdict":"gold_wrong","correct_label":"joy","reason":"\"Feeling generous today\" and sharing something \"good for a chuckle\" express an upbeat mood rather than attachment."}
+{"id":"emotion:test:1273","verdict":"gold_wrong","correct_label":"joy","reason":"\"This strange sort of liberation\" expresses relief and freedom rather than astonishment."}
+{"id":"emotion:test:1320","verdict":"gold_wrong","correct_label":"joy","reason":"\"Yay im gna get my delicious chocolates\" conveys happy anticipation, while \"greedy pig\" is playful self-description."}
+{"id":"emotion:test:844","verdict":"gold_wrong","correct_label":"joy","reason":"\"But being back in the city feels amazing\" establishes current happiness after the earlier illness and frustration."}
+{"id":"emotion:test:247","verdict":"gold_wrong","correct_label":"joy","reason":"\"Finally met it s match\" conveys satisfaction with a skin solution, while \"irritable\" describes the skin rather than anger."}
+{"id":"emotion:test:1969","verdict":"gold_wrong","correct_label":"none","reason":"\"Feel the warmth of the gentle sun\" describes a physical sensation without an expressed emotion."}
+{"id":"emotion:test:1385","verdict":"gold_wrong","correct_label":"none","reason":"\"Alex took a deep breath\" and \"she imagined the scenario\" frame the sexual desire as a character's experience rather than the writer's emotion."}
+{"id":"emotion:test:1431","verdict":"gold_wrong","correct_label":"joy","reason":"\"Freedom and protection from suffering\" describes relief during meditation rather than present suffering."}
+{"id":"emotion:test:1791","verdict":"gold_wrong","correct_label":"none","reason":"\"Did a body scan\" and \"everything was feeling amazing\" report bodily wellbeing without specifying an emotional response."}
+{"id":"emotion:test:1146","verdict":"gold_wrong","correct_label":"joy","reason":"\"Feel affirmed\" and \"less self doubt\" emphasize confidence and positive self-regard rather than attachment."}
+{"id":"emotion:test:152","verdict":"gold_wrong","correct_label":"none","reason":"\"Wasn t sure if they were contractions\" identifies the \"uncomfortable\" feelings as bodily sensations rather than an expressed emotion."}
+{"id":"emotion:test:838","verdict":"ambiguous","correct_label":"joy","reason":"\"Finally want to write\" suggests renewed interest, but the statement about a makeup hobby does not clearly establish an emotional state."}
+{"id":"emotion:test:260","verdict":"gold_wrong","correct_label":"fear","reason":"\"Now i feel rushed and stressed\" when handling coins expresses social pressure rather than anger."}
+{"id":"emotion:test:1313","verdict":"gold_wrong","correct_label":"sadness","reason":"\"Not be as jolly as i wish i could be\" expresses disappointment with the writer's mood rather than happiness."}
+{"id":"emotion:test:1115","verdict":"gold_wrong","correct_label":"anger","reason":"\"Vented my feelings\" toward a \"pathetic excuse\" expresses contempt and frustration."}
+{"id":"emotion:test:621","verdict":"gold_wrong","correct_label":"sadness","reason":"\"Im sad\" states the writer's feeling, while \"very supportive\" describes other people."}
+{"id":"emotion:test:608","verdict":"gold_wrong","correct_label":"none","reason":"\"They were sympathetic\" attributes sympathy to Apple, and \"responded appropriately\" is an assessment rather than the writer's stated emotion."}
+{"id":"emotion:test:529","verdict":"gold_wrong","correct_label":"joy","reason":"\"My sweet company is finally coming together\" expresses satisfaction with progress rather than primarily affection."}
+{"id":"emotion:test:120","verdict":"ambiguous","correct_label":"joy","reason":"\"Less whiney since the sun came out\" suggests improved mood but does not distinguish happiness from reduced lingering discontent."}
+{"id":"emotion:test:132","verdict":"ambiguous","correct_label":"fear","reason":"\"Will feel awkward\" predicts social discomfort, but does not clearly state whether that fear is already felt now."}
+{"id":"emotion:test:451","verdict":"ambiguous","correct_label":"sadness","reason":"\"Dissatisfied with my purchase\" after comparison could express disappointment or frustrated anger, without a clear dominant cue."}
+{"id":"emotion:test:1593","verdict":"gold_wrong","correct_label":"fear","reason":"\"A little inhibited\" about calling someone no longer close expresses social apprehension rather than sadness."}
+{"id":"emotion:test:439","verdict":"gold_wrong","correct_label":"fear","reason":"\"Feel a bit awkward\" and worry about \"overstepping myself\" express social unease, assigned to fear under the convention."}
+{"id":"emotion:test:1654","verdict":"ambiguous","correct_label":"sadness","reason":"\"A little dissatisfied\" could mean disappointment or irritation, and the fragment gives no context to distinguish them."}
+{"id":"emotion:test:1372","verdict":"ambiguous","correct_label":"joy","reason":"\"See a first step\" suggests hope, but \"not feel so despairing\" allows some sadness to remain."}
+{"id":"emotion:test:1442","verdict":"ambiguous","correct_label":"joy","reason":"\"More grounded and centered\" suggests reassurance, but \"less frightened\" reduces rather than eliminates fear."}
+{"id":"emotion:test:992","verdict":"gold_wrong","correct_label":"sadness","reason":"\"Terribly remourseful\" about not following plans expresses regret rather than love."}
+{"id":"emotion:test:1403","verdict":"ambiguous","correct_label":"joy","reason":"\"Making more effort\" and \"less shy\" suggest growing confidence, but reduced concern about judgment can coexist with residual fear."}
+{"id":"emotion:test:789","verdict":"ambiguous","correct_label":"sadness","reason":"\"Did not feel any passionate joy\" rules out the stated joy but does not distinguish sadness from emotional neutrality or establish a current feeling."}
+{"id":"emotion:test:995","verdict":"ambiguous","correct_label":"joy","reason":"\"Less shy about exploring roles\" suggests increased confidence but could also describe continuing, diminished anxiety without joy."}

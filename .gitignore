@@ -8,3 +8,8 @@ out/*.jsonl
 v1/out/*.jsonl
 out/*.log
 v1/out/*.log
+out_v3/*.jsonl
+out_v3/*.log
+out_v4/*.jsonl
+out_v4/*.log
+docs/jev-goldwrong-story.html

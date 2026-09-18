@@ -1,0 +1,236 @@
+{"id":"ag_news:test:3805","verdict":"gold_wrong","correct_label":"Sports","reason":"\"Game 2 of the NL Championship series\" identifies a baseball playoff preview."}
+{"id":"ag_news:test:6150","verdict":"gold_wrong","correct_label":"Sports","reason":"\"Scores 27 points\" as England beat the Springboks describes a rugby match result."}
+{"id":"ag_news:test:2028","verdict":"gold_wrong","correct_label":"Sports","reason":"Europe moving \"11-5 clear\" before \"Ryder Cup singles\" is golf tournament coverage."}
+{"id":"ag_news:test:3063","verdict":"gold_wrong","correct_label":"Sports","reason":"\"A record-tying 18th straight game\" and an \"NFL round-up\" concern American football."}
+{"id":"ag_news:test:4234","verdict":"gold_wrong","correct_label":"Sports","reason":"Pakistan's lead over Sri Lanka \"in the first Test\" is a cricket match report."}
+{"id":"ag_news:test:967","verdict":"gold_wrong","correct_label":"Sports","reason":"\"Seven shutout innings\" and the Cubs' \"5-2\" victory describe baseball performance and milestones."}
+{"id":"ag_news:test:1080","verdict":"gold_wrong","correct_label":"Sports","reason":"Davenport winning \"6-4, 6-2\" to reach the U.S. Open's third round is tennis coverage."}
+{"id":"ag_news:test:4549","verdict":"gold_wrong","correct_label":"Sports","reason":"\"362 for seven wickets\" in a \"cricket test\" is a sporting score report."}
+{"id":"ag_news:test:2468","verdict":"gold_wrong","correct_label":"Sports","reason":"\"A two-run homer\" in the Dodgers' \"3-2 victory\" makes the match the focus despite the holiday reference."}
+{"id":"ag_news:test:450","verdict":"gold_wrong","correct_label":"Sports","reason":"\"Routing Angola 89-53\" in the \"Olympic men's basketball tournament\" is a sports result."}
+{"id":"ag_news:test:1466","verdict":"gold_wrong","correct_label":"Sports","reason":"\"25,000-yard passing mark\" and a \"17-13 halftime lead\" describe an NFL game."}
+{"id":"ag_news:test:2656","verdict":"gold_wrong","correct_label":"Sports","reason":"\"Cowboys Defeat Redskins 21-18\" and a celebrated \"touchdown\" identify football coverage."}
+{"id":"ag_news:test:5941","verdict":"gold_wrong","correct_label":"Sports","reason":"A \"New Zealand bowler\" missing the \"first Test\" through injury is cricket team news."}
+{"id":"ag_news:test:1533","verdict":"gold_wrong","correct_label":"Sports","reason":"\"Collingwood's unbeaten 80\" and England's \"299 for seven\" describe a cricket match."}
+{"id":"ag_news:test:369","verdict":"gold_wrong","correct_label":"Sports","reason":"The softball team's \"eighth shutout\" and place in the \"gold medal game\" are Olympic competition news."}
+{"id":"ag_news:test:372","verdict":"gold_wrong","correct_label":"Sports","reason":"\"100 meters\" qualifiers who \"broke 10 seconds\" identify Olympic sprint coverage."}
+{"id":"ag_news:test:3688","verdict":"gold_wrong","correct_label":"Sports","reason":"Ljubicic beating Hanescu \"6-4, 6-4\" in the \"Open de Moselle\" reports a tennis result."}
+{"id":"ag_news:test:1617","verdict":"gold_wrong","correct_label":"Sports","reason":"An \"NFL record\" away-game losing streak ending with a \"20-16\" win is football coverage."}
+{"id":"ag_news:test:3746","verdict":"gold_wrong","correct_label":"Sports","reason":"\"England's winner in the World Cup qualifier\" reports a football match outcome."}
+{"id":"ag_news:test:3899","verdict":"gold_wrong","correct_label":"Sports","reason":"Warne's \"six wickets\" and India's \"141-run first innings lead\" describe Test cricket."}
+{"id":"ag_news:test:3900","verdict":"gold_wrong","correct_label":"Sports","reason":"\"New Zealand hold Australia 16-16\" in the \"Tri-Nations series\" is a rugby result."}
+{"id":"ag_news:test:4028","verdict":"gold_wrong","correct_label":"Business","reason":"\"Oil prices\" driving a \"Wall Street\" stock rally makes market movements the central subject."}
+{"id":"ag_news:test:4029","verdict":"gold_wrong","correct_label":"Sports","reason":"\"Bowl Championship Series standings\" concerns college football rankings."}
+{"id":"ag_news:test:3081","verdict":"gold_wrong","correct_label":"Business","reason":"\"Tokyo stocks finished sharply higher\" and dollar-yen movements describe financial markets."}
+{"id":"ag_news:test:4302","verdict":"gold_wrong","correct_label":"Sports","reason":"\"Sangakkara's unbeaten fifty\" against Pakistan describes a cricket innings."}
+{"id":"ag_news:test:747","verdict":"gold_wrong","correct_label":"Sports","reason":"Argentina's \"89-81\" win in the \"Olympic semi-finals\" is basketball competition news."}
+{"id":"ag_news:test:676","verdict":"gold_wrong","correct_label":"Sports","reason":"A \"2-1\" extra-time win in the \"women's Olympic football tournament\" is a sports result."}
+{"id":"ag_news:test:626","verdict":"gold_wrong","correct_label":"Sports","reason":"The \"U.S. men's basketball team\" facing Spain in a \"quarterfinal game\" is Olympic sports coverage."}
+{"id":"ag_news:test:614","verdict":"gold_wrong","correct_label":"Sports","reason":"Pakistan defeating India \"3-0\" in \"Olympic men's field hockey\" reports a sporting result."}
+{"id":"ag_news:test:4669","verdict":"gold_wrong","correct_label":"Sports","reason":"Henman winning at the \"Swiss Indoors tennis tournament\" by \"6-3, 6-4\" is tennis coverage."}
+{"id":"ag_news:test:4734","verdict":"gold_wrong","correct_label":"Sports","reason":"A \"lead of 300 runs\" with \"nine wickets in hand\" in a cricket Test is sports news."}
+{"id":"ag_news:test:5892","verdict":"gold_wrong","correct_label":"Sports","reason":"Learning to play \"slow pitches\" before a \"two-Test series\" concerns cricket preparation."}
+{"id":"ag_news:test:7077","verdict":"gold_wrong","correct_label":"Sports","reason":"A \"four-day tour match\" and \"two wickets\" identify cricket competition coverage."}
+{"id":"ag_news:test:3661","verdict":"gold_wrong","correct_label":"Sports","reason":"Tendulkar missing the \"second Test against Australia\" is cricket player availability news."}
+{"id":"ag_news:test:3662","verdict":"gold_wrong","correct_label":"Business","reason":"\"Stocks lower\" amid \"oil prices\" and \"earnings reports\" describes financial market performance."}
+{"id":"ag_news:test:88","verdict":"gold_wrong","correct_label":"Sports","reason":"Swimmers missing the cut in \"Olympic 100-meter freestyle preliminaries\" is Olympic competition coverage."}
+{"id":"ag_news:test:106","verdict":"gold_wrong","correct_label":"Business","reason":"\"Stocks rose\" after a \"drop in consumer prices\" concerns markets and inflation."}
+{"id":"ag_news:test:1779","verdict":"gold_wrong","correct_label":"Business","reason":"\"Stocks headed lower\" after Coca-Cola's forecast and weak industrial production describes business and economic news."}
+{"id":"ag_news:test:5127","verdict":"gold_wrong","correct_label":"World","reason":"A \"politically inspired homicide\" in which Theo van Gogh was \"murdered\" is crime and political news."}
+{"id":"ag_news:test:79","verdict":"gold_wrong","correct_label":"Sports","reason":"Athletes \"going for gold\" on \"Olympics day four\" identify Olympic sports coverage."}
+{"id":"ag_news:test:4027","verdict":"gold_wrong","correct_label":"Sports","reason":"Davenport planning to play in the \"Australian Open\" is tennis participation news."}
+{"id":"ag_news:test:3062","verdict":"gold_wrong","correct_label":"Business","reason":"The \"Nikkei average rose 1.37 percent\" as investors bought shares, making this a broad market report."}
+{"id":"ag_news:test:2205","verdict":"gold_wrong","correct_label":"Business","reason":"\"Stocks dashed higher\" on earnings, economic data, and interest rates concerns financial markets."}
+{"id":"ag_news:test:584","verdict":"gold_wrong","correct_label":"Sports","reason":"Marion Jones \"advancing to the long jump final\" identifies Olympic athletics coverage."}
+{"id":"ag_news:test:1110","verdict":"gold_wrong","correct_label":"World","reason":"\"Foreign ministers\" discussing Myanmar's participation in an international \"summit\" is diplomacy."}
+{"id":"ag_news:test:1197","verdict":"gold_wrong","correct_label":"World","reason":"A man who \"attacked two security guards\" at MI5 headquarters is the subject of a crime report."}
+{"id":"ag_news:test:1213","verdict":"gold_wrong","correct_label":"Business","reason":"\"Tokyo stocks rose\" and the dollar rising against the yen describe financial market movements."}
+{"id":"ag_news:test:488","verdict":"gold_wrong","correct_label":"World","reason":"An audit of a presidential \"recall vote\" finding \"no evidence of fraud\" concerns electoral politics."}
+{"id":"ag_news:test:1269","verdict":"gold_wrong","correct_label":"World","reason":"\"Deepest sympathy\" for families after a \"Russian school siege\" concerns violence and its diplomatic response."}
+{"id":"ag_news:test:5740","verdict":"gold_wrong","correct_label":"Business","reason":"A newspaper publisher agreeing to \"buy MarketWatch\" for \"519 million\" is a media acquisition story."}
+{"id":"ag_news:test:3453","verdict":"gold_wrong","correct_label":"Business","reason":"\"Stocks lower\" after a weak \"job creation report\" is financial market and economic news."}
+{"id":"ag_news:test:613","verdict":"gold_wrong","correct_label":"Sports","reason":"Rain affecting the \"final of the triangular cricket tournament\" concerns sports scheduling."}
+{"id":"ag_news:test:4650","verdict":"gold_wrong","correct_label":"Business","reason":"Mining companies agreeing to \"sell their metal services joint venture\" is a corporate deal."}
+{"id":"ag_news:test:456","verdict":"gold_wrong","correct_label":"World","reason":"An audit of the \"recall referendum\" against Venezuela's president concerns elections and political legitimacy."}
+{"id":"ag_news:test:3563","verdict":"gold_wrong","correct_label":"Sports","reason":"The death of \"Ken Caminiti, the 1996 National League MVP\" is an athlete obituary, assigned to Sports."}
+{"id":"ag_news:test:3570","verdict":"gold_wrong","correct_label":"Sports","reason":"The death of Australia's \"greatest all-rounder in Test cricket\" is an athlete obituary."}
+{"id":"ag_news:test:348","verdict":"gold_wrong","correct_label":"Sports","reason":"Nesterenko winning the \"100 meters\" Olympic \"gold medal\" is athletics coverage."}
+{"id":"ag_news:test:336","verdict":"gold_wrong","correct_label":"World","reason":"Confirmation that Chavez won a \"recall referendum\" is electoral and political news."}
+{"id":"ag_news:test:120","verdict":"gold_wrong","correct_label":"Business","reason":"Oil \"closing at a record high\" with a quoted per-barrel price is commodity market news."}
+{"id":"ag_news:test:6089","verdict":"gold_wrong","correct_label":"Sports","reason":"A \"Brazil football great\" making his debut for \"Garforth Town\" is football player news."}
+{"id":"ag_news:test:2833","verdict":"gold_wrong","correct_label":"World","reason":"A man who \"fatally stabbed his parents\" being \"arrested\" is a crime story."}
+{"id":"ag_news:test:6247","verdict":"ambiguous","correct_label":"Business","reason":"\"Shares of GenCorp\" falling after a withdrawn acquisition proposal is financial news about an \"aerospace and real estate company\", straddling sections."}
+{"id":"ag_news:test:5129","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"The Treo's \"higher resolution\" display, \"Intel XScale processor\", and multimedia features make this a technology product preview."}
+{"id":"ag_news:test:5142","verdict":"gold_wrong","correct_label":"Business","reason":"Japan Airlines \"returned to profitability\" as travel recovered, making corporate earnings the focus."}
+{"id":"ag_news:test:4137","verdict":"gold_wrong","correct_label":"Sports","reason":"The disputed future of the \"British Grand Prix\" concerns a Formula One event."}
+{"id":"ag_news:test:2126","verdict":"gold_wrong","correct_label":"World","reason":"Ending a \"trade embargo on Libya\" while retaining \"terrorism-related sanctions\" concerns foreign policy and diplomacy."}
+{"id":"ag_news:test:2574","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"An updated Photoshop \"plug-in\" supporting \"RAW image formats\" is software technology news."}
+{"id":"ag_news:test:408","verdict":"gold_wrong","correct_label":"World","reason":"Chavez refusing to recognize an \"opposition coalition\" concerns domestic politics."}
+{"id":"ag_news:test:1494","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"Astronomers obtaining an image of a \"planet circling another star\" is space science."}
+{"id":"ag_news:test:6006","verdict":"gold_wrong","correct_label":"World","reason":"Putin discussing the \"constitution\" and \"government structure\" concerns political reform."}
+{"id":"ag_news:test:2738","verdict":"gold_wrong","correct_label":"Sports","reason":"\"Major League Baseball\" moving the \"Montreal Expos\" to Washington is sports franchise news."}
+{"id":"ag_news:test:7228","verdict":"gold_wrong","correct_label":"World","reason":"A president asking \"Indonesian diplomats\" to improve the country's image concerns government and diplomacy."}
+{"id":"ag_news:test:7238","verdict":"gold_wrong","correct_label":"Sports","reason":"Bangladesh's coach defending \"Test status\" after a defeat to India concerns cricket."}
+{"id":"ag_news:test:6100","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"A \"new computer virus\" that returns after removal is computing security news."}
+{"id":"ag_news:test:24","verdict":"gold_wrong","correct_label":"Business","reason":"Competition involving \"discount stock broker Charles Schwab\" and its \"low prices\" concerns financial services business."}
+{"id":"ag_news:test:2944","verdict":"gold_wrong","correct_label":"Business","reason":"\"Stocks sharply higher\" after manufacturing and construction data makes broad market performance the main subject."}
+{"id":"ag_news:test:5128","verdict":"gold_wrong","correct_label":"Sports","reason":"Argentina's Olympic basketball coach resigning for a \"coaching job in Italy\" is sports personnel news."}
+{"id":"ag_news:test:56","verdict":"gold_wrong","correct_label":"Business","reason":"Tata agreeing to \"buy the Asia-Pacific steel operations\" of NatSteel is an industrial acquisition."}
+{"id":"ag_news:test:7539","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"Evidence that water flowed on \"Mars\" topping \"scientific advances\" is space science news."}
+{"id":"ag_news:test:4102","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"Ancient fungus growing \"when placed in culture\" is a scientific laboratory discovery."}
+{"id":"ag_news:test:582","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"The \"release to manufacturing of Microsoft Operations Manager\" announces a software product release."}
+{"id":"ag_news:test:5597","verdict":"gold_wrong","correct_label":"Business","reason":"A broadcaster reporting that \"profit rose by 16 percent\" because of subscriber growth is an earnings story."}
+{"id":"ag_news:test:6766","verdict":"gold_wrong","correct_label":"Business","reason":"Air Deccan planning to \"raise 50 million dollars in private equity\" and enter a new market is airline business news."}
+{"id":"ag_news:test:4530","verdict":"gold_wrong","correct_label":"Business","reason":"Steel companies agreeing to \"merge\" into the \"world's largest steelmaker\" is a corporate consolidation story."}
+{"id":"ag_news:test:1364","verdict":"gold_wrong","correct_label":"Business","reason":"Hyundai signing an agreement to \"build a commercial vehicle and engine plant\" concerns industrial expansion rather than a technological advance."}
+{"id":"ag_news:test:2752","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"A \"Blue Gene/L supercomputer\" surpassing another machine's \"sustained performance\" is a computing achievement."}
+{"id":"ag_news:test:2758","verdict":"gold_wrong","correct_label":"Sports","reason":"Opening a \"global cricket academy\" to improve playing standards is sports development news."}
+{"id":"ag_news:test:1668","verdict":"gold_wrong","correct_label":"World","reason":"EU ministers threatening \"sanctions against Myanmar\" over its \"human rights record\" concerns international diplomacy."}
+{"id":"ag_news:test:3856","verdict":"gold_wrong","correct_label":"Business","reason":"Retail \"sales\" increasing \"1.5 percent\" is an economic consumption report."}
+{"id":"ag_news:test:4000","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"A \"new desktop search application\" and its \"user privacy\" design are software and security topics."}
+{"id":"ag_news:test:7505","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"Evidence that \"gene therapy can cure children\" concerns medical science."}
+{"id":"ag_news:test:892","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"A \"more powerful memory chip without increasing its size\" is a hardware breakthrough."}
+{"id":"ag_news:test:4275","verdict":"gold_wrong","correct_label":"World","reason":"The European Council deciding whether to \"open negotiations with Turkey\" concerns international political relations."}
+{"id":"ag_news:test:2234","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"A scientific study of \"genetically modified grass\" and \"transgenic crossbreeding\" concerns biotechnology and environmental risk."}
+{"id":"ag_news:test:4359","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"A \"privacy risk\" from Google's tool that \"indexes a PC's contents\" concerns software security."}
+{"id":"ag_news:test:727","verdict":"gold_wrong","correct_label":"Business","reason":"A utility planning an \"initial public offering\" on the stock exchange is corporate finance news."}
+{"id":"ag_news:test:1373","verdict":"gold_wrong","correct_label":"Business","reason":"\"Stocks falling\" after the Federal Reserve chairman's economic assessment makes financial market reaction the focus."}
+{"id":"ag_news:test:5916","verdict":"gold_wrong","correct_label":"Business","reason":"ConocoPhillips increasing its \"stake\" in LUKoil and gaining board representation is corporate ownership news."}
+{"id":"ag_news:test:316","verdict":"gold_wrong","correct_label":"Business","reason":"\"Soaring crude oil prices\" and prospective \"gasoline costs\" concern commodity and consumer prices."}
+{"id":"ag_news:test:1098","verdict":"gold_wrong","correct_label":"Sports","reason":"Recalculating \"medal standings\" for the \"Athens Olympics\" remains sports analysis."}
+{"id":"ag_news:test:2828","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"The \"world's fastest computer\" with \"16,000\" processors is a supercomputing development."}
+{"id":"ag_news:test:248","verdict":"gold_wrong","correct_label":"Business","reason":"Caterpillar acquiring an engine remanufacturer and increasing its \"employment base\" concerns an industrial business deal."}
+{"id":"ag_news:test:6592","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"Plans for a new \"Cell\" processor powering \"computers, game consoles and televisions\" concern hardware technology."}
+{"id":"ag_news:test:6640","verdict":"gold_wrong","correct_label":"Business","reason":"Renault's plan to \"invest some 570 million dollars\" as part of its \"global strategy\" concerns business expansion."}
+{"id":"ag_news:test:4396","verdict":"gold_wrong","correct_label":"Business","reason":"The appointment of a \"chief executive of Kmart\" is corporate leadership news."}
+{"id":"ag_news:test:2333","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"Google reportedly developing \"its own web browser\" is internet software news."}
+{"id":"ag_news:test:2491","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"Researchers studying how \"heart disease and lung cancer are influenced by gender\" concerns medical science."}
+{"id":"ag_news:test:5886","verdict":"gold_wrong","correct_label":"Business","reason":"\"Producer prices surged 1.7 percent\" concerns inflation and economic indicators."}
+{"id":"ag_news:test:2686","verdict":"gold_wrong","correct_label":"Business","reason":"A falling \"Consumer Confidence Index\" linked to job worries is an economic report."}
+{"id":"ag_news:test:3672","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"Adding \"Photo Ability\" to the \"iPod\" concerns a technology product feature."}
+{"id":"ag_news:test:3775","verdict":"gold_wrong","correct_label":"Business","reason":"\"European equity markets\" poised for losses makes this broad financial market news despite the mention of Nokia earnings."}
+{"id":"ag_news:test:4097","verdict":"gold_wrong","correct_label":"Business","reason":"\"Households\" carrying debt and \"soaring home prices\" as risks to the economy concern macroeconomics."}
+{"id":"ag_news:test:5285","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"A study of whether heart patients \"live long term\" after receiving \"stents\" concerns medical treatment efficacy."}
+{"id":"ag_news:test:196","verdict":"gold_wrong","correct_label":"Business","reason":"Movements in the \"Nasdaq composite index\" and \"Dow Jones industrial average\" make this a broad stock-market report."}
+{"id":"ag_news:test:3970","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"\"WiMAX\" providing \"high-speed Internet access\" is the subject of a wireless technology assessment."}
+{"id":"ag_news:test:6500","verdict":"gold_wrong","correct_label":"World","reason":"Tsunamis striking multiple countries with a \"death toll\" over 100,000 make disaster impacts the focus."}
+{"id":"ag_news:test:2613","verdict":"gold_wrong","correct_label":"Business","reason":"Fannie Mae keeping \"more cash on hand\" to correct \"accounting problems\" concerns financial company regulation."}
+{"id":"ag_news:test:7239","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"A \"Delta 4 rocket\" awaiting its \"maiden flight\" is space launch news."}
+{"id":"ag_news:test:5067","verdict":"gold_wrong","correct_label":"World","reason":"Bush nearing a \"re-election victory\" while Kerry withholds concession concerns presidential politics."}
+{"id":"ag_news:test:1051","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"A \"computerized service\" creating \"phony outbound phone numbers\" concerns telecommunications software."}
+{"id":"ag_news:test:3581","verdict":"gold_wrong","correct_label":"Business","reason":"Crude oil reaching a \"new intraday high\" in trading makes commodity pricing the central topic."}
+{"id":"ag_news:test:565","verdict":"ambiguous","correct_label":"Business","reason":"A \"software services giant\" raising money on its \"market debut\" is a purely financial technology-company story at the section boundary."}
+{"id":"ag_news:test:1691","verdict":"gold_wrong","correct_label":"Business","reason":"\"German investor confidence\" and the outlook for \"consumer demand\" concern economic indicators."}
+{"id":"ag_news:test:3675","verdict":"gold_wrong","correct_label":"Business","reason":"Terms of a film producer's \"initial public offering\" and the \"price range\" per share concern corporate finance."}
+{"id":"ag_news:test:5152","verdict":"gold_wrong","correct_label":"World","reason":"Attempts to rescue \"two small boys\" from a flooded cave concern a human emergency."}
+{"id":"ag_news:test:5295","verdict":"gold_wrong","correct_label":"World","reason":"A prime minister attending an \"India-European summit\" for a \"strategic partnership\" concerns diplomacy."}
+{"id":"ag_news:test:887","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"\"Internet-based video\", slow connections, and \"technical challenges\" make online media technology the focus."}
+{"id":"ag_news:test:806","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"A \"new drug\" treating \"age-related macular degeneration\" concerns medicine and treatment review."}
+{"id":"ag_news:test:2591","verdict":"gold_wrong","correct_label":"Sports","reason":"An appeal about an \"Olympic gymnastics gold medal\" and a \"scoring error\" is sports adjudication."}
+{"id":"ag_news:test:355","verdict":"gold_wrong","correct_label":"Sports","reason":"A \"Greek weightlifter\" potentially being \"stripped of his medal\" is sports disciplinary news."}
+{"id":"ag_news:test:4481","verdict":"ambiguous","correct_label":"Business","reason":"Hynix's \"net profit more than tripled\" amid memory-chip prices is a financial technology-company story spanning Business and Sci/Tech."}
+{"id":"ag_news:test:2173","verdict":"gold_wrong","correct_label":"Sports","reason":"Reopening \"TV rights\" bidding to prevent cancellation of a sporting \"tour\" is sports business."}
+{"id":"ag_news:test:6276","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"\"Patch management\" limiting information security officers' work concerns computer security operations."}
+{"id":"ag_news:test:1976","verdict":"gold_wrong","correct_label":"Sports","reason":"The \"XII Paralympics\" beginning with an \"opening ceremony\" is sports event coverage."}
+{"id":"ag_news:test:3186","verdict":"gold_wrong","correct_label":"Sports","reason":"The \"Australian Open\" staging its \"final at night\" concerns tennis tournament scheduling."}
+{"id":"ag_news:test:719","verdict":"gold_wrong","correct_label":"Business","reason":"\"Annual US economic growth\" slowing in the second quarter concerns macroeconomic performance."}
+{"id":"ag_news:test:1296","verdict":"gold_wrong","correct_label":"World","reason":"Israel closing a Gaza industrial zone before its \"disengagement plan\" concerns territorial and government policy."}
+{"id":"ag_news:test:2521","verdict":"ambiguous","correct_label":"Sci/Tech","reason":"\"Iraq war blogs\" are an internet-publishing topic, while their accounts of soldiers' lives and political views also fit World."}
+{"id":"ag_news:test:1658","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"Approval of an \"implantable lens for nearsightedness\" concerns a new medical treatment."}
+{"id":"ag_news:test:6093","verdict":"gold_wrong","correct_label":"Sports","reason":"The \"Spanish FA\" apologizing after \"racist chanting\" concerns conduct in football."}
+{"id":"ag_news:test:2400","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"An \"experiment\" demonstrating that dogs \"smell cancer\" concerns scientific and medical research."}
+{"id":"ag_news:test:3384","verdict":"gold_wrong","correct_label":"Business","reason":"\"Layoffs\", the \"unemployment rate\", and anticipated new jobs concern labour markets and economic conditions."}
+{"id":"ag_news:test:4580","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"Messaging software vendors supporting \"Live Communications Server 2005\" concerns software compatibility and release news."}
+{"id":"ag_news:test:6760","verdict":"gold_wrong","correct_label":"Business","reason":"Panera encouraging customers to \"buy another cup of coffee\" makes café sales strategy the focus, with Wi-Fi an amenity."}
+{"id":"ag_news:test:2566","verdict":"gold_wrong","correct_label":"World","reason":"Criticism of \"Congress\", the \"US Constitution\", and both legislative chambers concerns government politics."}
+{"id":"ag_news:test:3882","verdict":"gold_wrong","correct_label":"Business","reason":"Airlines extracting \"salary and benefits concessions\" from pilots concerns labour compensation."}
+{"id":"ag_news:test:2017","verdict":"gold_wrong","correct_label":"World","reason":"People cleaning up after \"hurricane Ivan\" concerns disaster recovery."}
+{"id":"ag_news:test:2236","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"Research suggesting walking protects against \"dementia\" concerns health and medical science."}
+{"id":"ag_news:test:654","verdict":"gold_wrong","correct_label":"Sports","reason":"A \"gold medal-winning high jumper\" trying to improve his leap remains sports coverage despite discussion of scientific limits."}
+{"id":"ag_news:test:4550","verdict":"ambiguous","correct_label":"Business","reason":"Lockheed's \"41 percent rise in quarterly profit\" from aircraft and IT demand is financial reporting on a technology-intensive company."}
+{"id":"ag_news:test:677","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"Breast-cancer tumours being missed by \"scans\" concerns medical screening performance."}
+{"id":"ag_news:test:3953","verdict":"gold_wrong","correct_label":"Sports","reason":"A \"deca-ironman\" athlete's \"world record\" concerns endurance sports rather than a scientific finding."}
+{"id":"ag_news:test:6325","verdict":"gold_wrong","correct_label":"World","reason":"The anniversary of \"President John F Kennedy's assassination\" concerns political history and public remembrance."}
+{"id":"ag_news:test:877","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"Cellphone carriers creating a \"publicly accessible listing of wireless phone numbers\" concerns telecommunications services."}
+{"id":"ag_news:test:3493","verdict":"gold_wrong","correct_label":"Business","reason":"Alstom signing \"contracts\" for the \"delivery of trains and locomotives\" is an industrial sales deal."}
+{"id":"ag_news:test:2247","verdict":"gold_wrong","correct_label":"Business","reason":"Forecasts of \"growth of 7.0 percent\" and a coming slowdown concern regional economic performance."}
+{"id":"ag_news:test:1317","verdict":"gold_wrong","correct_label":"World","reason":"People who \"died in Florida because of Hurricane Frances\" are the subject of a disaster casualty report."}
+{"id":"ag_news:test:1447","verdict":"gold_wrong","correct_label":"World","reason":"The president surveying \"damage from Hurricane Frances\" and seeking recovery aid concerns government disaster response."}
+{"id":"ag_news:test:2694","verdict":"ambiguous","correct_label":"Sci/Tech","reason":"\"(70) Mile-High Club\" hints at an unusual flight venture, but the excerpt's \"airline entrepreneur\" framing also supports Business."}
+{"id":"ag_news:test:3762","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"A rocket carrying a crew to the \"international space station\" is spaceflight news."}
+{"id":"ag_news:test:6509","verdict":"gold_wrong","correct_label":"Business","reason":"The \"oil giant\" Yukos being on the \"edge of ruin\" concerns a company's financial survival."}
+{"id":"ag_news:test:5674","verdict":"ambiguous","correct_label":"World","reason":"\"Two stories\" with \"world-shaping implications\" and unnamed events in Paris and Ramallah do not reveal enough of the subject to classify confidently."}
+{"id":"ag_news:test:6248","verdict":"gold_wrong","correct_label":"World","reason":"\"City Crime Rankings\" identifying the \"most dangerous city\" concerns public safety and crime."}
+{"id":"ag_news:test:3968","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"An initiative to \"increase awareness of spyware\" concerns computer security."}
+{"id":"ag_news:test:1004","verdict":"ambiguous","correct_label":"World","reason":"A politician who \"resigned amidst allegations\" makes this political news, while \"Powerful on Web\" also frames the internet's role."}
+{"id":"ag_news:test:2357","verdict":"ambiguous","correct_label":"World","reason":"A court denying a \"new trial\" concerns a homicide, but its occurrence at the sons' \"hockey practice\" also creates a sports connection."}
+{"id":"ag_news:test:2579","verdict":"ambiguous","correct_label":"World","reason":"\"Supreme Court\" and \"petition\" establish a legal dispute, but the excerpt ends at \"rights of India's\" before identifying any sports subject."}
+{"id":"ag_news:test:1043","verdict":"gold_wrong","correct_label":"World","reason":"A hurricane battering islands and putting \"millions of people on alert\" is an unfolding disaster report."}
+{"id":"ag_news:test:4997","verdict":"gold_wrong","correct_label":"Business","reason":"Volkswagen's \"wage negotiations\" and factory protests concern labour relations."}
+{"id":"ag_news:test:3183","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"A9.com removing the need for notes while \"searching the Internet\" concerns an online search feature."}
+{"id":"ag_news:test:2710","verdict":"ambiguous","correct_label":"Sci/Tech","reason":"Buying an \"online travel site\" fits internet-industry deals, while the travel conglomerate and cash acquisition framing also support Business."}
+{"id":"ag_news:test:6985","verdict":"gold_wrong","correct_label":"Business","reason":"Revised figures showing how \"Japan's economy\" grew or shrank concern macroeconomic performance."}
+{"id":"ag_news:test:2778","verdict":"ambiguous","correct_label":"Business","reason":"Shares of an \"Internet travel site\" rising as \"stock offering\" rumours fade are financial news about an internet company."}
+{"id":"ag_news:test:1774","verdict":"gold_wrong","correct_label":"World","reason":"\"Rich countries\" failing to provide promised funds according to the \"UN\" concerns international development commitments rather than a scientific finding."}
+{"id":"ag_news:test:1881","verdict":"gold_wrong","correct_label":"World","reason":"\"Hurricane Ivan\" striking the Gulf Coast with destructive winds is disaster news."}
+{"id":"ag_news:test:707","verdict":"ambiguous","correct_label":"World","reason":"A crash victim with \"shattered legs\" whose surgeon \"sent his sister shopping\" suggests human-interest reporting but leaves the underlying crisis unexplained."}
+{"id":"ag_news:test:7426","verdict":"gold_wrong","correct_label":"World","reason":"A journalist's death and its implications for \"American politics\" and \"journalism\" concern public affairs and human interest."}
+{"id":"ag_news:test:881","verdict":"gold_wrong","correct_label":"World","reason":"The condition of survivors of a \"fatal scaffold collapse\" is accident follow-up news."}
+{"id":"ag_news:test:1232","verdict":"gold_wrong","correct_label":"World","reason":"\"2 charged\" after friends were \"slain\" identifies a crime and human-interest story without a stated sports connection."}
+{"id":"ag_news:test:446","verdict":"ambiguous","correct_label":"Business","reason":"\"Online retail sales\" growth is an economic sales report while also describing the internet-commerce sector."}
+{"id":"ag_news:test:6369","verdict":"gold_wrong","correct_label":"World","reason":"Controversy over security \"pat-downs\" by \"government officials\" concerns public policy and travelers' treatment."}
+{"id":"ag_news:test:6835","verdict":"gold_wrong","correct_label":"World","reason":"The ACLU investigating why \"antiterrorism task forces\" monitored \"activists\" concerns civil liberties and law enforcement."}
+{"id":"ag_news:test:3116","verdict":"gold_wrong","correct_label":"World","reason":"Reviewing government employees for jobs involving the \"public trust\" concerns public administration rather than technology."}
+{"id":"ag_news:test:1497","verdict":"jev_wrong","correct_label":"Sci/Tech","reason":"\"Web Sites Keep Tabs on Campaign Giving\" frames online information tools, with the excerpt contrasting earlier manual searches through filing cabinets."}
+{"id":"ag_news:test:5896","verdict":"ambiguous","correct_label":"Business","reason":"The \"search engine giant\" losing stock value as \"new shares\" become tradable is a purely financial technology-company story."}
+{"id":"ag_news:test:5602","verdict":"ambiguous","correct_label":"World","reason":"\"Change of leadership\" and donor demands concern political accountability, while transparency in \"Palestinian finances\" also supports a financial reading."}
+{"id":"ag_news:test:6068","verdict":"gold_wrong","correct_label":"World","reason":"Criticism of \"Bush's proposal for a national sales tax\" and its favored constituency is political policy commentary."}
+{"id":"ag_news:test:1775","verdict":"gold_wrong","correct_label":"World","reason":"The Coast Guard shutting ports as \"Hurricane Ivan churned nearer\" reports an emergency safety response without discussing commercial effects."}
+{"id":"ag_news:test:1539","verdict":"ambiguous","correct_label":"World","reason":"A chancellor defending Britain's \"rebate\" from the EU's \"annual budget\" combines international politics with public finances."}
+{"id":"ag_news:test:3280","verdict":"ambiguous","correct_label":"Business","reason":"\"Losses\" from a \"mobile phone cab-ordering service\" combine company earnings with a technology-service business."}
+{"id":"ag_news:test:7008","verdict":"gold_wrong","correct_label":"World","reason":"Laura Bush showing reporters the \"decorated executive mansion\" is public-figure human-interest news."}
+{"id":"ag_news:test:500","verdict":"ambiguous","correct_label":"Sci/Tech","reason":"Reformist \"websites\" being \"blocked\" concerns internet censorship as well as political repression."}
+{"id":"ag_news:test:6094","verdict":"ambiguous","correct_label":"Business","reason":"A financial-news \"Web site\" potentially being sold and its shares rising combines an internet-property deal with financial market reporting."}
+{"id":"ag_news:test:4567","verdict":"gold_wrong","correct_label":"Business","reason":"An \"economic report\" forecasting slower \"growth\" and threatened exports concerns macroeconomics."}
+{"id":"ag_news:test:207","verdict":"ambiguous","correct_label":"Business","reason":"A \"software\" maker posting a \"wider quarterly loss\" after an accounting charge is financial news at the technology-business boundary."}
+{"id":"ag_news:test:5145","verdict":"gold_wrong","correct_label":"World","reason":"A \"verdict\" in a trial for \"intentionally exposing 17 women to HIV\" concerns criminal justice rather than medical research."}
+{"id":"ag_news:test:7418","verdict":"ambiguous","correct_label":"Business","reason":"An executive who \"had resigned\" and concerns about \"the company's stock\" suggest Business, but the excerpt leaves the company's industry unspecified."}
+{"id":"ag_news:test:1042","verdict":"gold_wrong","correct_label":"Business","reason":"Hotel \"room-pricing strategies\" challenged by \"discount-hunting\" make commercial pricing the focus, with the internet only a shopping aid."}
+{"id":"ag_news:test:1527","verdict":"gold_wrong","correct_label":"World","reason":"Floridians' \"complacency\" about hurricanes and their effects concerns disaster preparedness and public behavior."}
+{"id":"ag_news:test:3070","verdict":"ambiguous","correct_label":"World","reason":"Bush promising to renew \"tax cuts\" while criticizing \"Democratic challenger John Kerry\" combines economic policy with election campaigning."}
+{"id":"ag_news:test:3265","verdict":"gold_wrong","correct_label":"Sports","reason":"Advice on how \"footballers\" should prepare for \"penalties\" is sports performance coverage even when given by a psychologist."}
+{"id":"ag_news:test:2006","verdict":"ambiguous","correct_label":"Business","reason":"Apple's \"Form 10-K filing\" and annual performance concern technology-company finances, which straddle Business and Sci/Tech."}
+{"id":"ag_news:test:4030","verdict":"ambiguous","correct_label":"Business","reason":"IBM's \"quarterly results\", revenue growth, and earnings charge are financial reporting about a technology company."}
+{"id":"ag_news:test:7322","verdict":"ambiguous","correct_label":"Business","reason":"A \"Travel-reservations Web site\" naming a new \"president\" combines internet-industry news with ordinary corporate leadership reporting."}
+{"id":"ag_news:test:1065","verdict":"gold_wrong","correct_label":"Business","reason":"\"Scotch Whisky eyes Asian and Eastern European markets\" frames the distillery description as industry expansion."}
+{"id":"ag_news:test:3157","verdict":"gold_wrong","correct_label":"Sci/Tech","reason":"An \"original Mercury\" astronaut's death is framed through his \"space endurance record\" and contribution to the moon landing."}
+{"id":"ag_news:test:6088","verdict":"ambiguous","correct_label":"Business","reason":"A \"technology consulting company\" announcing its financial officer's retirement combines technology-industry coverage with corporate financial leadership news."}
+{"id":"ag_news:test:5588","verdict":"gold_wrong","correct_label":"Business","reason":"China's \"inflation rate\" easing as policy cools the economy concerns macroeconomic indicators."}
+{"id":"ag_news:test:2053","verdict":"gold_wrong","correct_label":"Business","reason":"An accord between \"Alitalia management and staff\" on a \"restructuring plan\" concerns labour relations and corporate survival."}
+{"id":"ag_news:test:4540","verdict":"gold_wrong","correct_label":"World","reason":"\"Miss Peru\" being \"crowned Miss World\" is a beauty-pageant and cultural story rather than athletic competition."}
+{"id":"ag_news:test:19","verdict":"ambiguous","correct_label":"Business","reason":"\"HP earnings\" missing \"analysts' expectations\" is financial reporting on a hardware company rather than a product development."}
+{"id":"ag_news:test:5217","verdict":"gold_wrong","correct_label":"World","reason":"Government \"legislation\" requiring students to remain in school until 18 concerns education policy."}
+{"id":"ag_news:test:4850","verdict":"ambiguous","correct_label":"Business","reason":"The \"web search leader's\" stock reaching \"new highs\" on growth expectations is technology-company market reporting."}
+{"id":"ag_news:test:5410","verdict":"ambiguous","correct_label":"Business","reason":"PeopleSoft's \"third-quarter profit\" revision after a \"tax adjustment\" is a financial technology-company story."}
+{"id":"ag_news:test:1073","verdict":"ambiguous","correct_label":"Business","reason":"\"Red Hat replaces CFO\" amid \"restating its earnings\" is financial leadership news at the technology-business boundary."}
+{"id":"ag_news:test:1106","verdict":"gold_wrong","correct_label":"World","reason":"An \"election board\" allegedly seeking to oust an administrator concerns partisan election governance, with no voting technology discussed."}
+{"id":"ag_news:test:3005","verdict":"gold_wrong","correct_label":"World","reason":"Emergency funding to correct problems at \"Adult Protective Services\" concerns government administration and social services."}
+{"id":"ag_news:test:623","verdict":"ambiguous","correct_label":"World","reason":"Civil servants \"disciplined\" for \"downloading porn at work\" makes government misconduct central while also involving internet-use policy."}
+{"id":"ag_news:test:4912","verdict":"ambiguous","correct_label":"World","reason":"A \"Republican state Senate candidate\" seeking attention is political news, but \"Sox coattails\" gives the truncated story a sports angle."}
+{"id":"ag_news:test:789","verdict":"gold_wrong","correct_label":"World","reason":"An actress causing a \"security scare\" over a \"pocketknife\" at an airport is celebrity and public-safety news."}
+{"id":"ag_news:test:6080","verdict":"ambiguous","correct_label":"World","reason":"\"Pending criminal cases\" affected by \"falsified DNA data\" combine criminal-justice misconduct with forensic-science reliability."}
+{"id":"ag_news:test:6718","verdict":"ambiguous","correct_label":"Sci/Tech","reason":"\"The year of the blog\" concerns internet culture, while a dictionary's \"words of the year\" also fits general cultural news."}
+{"id":"ag_news:test:5692","verdict":"gold_wrong","correct_label":"World","reason":"An \"Archbishop\" discussing church closings and financial distress concerns religious community affairs without any sports subject."}
+{"id":"ag_news:test:1079","verdict":"ambiguous","correct_label":"Business","reason":"A \"company's founder\" stepping down frames corporate leadership, while comparisons with \"Gateway\" and \"Apple\" give it a technology-industry angle."}
+{"id":"ag_news:test:2805","verdict":"jev_wrong","correct_label":"Sci/Tech","reason":"\"I.B.M.\" settling a \"class-action lawsuit\" is a technology-industry lawsuit, included in Sci/Tech under the stated convention."}
+{"id":"ag_news:test:6992","verdict":"ambiguous","correct_label":"Business","reason":"\"Nortel Networks\" delaying \"financial results\" because of faulty accounts is financial news about a technology company."}
+{"id":"ag_news:test:4440","verdict":"ambiguous","correct_label":"World","reason":"A premier opposing other provinces' demands for \"equalization payments\" combines intergovernmental politics with public finance."}
+{"id":"ag_news:test:1831","verdict":"jev_wrong","correct_label":"Sci/Tech","reason":"The \"sale\" taking Aether out of the \"wireless business\" is a technology-industry divestiture, included in Sci/Tech by convention."}
+{"id":"ag_news:test:5628","verdict":"gold_wrong","correct_label":"World","reason":"A governor seeking the \"resignation\" of the \"Turnpike Authority\" head concerns political accountability for public infrastructure."}
+{"id":"ag_news:test:6842","verdict":"ambiguous","correct_label":"World","reason":"Compensation for \"environmental damage\" from the \"Gulf conflict\" combines environmental issues with international war reparations."}
+{"id":"ag_news:test:5277","verdict":"gold_wrong","correct_label":"World","reason":"A woman playing a flute beside her \"Salvation Army kettle\" is a human-interest account of charitable fundraising."}
+{"id":"ag_news:test:3887","verdict":"ambiguous","correct_label":"Business","reason":"Lower \"online DVD rentals\" prices and a share sell-off combine internet-commerce competition with pricing and financial reporting."}
+{"id":"ag_news:test:4148","verdict":"ambiguous","correct_label":"Business","reason":"A \"maker of cell phones\" reporting that profit \"more than tripled\" is financial technology-company news."}
+{"id":"ag_news:test:5738","verdict":"ambiguous","correct_label":"World","reason":"Whether Virginia will renew \"red-light cameras\" combines public traffic-enforcement policy with surveillance technology."}
+{"id":"ag_news:test:4366","verdict":"ambiguous","correct_label":"World","reason":"A mayor criticizing \"provincial gas tax funding\" for \"public transit\" combines local government policy with public finances."}
+{"id":"ag_news:test:4867","verdict":"ambiguous","correct_label":"World","reason":"People \"charged\" with \"ID Theft\" are the subject of a crime report, while \"anonymous identities\" leaves a possible cybersecurity dimension unclear."}

@@ -1,0 +1,800 @@
+{
+"banking77:test:2726": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.04999999999999993,
+"queue_pos": 295,
+"confidence": 0.72,
+"fit_gold": 0.9,
+"fit_choice": 0.95,
+"ambiguous": 0.54,
+"conventions": {
+"reports_problem": 0.85
+},
+"v2_flag": false
+},
+"banking77:test:2163": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.74,
+"queue_pos": 84,
+"confidence": 0.53,
+"fit_gold": 0.18,
+"fit_choice": 0.92,
+"ambiguous": 0.41,
+"conventions": {
+"reports_problem": 0.94
+},
+"v2_flag": false
+},
+"banking77:test:1731": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.1,
+"queue_pos": 416,
+"confidence": 0.47,
+"fit_gold": 0.04,
+"fit_choice": 0.14,
+"ambiguous": 0.35,
+"conventions": {
+"reports_problem": 0.11
+},
+"v2_flag": false
+},
+"banking77:test:2164": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.7899999999999999,
+"queue_pos": 80,
+"confidence": 0.86,
+"fit_gold": 0.04,
+"fit_choice": 0.83,
+"ambiguous": 0.45,
+"conventions": {
+"reports_problem": 0.83
+},
+"v2_flag": false
+},
+"banking77:test:192": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.19999999999999996,
+"queue_pos": 230,
+"confidence": 0.82,
+"fit_gold": 0.77,
+"fit_choice": 0.97,
+"ambiguous": 0.53,
+"conventions": {
+"reports_problem": 0.93
+},
+"v2_flag": false
+},
+"banking77:test:627": {
+"band": "weak_disagree",
+"tier": null,
+"rank": -0.52,
+"queue_pos": 448,
+"confidence": 0.59,
+"fit_gold": 0.66,
+"fit_choice": 0.14,
+"ambiguous": 0.32,
+"conventions": {
+"reports_problem": 0.03
+},
+"v2_flag": false
+},
+"banking77:test:1509": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.41999999999999993,
+"queue_pos": 168,
+"confidence": 0.87,
+"fit_gold": 0.17,
+"fit_choice": 0.59,
+"ambiguous": 0.51,
+"conventions": {
+"reports_problem": 0.79
+},
+"v2_flag": false
+},
+"banking77:test:2232": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.55,
+"queue_pos": 145,
+"confidence": 0.89,
+"fit_gold": 0.24,
+"fit_choice": 0.79,
+"ambiguous": 0.67,
+"conventions": {
+"reports_problem": 0.96
+},
+"v2_flag": false
+},
+"banking77:test:2955": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.26999999999999996,
+"queue_pos": 211,
+"confidence": 0.61,
+"fit_gold": 0.43,
+"fit_choice": 0.7,
+"ambiguous": 0.7,
+"conventions": {
+"reports_problem": 0.23
+},
+"v2_flag": false
+},
+"banking77:test:3049": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.10999999999999999,
+"queue_pos": 360,
+"confidence": 0.34,
+"fit_gold": 0.71,
+"fit_choice": 0.6,
+"ambiguous": 0.63,
+"conventions": {
+"reports_problem": 0.04
+},
+"v2_flag": false
+},
+"banking77:test:476": {
+"band": "weak_disagree",
+"tier": null,
+"rank": -0.36999999999999994,
+"queue_pos": 441,
+"confidence": 0.55,
+"fit_gold": 0.82,
+"fit_choice": 0.45,
+"ambiguous": 0.33,
+"conventions": {
+"reports_problem": 0.53
+},
+"v2_flag": false
+},
+"banking77:test:864": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.52,
+"queue_pos": 96,
+"confidence": 0.77,
+"fit_gold": 0.16,
+"fit_choice": 0.68,
+"ambiguous": 0.48,
+"conventions": {
+"reports_problem": 0.29
+},
+"v2_flag": false
+},
+"banking77:test:1334": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.52,
+"queue_pos": 97,
+"confidence": 0.77,
+"fit_gold": 0.09,
+"fit_choice": 0.61,
+"ambiguous": 0.37,
+"conventions": {
+"reports_problem": 0.04
+},
+"v2_flag": false
+},
+"banking77:test:2110": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.44,
+"queue_pos": 100,
+"confidence": 0.53,
+"fit_gold": 0.07,
+"fit_choice": 0.51,
+"ambiguous": 0.44,
+"conventions": {
+"reports_problem": 0.14
+},
+"v2_flag": false
+},
+"banking77:test:601": {
+"band": "weak_disagree",
+"tier": null,
+"rank": -0.39,
+"queue_pos": 443,
+"confidence": 0.79,
+"fit_gold": 0.49,
+"fit_choice": 0.1,
+"ambiguous": 0.27,
+"conventions": {
+"reports_problem": 0.03
+},
+"v2_flag": false
+},
+"banking77:test:1002": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.72,
+"queue_pos": 127,
+"confidence": 0.79,
+"fit_gold": 0.23,
+"fit_choice": 0.95,
+"ambiguous": 0.67,
+"conventions": {
+"reports_problem": 0.97
+},
+"v2_flag": false
+},
+"banking77:test:623": {
+"band": "weak_disagree",
+"tier": null,
+"rank": -0.49,
+"queue_pos": 447,
+"confidence": 0.6,
+"fit_gold": 0.62,
+"fit_choice": 0.13,
+"ambiguous": 0.3,
+"conventions": {
+"reports_problem": 0.03
+},
+"v2_flag": false
+},
+"banking77:test:284": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.5,
+"queue_pos": 98,
+"confidence": 0.86,
+"fit_gold": 0.41,
+"fit_choice": 0.91,
+"ambiguous": 0.44,
+"conventions": {
+"reports_problem": 0.14
+},
+"v2_flag": false
+},
+"banking77:test:2178": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.5,
+"queue_pos": 154,
+"confidence": 0.67,
+"fit_gold": 0.42,
+"fit_choice": 0.92,
+"ambiguous": 0.51,
+"conventions": {
+"reports_problem": 0.93
+},
+"v2_flag": false
+},
+"banking77:test:1488": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.33000000000000007,
+"queue_pos": 189,
+"confidence": 0.62,
+"fit_gold": 0.57,
+"fit_choice": 0.9,
+"ambiguous": 0.68,
+"conventions": {
+"reports_problem": 0.96
+},
+"v2_flag": false
+},
+"banking77:test:276": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.23000000000000004,
+"queue_pos": 402,
+"confidence": 0.37,
+"fit_gold": 0.11,
+"fit_choice": 0.34,
+"ambiguous": 0.39,
+"conventions": {
+"reports_problem": 0.06
+},
+"v2_flag": false
+},
+"banking77:test:2678": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.55,
+"queue_pos": 93,
+"confidence": 0.85,
+"fit_gold": 0.21,
+"fit_choice": 0.76,
+"ambiguous": 0.35,
+"conventions": {
+"reports_problem": 0.16
+},
+"v2_flag": true
+},
+"banking77:test:1357": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.7100000000000001,
+"queue_pos": 87,
+"confidence": 0.88,
+"fit_gold": 0.1,
+"fit_choice": 0.81,
+"ambiguous": 0.49,
+"conventions": {
+"reports_problem": 0.05
+},
+"v2_flag": false
+},
+"banking77:test:172": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.09,
+"queue_pos": 269,
+"confidence": 0.3,
+"fit_gold": 0.15,
+"fit_choice": 0.24,
+"ambiguous": 0.55,
+"conventions": {
+"reports_problem": 0.29
+},
+"v2_flag": false
+},
+"banking77:test:1213": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.22000000000000003,
+"queue_pos": 406,
+"confidence": 0.93,
+"fit_gold": 0.12,
+"fit_choice": 0.34,
+"ambiguous": 0.47,
+"conventions": {
+"reports_problem": 0.95
+},
+"v2_flag": false
+},
+"banking77:test:1098": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.1100000000000001,
+"queue_pos": 261,
+"confidence": 0.86,
+"fit_gold": 0.82,
+"fit_choice": 0.93,
+"ambiguous": 0.52,
+"conventions": {
+"reports_problem": 0.86
+},
+"v2_flag": false
+},
+"banking77:test:333": {
+"band": "error_candidate",
+"tier": "low",
+"rank": 0.41999999999999993,
+"queue_pos": 396,
+"confidence": 0.3,
+"fit_gold": 0.17,
+"fit_choice": 0.59,
+"ambiguous": 0.4,
+"conventions": {
+"reports_problem": 0.27
+},
+"v2_flag": false
+},
+"banking77:test:1514": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.2400000000000001,
+"queue_pos": 215,
+"confidence": 0.83,
+"fit_gold": 0.69,
+"fit_choice": 0.93,
+"ambiguous": 0.55,
+"conventions": {
+"reports_problem": 0.97
+},
+"v2_flag": false
+},
+"banking77:test:11": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.86,
+"queue_pos": 18,
+"confidence": 1,
+"fit_gold": 0.1,
+"fit_choice": 0.96,
+"ambiguous": 0.31,
+"conventions": {
+"reports_problem": 0.05
+},
+"v2_flag": false
+},
+"banking77:test:1820": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.09000000000000008,
+"queue_pos": 356,
+"confidence": 0.73,
+"fit_gold": 0.91,
+"fit_choice": 0.82,
+"ambiguous": 0.58,
+"conventions": {
+"reports_problem": 0.97
+},
+"v2_flag": false
+},
+"banking77:test:1090": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.0,
+"queue_pos": 325,
+"confidence": 0.55,
+"fit_gold": 0.97,
+"fit_choice": 0.97,
+"ambiguous": 0.76,
+"conventions": {
+"reports_problem": 0.97
+},
+"v2_flag": false
+},
+"banking77:test:900": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.36000000000000004,
+"queue_pos": 106,
+"confidence": 0.82,
+"fit_gold": 0.44,
+"fit_choice": 0.8,
+"ambiguous": 0.42,
+"conventions": {
+"reports_problem": 0.04
+},
+"v2_flag": false
+},
+"banking77:test:2190": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.050000000000000044,
+"queue_pos": 291,
+"confidence": 0.51,
+"fit_gold": 0.49,
+"fit_choice": 0.54,
+"ambiguous": 0.57,
+"conventions": {
+"reports_problem": 0.57
+},
+"v2_flag": false
+},
+"banking77:test:310": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.039999999999999925,
+"queue_pos": 302,
+"confidence": 0.76,
+"fit_gold": 0.65,
+"fit_choice": 0.69,
+"ambiguous": 0.56,
+"conventions": {
+"reports_problem": 0.28
+},
+"v2_flag": false
+},
+"banking77:test:1867": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.57,
+"queue_pos": 64,
+"confidence": 0.9,
+"fit_gold": 0.26,
+"fit_choice": 0.83,
+"ambiguous": 0.34,
+"conventions": {
+"reports_problem": 0.12
+},
+"v2_flag": false
+},
+"banking77:test:637": {
+"band": "weak_disagree",
+"tier": null,
+"rank": -0.43,
+"queue_pos": 445,
+"confidence": 0.85,
+"fit_gold": 0.62,
+"fit_choice": 0.19,
+"ambiguous": 0.31,
+"conventions": {
+"reports_problem": 0.05
+},
+"v2_flag": false
+},
+"banking77:test:885": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.039999999999999925,
+"queue_pos": 304,
+"confidence": 0.49,
+"fit_gold": 0.53,
+"fit_choice": 0.57,
+"ambiguous": 0.48,
+"conventions": {
+"reports_problem": 0.11
+},
+"v2_flag": false
+},
+"banking77:test:2913": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.32999999999999996,
+"queue_pos": 391,
+"confidence": 0.77,
+"fit_gold": 0.6,
+"fit_choice": 0.27,
+"ambiguous": 0.57,
+"conventions": {
+"reports_problem": 0.94
+},
+"v2_flag": false
+},
+"banking77:test:839": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.27,
+"queue_pos": 208,
+"confidence": 0.92,
+"fit_gold": 0.61,
+"fit_choice": 0.88,
+"ambiguous": 0.55,
+"conventions": {
+"reports_problem": 0.95
+},
+"v2_flag": false
+},
+"banking77:test:1631": {
+"band": "error_candidate",
+"tier": "low",
+"rank": 0.14000000000000007,
+"queue_pos": 398,
+"confidence": 0.49,
+"fit_gold": 0.42,
+"fit_choice": 0.56,
+"ambiguous": 0.38,
+"conventions": {
+"reports_problem": 0.04
+},
+"v2_flag": false
+},
+"banking77:test:1419": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.010000000000000009,
+"queue_pos": 421,
+"confidence": 0.86,
+"fit_gold": 0.15,
+"fit_choice": 0.16,
+"ambiguous": 0.29,
+"conventions": {
+"reports_problem": 0.03
+},
+"v2_flag": false
+},
+"banking77:test:1328": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.6,
+"queue_pos": 140,
+"confidence": 0.39,
+"fit_gold": 0.27,
+"fit_choice": 0.87,
+"ambiguous": 0.59,
+"conventions": {
+"reports_problem": 0.97
+},
+"v2_flag": false
+},
+"banking77:test:147": {
+"band": "weak_disagree",
+"tier": null,
+"rank": -0.16000000000000003,
+"queue_pos": 434,
+"confidence": 0.6,
+"fit_gold": 0.51,
+"fit_choice": 0.35,
+"ambiguous": 0.44,
+"conventions": {
+"reports_problem": 0.78
+},
+"v2_flag": false
+},
+"banking77:test:268": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.22000000000000003,
+"queue_pos": 78,
+"confidence": 0.99,
+"fit_gold": 0.44,
+"fit_choice": 0.66,
+"ambiguous": 0.42,
+"conventions": {
+"reports_problem": 0.05
+},
+"v2_flag": false
+},
+"banking77:test:2179": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.72,
+"queue_pos": 86,
+"confidence": 0.5,
+"fit_gold": 0.19,
+"fit_choice": 0.91,
+"ambiguous": 0.46,
+"conventions": {
+"reports_problem": 0.94
+},
+"v2_flag": false
+},
+"banking77:test:2319": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.25000000000000006,
+"queue_pos": 385,
+"confidence": 0.91,
+"fit_gold": 0.56,
+"fit_choice": 0.31,
+"ambiguous": 0.54,
+"conventions": {
+"reports_problem": 0.04
+},
+"v2_flag": false
+},
+"banking77:test:2721": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.14,
+"queue_pos": 367,
+"confidence": 0.46,
+"fit_gold": 0.77,
+"fit_choice": 0.63,
+"ambiguous": 0.44,
+"conventions": {
+"reports_problem": 0.83
+},
+"v2_flag": false
+},
+"banking77:test:1282": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.009999999999999898,
+"queue_pos": 328,
+"confidence": 0.38,
+"fit_gold": 0.82,
+"fit_choice": 0.81,
+"ambiguous": 0.38,
+"conventions": {
+"reports_problem": 0.04
+},
+"v2_flag": false
+},
+"banking77:test:876": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.37,
+"queue_pos": 105,
+"confidence": 0.82,
+"fit_gold": 0.27,
+"fit_choice": 0.64,
+"ambiguous": 0.46,
+"conventions": {
+"reports_problem": 0.46
+},
+"v2_flag": false
+},
+"banking77:test:772": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.55,
+"queue_pos": 94,
+"confidence": 0.69,
+"fit_gold": 0.11,
+"fit_choice": 0.66,
+"ambiguous": 0.49,
+"conventions": {
+"reports_problem": 0.94
+},
+"v2_flag": false
+},
+"banking77:test:2844": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.5,
+"queue_pos": 73,
+"confidence": 0.95,
+"fit_gold": 0.1,
+"fit_choice": 0.6,
+"ambiguous": 0.41,
+"conventions": {
+"reports_problem": 0.08
+},
+"v2_flag": false
+},
+"banking77:test:428": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.48999999999999994,
+"queue_pos": 75,
+"confidence": 0.99,
+"fit_gold": 0.45,
+"fit_choice": 0.94,
+"ambiguous": 0.48,
+"conventions": {
+"reports_problem": 0.03
+},
+"v2_flag": false
+},
+"banking77:test:22": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.5,
+"queue_pos": 99,
+"confidence": 0.76,
+"fit_gold": 0.42,
+"fit_choice": 0.92,
+"ambiguous": 0.38,
+"conventions": {
+"reports_problem": 0.08
+},
+"v2_flag": false
+},
+"banking77:test:236": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.49,
+"queue_pos": 156,
+"confidence": 0.64,
+"fit_gold": 0.36,
+"fit_choice": 0.85,
+"ambiguous": 0.66,
+"conventions": {
+"reports_problem": 0.97
+},
+"v2_flag": false
+},
+"banking77:test:2917": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.6900000000000001,
+"queue_pos": 131,
+"confidence": 0.77,
+"fit_gold": 0.21,
+"fit_choice": 0.9,
+"ambiguous": 0.53,
+"conventions": {
+"reports_problem": 0.06
+},
+"v2_flag": false
+},
+"banking77:test:304": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.39999999999999997,
+"queue_pos": 102,
+"confidence": 0.87,
+"fit_gold": 0.44,
+"fit_choice": 0.84,
+"ambiguous": 0.46,
+"conventions": {
+"reports_problem": 0.14
+},
+"v2_flag": false
+},
+"banking77:test:301": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.47000000000000003,
+"queue_pos": 76,
+"confidence": 0.93,
+"fit_gold": 0.31,
+"fit_choice": 0.78,
+"ambiguous": 0.29,
+"conventions": {
+"reports_problem": 0.19
+},
+"v2_flag": false
+}
+}

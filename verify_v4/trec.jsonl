@@ -1,0 +1,3 @@
+{"id": "trec:test:190", "text": "What is the sales tax in Minnesota ?", "gold": "ENTY", "jev": "NUM", "top3": [["NUM", 1], ["ABBR", 0], ["ENTY", 0]]}
+{"id": "trec:test:99", "text": "What is the longest major league baseball-winning streak ?", "gold": "ENTY", "jev": "NUM", "top3": [["NUM", 0.99], ["HUM", 0.01], ["ABBR", 0]]}
+{"id": "trec:test:223", "text": "What is the electrical output in Madrid , Spain ?", "gold": "ENTY", "jev": "NUM", "top3": [["NUM", 1], ["HUM", 0], ["LOC", 0]]}

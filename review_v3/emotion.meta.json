@@ -1,0 +1,1862 @@
+{
+"emotion:test:449": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.54,
+"confidence": 0.62,
+"fit_gold": 0.01,
+"fit_choice": 0.55,
+"ambiguous": 0.44,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.2,
+"no_emotion": 0.23
+},
+"v2_flag": false
+},
+"emotion:test:953": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.27,
+"confidence": 0.7,
+"fit_gold": 0.35,
+"fit_choice": 0.62,
+"ambiguous": 0.57,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.1,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:1431": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.52,
+"confidence": 0.95,
+"fit_gold": 0.04,
+"fit_choice": 0.56,
+"ambiguous": 0.41,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.3,
+"no_emotion": 0.05
+},
+"v2_flag": true
+},
+"emotion:test:375": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.62,
+"confidence": 0.84,
+"fit_gold": 0.14,
+"fit_choice": 0.76,
+"ambiguous": 0.34,
+"conventions": {
+"negated": 0.51,
+"not_own_current_feeling": 0.07,
+"no_emotion": 0.06
+},
+"v2_flag": false
+},
+"emotion:test:585": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.24,
+"confidence": 0.76,
+"fit_gold": 0.56,
+"fit_choice": 0.8,
+"ambiguous": 0.74,
+"conventions": {
+"negated": 0.12,
+"not_own_current_feeling": 0.06,
+"no_emotion": 0.07
+},
+"v2_flag": false
+},
+"emotion:test:622": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.64,
+"confidence": 0.99,
+"fit_gold": 0.03,
+"fit_choice": 0.67,
+"ambiguous": 0.4,
+"conventions": {
+"negated": 0.98,
+"not_own_current_feeling": 0.13,
+"no_emotion": 0.05
+},
+"v2_flag": true
+},
+"emotion:test:1372": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.42000000000000004,
+"confidence": 0.92,
+"fit_gold": 0.21,
+"fit_choice": 0.63,
+"ambiguous": 0.45,
+"conventions": {
+"negated": 0.72,
+"not_own_current_feeling": 0.06,
+"no_emotion": 0.05
+},
+"v2_flag": true
+},
+"emotion:test:2": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.69,
+"confidence": 0.88,
+"fit_gold": 0.19,
+"fit_choice": 0.88,
+"ambiguous": 0.46,
+"conventions": {
+"negated": 0.48,
+"not_own_current_feeling": 0.62,
+"no_emotion": 0.09
+},
+"v2_flag": false
+},
+"emotion:test:1807": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.21000000000000008,
+"confidence": 0.84,
+"fit_gold": 0.59,
+"fit_choice": 0.8,
+"ambiguous": 0.48,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.64,
+"no_emotion": 0.08
+},
+"v2_flag": false
+},
+"emotion:test:1048": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.32000000000000006,
+"confidence": 0.71,
+"fit_gold": 0.22,
+"fit_choice": 0.54,
+"ambiguous": 0.33,
+"conventions": {
+"negated": 0.07,
+"not_own_current_feeling": 0.92,
+"no_emotion": 0.12
+},
+"v2_flag": false
+},
+"emotion:test:180": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.15999999999999998,
+"confidence": 0.28,
+"fit_gold": 0.31,
+"fit_choice": 0.47,
+"ambiguous": 0.7,
+"conventions": {
+"negated": 0.01,
+"not_own_current_feeling": 0.77,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:1144": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.8099999999999999,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.84,
+"ambiguous": 0.19,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.04,
+"no_emotion": 0.05
+},
+"v2_flag": true
+},
+"emotion:test:1668": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.37,
+"confidence": 0.87,
+"fit_gold": 0.12,
+"fit_choice": 0.49,
+"ambiguous": 0.56,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.16,
+"no_emotion": 0.5
+},
+"v2_flag": false
+},
+"emotion:test:1378": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.27,
+"confidence": 0.46,
+"fit_gold": 0.04,
+"fit_choice": 0.31,
+"ambiguous": 0.48,
+"conventions": {
+"negated": 0.04,
+"not_own_current_feeling": 0.02,
+"no_emotion": 0.87
+},
+"v2_flag": false
+},
+"emotion:test:1565": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.69,
+"confidence": 0.86,
+"fit_gold": 0.06,
+"fit_choice": 0.75,
+"ambiguous": 0.48,
+"conventions": {
+"negated": 0.05,
+"not_own_current_feeling": 0.64,
+"no_emotion": 0.07
+},
+"v2_flag": false
+},
+"emotion:test:1715": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.42,
+"confidence": 0.92,
+"fit_gold": 0.2,
+"fit_choice": 0.62,
+"ambiguous": 0.4,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.48,
+"no_emotion": 0.1
+},
+"v2_flag": false
+},
+"emotion:test:1750": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.33,
+"confidence": 0.68,
+"fit_gold": 0.33,
+"fit_choice": null,
+"ambiguous": 0.28,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.31,
+"no_emotion": 0.84
+},
+"v2_flag": false
+},
+"emotion:test:1914": {
+"band": "weak_disagree",
+"tier": null,
+"rank": -0.04999999999999999,
+"confidence": 0.36,
+"fit_gold": 0.29,
+"fit_choice": 0.24,
+"ambiguous": 0.46,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.04,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:1379": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.63,
+"confidence": 0.82,
+"fit_gold": 0.05,
+"fit_choice": 0.68,
+"ambiguous": 0.62,
+"conventions": {
+"negated": 0.2,
+"not_own_current_feeling": 0.04,
+"no_emotion": 0.03
+},
+"v2_flag": false
+},
+"emotion:test:202": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.75,
+"confidence": 0.94,
+"fit_gold": 0.04,
+"fit_choice": 0.79,
+"ambiguous": 0.31,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.65,
+"no_emotion": 0.6
+},
+"v2_flag": false
+},
+"emotion:test:1613": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.79,
+"confidence": 0.87,
+"fit_gold": 0.01,
+"fit_choice": 0.8,
+"ambiguous": 0.67,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.02,
+"no_emotion": 0.02
+},
+"v2_flag": false
+},
+"emotion:test:191": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.67,
+"confidence": 0.91,
+"fit_gold": 0.11,
+"fit_choice": 0.78,
+"ambiguous": 0.29,
+"conventions": {
+"negated": 0.65,
+"not_own_current_feeling": 0.04,
+"no_emotion": 0.1
+},
+"v2_flag": false
+},
+"emotion:test:1320": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.75,
+"confidence": 0.94,
+"fit_gold": 0.03,
+"fit_choice": 0.78,
+"ambiguous": 0.48,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.1,
+"no_emotion": 0.11
+},
+"v2_flag": true
+},
+"emotion:test:900": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.7999999999999999,
+"confidence": 0.93,
+"fit_gold": 0.02,
+"fit_choice": 0.82,
+"ambiguous": 0.34,
+"conventions": {
+"negated": 0.45,
+"not_own_current_feeling": 0.61,
+"no_emotion": 0.15
+},
+"v2_flag": false
+},
+"emotion:test:1772": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.6699999999999999,
+"confidence": 0.4,
+"fit_gold": 0.02,
+"fit_choice": 0.69,
+"ambiguous": 0.64,
+"conventions": {
+"negated": 0.09,
+"not_own_current_feeling": 0.08,
+"no_emotion": 0.07
+},
+"v2_flag": false
+},
+"emotion:test:1380": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.12,
+"confidence": 0.58,
+"fit_gold": 0.52,
+"fit_choice": 0.64,
+"ambiguous": 0.69,
+"conventions": {
+"negated": 0.01,
+"not_own_current_feeling": 0.11,
+"no_emotion": 0.15
+},
+"v2_flag": false
+},
+"emotion:test:840": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.21,
+"confidence": 0.84,
+"fit_gold": 0.21,
+"fit_choice": null,
+"ambiguous": 0.43,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.2,
+"no_emotion": 0.24
+},
+"v2_flag": false
+},
+"emotion:test:715": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.59,
+"confidence": 0.84,
+"fit_gold": 0.23,
+"fit_choice": 0.82,
+"ambiguous": 0.41,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.2,
+"no_emotion": 0.36
+},
+"v2_flag": false
+},
+"emotion:test:347": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.75,
+"confidence": 1,
+"fit_gold": 0.12,
+"fit_choice": 0.87,
+"ambiguous": 0.33,
+"conventions": {
+"negated": 0.1,
+"not_own_current_feeling": 0.03,
+"no_emotion": 0.03
+},
+"v2_flag": false
+},
+"emotion:test:1051": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.7699999999999999,
+"confidence": 1,
+"fit_gold": 0.17,
+"fit_choice": 0.94,
+"ambiguous": 0.33,
+"conventions": {
+"negated": 0.1,
+"not_own_current_feeling": 0.05,
+"no_emotion": 0.56
+},
+"v2_flag": true
+},
+"emotion:test:1869": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.77,
+"confidence": 0.97,
+"fit_gold": 0.02,
+"fit_choice": 0.79,
+"ambiguous": 0.49,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.66,
+"no_emotion": 0.04
+},
+"v2_flag": true
+},
+"emotion:test:1200": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.71,
+"confidence": 0.98,
+"fit_gold": 0.07,
+"fit_choice": 0.78,
+"ambiguous": 0.58,
+"conventions": {
+"negated": 0.15,
+"not_own_current_feeling": 0.03,
+"no_emotion": 0.07
+},
+"v2_flag": true
+},
+"emotion:test:389": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.06,
+"confidence": 0.41,
+"fit_gold": 0.06,
+"fit_choice": null,
+"ambiguous": 0.45,
+"conventions": {
+"negated": 0.9,
+"not_own_current_feeling": 0.59,
+"no_emotion": 0.65
+},
+"v2_flag": false
+},
+"emotion:test:131": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.56,
+"confidence": 0.97,
+"fit_gold": 0.12,
+"fit_choice": 0.68,
+"ambiguous": 0.4,
+"conventions": {
+"negated": 0.01,
+"not_own_current_feeling": 0.03,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:607": {
+"band": "error_candidate",
+"tier": "low",
+"rank": 0.47000000000000003,
+"confidence": 0.45,
+"fit_gold": 0.05,
+"fit_choice": 0.52,
+"ambiguous": 0.49,
+"conventions": {
+"negated": 0.19,
+"not_own_current_feeling": 0.9,
+"no_emotion": 0.19
+},
+"v2_flag": false
+},
+"emotion:test:725": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.020000000000000018,
+"confidence": 0.65,
+"fit_gold": 0.68,
+"fit_choice": 0.66,
+"ambiguous": 0.7,
+"conventions": {
+"negated": 0.07,
+"not_own_current_feeling": 0.09,
+"no_emotion": 0.03
+},
+"v2_flag": false
+},
+"emotion:test:132": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.46,
+"confidence": 1,
+"fit_gold": 0.3,
+"fit_choice": 0.76,
+"ambiguous": 0.42,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.81,
+"no_emotion": 0.05
+},
+"v2_flag": false
+},
+"emotion:test:777": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.68,
+"confidence": 1,
+"fit_gold": 0.1,
+"fit_choice": 0.78,
+"ambiguous": 0.21,
+"conventions": {
+"negated": 0.01,
+"not_own_current_feeling": 0.02,
+"no_emotion": 0.03
+},
+"v2_flag": true
+},
+"emotion:test:1202": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.07999999999999999,
+"confidence": 0.88,
+"fit_gold": 0.16,
+"fit_choice": 0.24,
+"ambiguous": 0.47,
+"conventions": {
+"negated": 0.52,
+"not_own_current_feeling": 0.84,
+"no_emotion": 0.74
+},
+"v2_flag": false
+},
+"emotion:test:1942": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.10999999999999999,
+"confidence": 0.55,
+"fit_gold": 0.14,
+"fit_choice": 0.25,
+"ambiguous": 0.4,
+"conventions": {
+"negated": 0.97,
+"not_own_current_feeling": 0.81,
+"no_emotion": 0.14
+},
+"v2_flag": false
+},
+"emotion:test:529": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.59,
+"confidence": 0.99,
+"fit_gold": 0.28,
+"fit_choice": 0.87,
+"ambiguous": 0.33,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.05,
+"no_emotion": 0.06
+},
+"v2_flag": true
+},
+"emotion:test:621": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.64,
+"confidence": 0.97,
+"fit_gold": 0.14,
+"fit_choice": 0.78,
+"ambiguous": 0.43,
+"conventions": {
+"negated": 0.06,
+"not_own_current_feeling": 0.54,
+"no_emotion": 0.04
+},
+"v2_flag": true
+},
+"emotion:test:1404": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.03,
+"confidence": 0.65,
+"fit_gold": 0.03,
+"fit_choice": null,
+"ambiguous": 0.39,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.04,
+"no_emotion": 0.98
+},
+"v2_flag": false
+},
+"emotion:test:260": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.5,
+"confidence": 1,
+"fit_gold": 0.21,
+"fit_choice": 0.71,
+"ambiguous": 0.43,
+"conventions": {
+"negated": 0.05,
+"not_own_current_feeling": 0.23,
+"no_emotion": 0.08
+},
+"v2_flag": false
+},
+"emotion:test:1183": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.42000000000000004,
+"confidence": 0.77,
+"fit_gold": 0.1,
+"fit_choice": 0.52,
+"ambiguous": 0.58,
+"conventions": {
+"negated": 0.05,
+"not_own_current_feeling": 0.52,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:1990": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.18,
+"confidence": 0.94,
+"fit_gold": 0.29,
+"fit_choice": 0.47,
+"ambiguous": 0.58,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.1,
+"no_emotion": 0.04
+},
+"v2_flag": true
+},
+"emotion:test:340": {
+"band": "weak_disagree",
+"tier": null,
+"rank": -0.019999999999999962,
+"confidence": 0.72,
+"fit_gold": 0.36,
+"fit_choice": 0.34,
+"ambiguous": 0.47,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.03,
+"no_emotion": 0.05
+},
+"v2_flag": false
+},
+"emotion:test:778": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.7000000000000001,
+"confidence": 0.95,
+"fit_gold": 0.11,
+"fit_choice": 0.81,
+"ambiguous": 0.48,
+"conventions": {
+"negated": 0.09,
+"not_own_current_feeling": 0.62,
+"no_emotion": 0.03
+},
+"v2_flag": true
+},
+"emotion:test:1270": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.92,
+"confidence": 1,
+"fit_gold": 0.01,
+"fit_choice": 0.93,
+"ambiguous": 0.26,
+"conventions": {
+"negated": 0.01,
+"not_own_current_feeling": 0.12,
+"no_emotion": 0.02
+},
+"v2_flag": true
+},
+"emotion:test:324": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.37,
+"confidence": 0.76,
+"fit_gold": 0.22,
+"fit_choice": 0.59,
+"ambiguous": 0.47,
+"conventions": {
+"negated": 0.92,
+"not_own_current_feeling": 0.27,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:1708": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.31000000000000005,
+"confidence": 0.59,
+"fit_gold": 0.15,
+"fit_choice": 0.46,
+"ambiguous": 0.57,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.04,
+"no_emotion": 0.08
+},
+"v2_flag": false
+},
+"emotion:test:1142": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.6,
+"confidence": 0.96,
+"fit_gold": 0.35,
+"fit_choice": 0.95,
+"ambiguous": 0.24,
+"conventions": {
+"negated": 0.01,
+"not_own_current_feeling": 0.03,
+"no_emotion": 0.03
+},
+"v2_flag": true
+},
+"emotion:test:1992": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.38999999999999996,
+"confidence": 0.81,
+"fit_gold": 0.19,
+"fit_choice": 0.58,
+"ambiguous": 0.59,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.42,
+"no_emotion": 0.05
+},
+"v2_flag": false
+},
+"emotion:test:572": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.12000000000000001,
+"confidence": 0.46,
+"fit_gold": 0.01,
+"fit_choice": 0.13,
+"ambiguous": 0.48,
+"conventions": {
+"negated": 0.63,
+"not_own_current_feeling": 0.03,
+"no_emotion": 0.86
+},
+"v2_flag": false
+},
+"emotion:test:150": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.10999999999999999,
+"confidence": 0.63,
+"fit_gold": 0.51,
+"fit_choice": 0.4,
+"ambiguous": 0.72,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.02,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:1552": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.7799999999999999,
+"confidence": 0.99,
+"fit_gold": 0.04,
+"fit_choice": 0.82,
+"ambiguous": 0.39,
+"conventions": {
+"negated": 0.2,
+"not_own_current_feeling": 0.03,
+"no_emotion": 0.06
+},
+"v2_flag": true
+},
+"emotion:test:979": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.76,
+"confidence": 0.9,
+"fit_gold": 0.03,
+"fit_choice": 0.79,
+"ambiguous": 0.36,
+"conventions": {
+"negated": 0.71,
+"not_own_current_feeling": 0.33,
+"no_emotion": 0.35
+},
+"v2_flag": false
+},
+"emotion:test:796": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.77,
+"confidence": 0.98,
+"fit_gold": 0.04,
+"fit_choice": 0.81,
+"ambiguous": 0.26,
+"conventions": {
+"negated": 0.04,
+"not_own_current_feeling": 0.12,
+"no_emotion": 0.04
+},
+"v2_flag": true
+},
+"emotion:test:660": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.25,
+"confidence": 0.82,
+"fit_gold": 0.25,
+"fit_choice": null,
+"ambiguous": 0.57,
+"conventions": {
+"negated": 0.04,
+"not_own_current_feeling": 0.74,
+"no_emotion": 0.92
+},
+"v2_flag": false
+},
+"emotion:test:304": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.35,
+"confidence": 0.75,
+"fit_gold": 0.02,
+"fit_choice": 0.37,
+"ambiguous": 0.7,
+"conventions": {
+"negated": 0.05,
+"not_own_current_feeling": 0.09,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:799": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.11,
+"confidence": 0.4,
+"fit_gold": 0.11,
+"fit_choice": null,
+"ambiguous": 0.57,
+"conventions": {
+"negated": 0.09,
+"not_own_current_feeling": 0.57,
+"no_emotion": 0.73
+},
+"v2_flag": false
+},
+"emotion:test:123": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.05,
+"confidence": 0.74,
+"fit_gold": 0.05,
+"fit_choice": null,
+"ambiguous": 0.49,
+"conventions": {
+"negated": 0.09,
+"not_own_current_feeling": 0.86,
+"no_emotion": 0.05
+},
+"v2_flag": false
+},
+"emotion:test:67": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.5399999999999999,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.57,
+"ambiguous": 0.33,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.02,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:713": {
+"band": "error_candidate",
+"tier": "low",
+"rank": 0.5199999999999999,
+"confidence": 0.49,
+"fit_gold": 0.17,
+"fit_choice": 0.69,
+"ambiguous": 0.28,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.8,
+"no_emotion": 0.82
+},
+"v2_flag": false
+},
+"emotion:test:152": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.48,
+"confidence": 0.99,
+"fit_gold": 0.21,
+"fit_choice": 0.69,
+"ambiguous": 0.35,
+"conventions": {
+"negated": 0.07,
+"not_own_current_feeling": 0.24,
+"no_emotion": 0.58
+},
+"v2_flag": false
+},
+"emotion:test:745": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.86,
+"confidence": 0.99,
+"fit_gold": 0.02,
+"fit_choice": 0.88,
+"ambiguous": 0.42,
+"conventions": {
+"negated": 0.85,
+"not_own_current_feeling": 0.08,
+"no_emotion": 0.03
+},
+"v2_flag": true
+},
+"emotion:test:288": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.22,
+"confidence": 0.99,
+"fit_gold": 0.22,
+"fit_choice": null,
+"ambiguous": 0.71,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.17,
+"no_emotion": 0.15
+},
+"v2_flag": false
+},
+"emotion:test:303": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.47000000000000003,
+"confidence": 0.96,
+"fit_gold": 0.34,
+"fit_choice": 0.81,
+"ambiguous": 0.47,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.08,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:1883": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.72,
+"confidence": 0.96,
+"fit_gold": 0.05,
+"fit_choice": 0.77,
+"ambiguous": 0.54,
+"conventions": {
+"negated": 0.11,
+"not_own_current_feeling": 0.79,
+"no_emotion": 0.06
+},
+"v2_flag": false
+},
+"emotion:test:978": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.47,
+"confidence": 0.83,
+"fit_gold": 0.14,
+"fit_choice": 0.61,
+"ambiguous": 0.33,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.48,
+"no_emotion": 0.09
+},
+"v2_flag": false
+},
+"emotion:test:471": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.62,
+"confidence": 0.97,
+"fit_gold": 0.24,
+"fit_choice": 0.86,
+"ambiguous": 0.39,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.07,
+"no_emotion": 0.55
+},
+"v2_flag": true
+},
+"emotion:test:290": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.77,
+"confidence": 0.99,
+"fit_gold": 0.04,
+"fit_choice": 0.81,
+"ambiguous": 0.45,
+"conventions": {
+"negated": 0.05,
+"not_own_current_feeling": 0.07,
+"no_emotion": 0.05
+},
+"v2_flag": false
+},
+"emotion:test:856": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.68,
+"confidence": 0.95,
+"fit_gold": 0.23,
+"fit_choice": 0.91,
+"ambiguous": 0.42,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.9,
+"no_emotion": 0.03
+},
+"v2_flag": true
+},
+"emotion:test:1767": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.15,
+"confidence": 0.46,
+"fit_gold": 0.15,
+"fit_choice": null,
+"ambiguous": 0.36,
+"conventions": {
+"negated": 0.04,
+"not_own_current_feeling": 0.11,
+"no_emotion": 0.36
+},
+"v2_flag": false
+},
+"emotion:test:484": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.33999999999999997,
+"confidence": 0.49,
+"fit_gold": 0.23,
+"fit_choice": 0.57,
+"ambiguous": 0.55,
+"conventions": {
+"negated": 0.04,
+"not_own_current_feeling": 0.78,
+"no_emotion": 0.03
+},
+"v2_flag": false
+},
+"emotion:test:1960": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.4600000000000001,
+"confidence": 0.55,
+"fit_gold": 0.09,
+"fit_choice": 0.55,
+"ambiguous": 0.49,
+"conventions": {
+"negated": 0.78,
+"not_own_current_feeling": 0.16,
+"no_emotion": 0.39
+},
+"v2_flag": false
+},
+"emotion:test:1385": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.3,
+"confidence": 0.91,
+"fit_gold": 0.34,
+"fit_choice": 0.64,
+"ambiguous": 0.43,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.94,
+"no_emotion": 0.5
+},
+"v2_flag": false
+},
+"emotion:test:1957": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.76,
+"confidence": 1,
+"fit_gold": 0.16,
+"fit_choice": 0.92,
+"ambiguous": 0.2,
+"conventions": {
+"negated": 0.01,
+"not_own_current_feeling": 0.02,
+"no_emotion": 0.06
+},
+"v2_flag": true
+},
+"emotion:test:829": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.4,
+"confidence": 0.63,
+"fit_gold": 0.4,
+"fit_choice": null,
+"ambiguous": 0.62,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.35,
+"no_emotion": 0.08
+},
+"v2_flag": false
+},
+"emotion:test:298": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.44999999999999996,
+"confidence": 0.57,
+"fit_gold": 0.15,
+"fit_choice": 0.6,
+"ambiguous": 0.47,
+"conventions": {
+"negated": 0.35,
+"not_own_current_feeling": 0.41,
+"no_emotion": 0.42
+},
+"v2_flag": false
+},
+"emotion:test:1729": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.71,
+"confidence": 0.97,
+"fit_gold": 0.14,
+"fit_choice": 0.85,
+"ambiguous": 0.46,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.34,
+"no_emotion": 0.03
+},
+"v2_flag": true
+},
+"emotion:test:1260": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.34,
+"confidence": 0.53,
+"fit_gold": 0.34,
+"fit_choice": null,
+"ambiguous": 0.53,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.35,
+"no_emotion": 0.08
+},
+"v2_flag": false
+},
+"emotion:test:1780": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.7200000000000001,
+"confidence": 0.48,
+"fit_gold": 0.08,
+"fit_choice": 0.8,
+"ambiguous": 0.71,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.71,
+"no_emotion": 0.49
+},
+"v2_flag": false
+},
+"emotion:test:587": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.05,
+"confidence": 0.41,
+"fit_gold": 0.05,
+"fit_choice": null,
+"ambiguous": 0.56,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.03,
+"no_emotion": 0.73
+},
+"v2_flag": false
+},
+"emotion:test:1024": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.74,
+"confidence": 0.81,
+"fit_gold": 0.02,
+"fit_choice": 0.76,
+"ambiguous": 0.25,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.76,
+"no_emotion": 0.06
+},
+"v2_flag": false
+},
+"emotion:test:1163": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.23000000000000004,
+"confidence": 0.49,
+"fit_gold": 0.05,
+"fit_choice": 0.28,
+"ambiguous": 0.6,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.04,
+"no_emotion": 0.07
+},
+"v2_flag": false
+},
+"emotion:test:1358": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.72,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.75,
+"ambiguous": 0.27,
+"conventions": {
+"negated": 0.43,
+"not_own_current_feeling": 0.03,
+"no_emotion": 0.08
+},
+"v2_flag": true
+},
+"emotion:test:1190": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.82,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.85,
+"ambiguous": 0.15,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.27,
+"no_emotion": 0.04
+},
+"v2_flag": true
+},
+"emotion:test:69": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.31000000000000005,
+"confidence": 0.81,
+"fit_gold": 0.61,
+"fit_choice": 0.92,
+"ambiguous": 0.75,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.03,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:1734": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.87,
+"confidence": 1,
+"fit_gold": 0.08,
+"fit_choice": 0.95,
+"ambiguous": 0.16,
+"conventions": {
+"negated": 0.01,
+"not_own_current_feeling": 0.02,
+"no_emotion": 0.04
+},
+"v2_flag": true
+},
+"emotion:test:1982": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.57,
+"confidence": 0.81,
+"fit_gold": 0.02,
+"fit_choice": 0.59,
+"ambiguous": 0.33,
+"conventions": {
+"negated": 0.66,
+"not_own_current_feeling": 0.05,
+"no_emotion": 0.31
+},
+"v2_flag": false
+},
+"emotion:test:376": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.64,
+"confidence": 0.92,
+"fit_gold": 0.02,
+"fit_choice": 0.66,
+"ambiguous": 0.25,
+"conventions": {
+"negated": 0.14,
+"not_own_current_feeling": 0.9,
+"no_emotion": 0.14
+},
+"v2_flag": false
+},
+"emotion:test:381": {
+"band": "error_candidate",
+"tier": "low",
+"rank": 0.45,
+"confidence": 0.33,
+"fit_gold": 0.08,
+"fit_choice": 0.53,
+"ambiguous": 0.44,
+"conventions": {
+"negated": 0.6,
+"not_own_current_feeling": 0.19,
+"no_emotion": 0.08
+},
+"v2_flag": false
+},
+"emotion:test:848": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.25,
+"confidence": 0.5,
+"fit_gold": 0.03,
+"fit_choice": 0.28,
+"ambiguous": 0.45,
+"conventions": {
+"negated": 0.7,
+"not_own_current_feeling": 0.25,
+"no_emotion": 0.06
+},
+"v2_flag": false
+},
+"emotion:test:1063": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.47,
+"confidence": 0.73,
+"fit_gold": 0.11,
+"fit_choice": 0.58,
+"ambiguous": 0.49,
+"conventions": {
+"negated": 0.13,
+"not_own_current_feeling": 0.92,
+"no_emotion": 0.21
+},
+"v2_flag": false
+},
+"emotion:test:1959": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.7,
+"confidence": 0.68,
+"fit_gold": 0.14,
+"fit_choice": 0.84,
+"ambiguous": 0.37,
+"conventions": {
+"negated": 0.07,
+"not_own_current_feeling": 0.35,
+"no_emotion": 0.94
+},
+"v2_flag": false
+},
+"emotion:test:1593": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.29000000000000004,
+"confidence": 0.92,
+"fit_gold": 0.38,
+"fit_choice": 0.67,
+"ambiguous": 0.48,
+"conventions": {
+"negated": 0.04,
+"not_own_current_feeling": 0.27,
+"no_emotion": 0.07
+},
+"v2_flag": false
+},
+"emotion:test:1777": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.17,
+"confidence": 0.51,
+"fit_gold": 0.17,
+"fit_choice": null,
+"ambiguous": 0.39,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.61,
+"no_emotion": 0.63
+},
+"v2_flag": false
+},
+"emotion:test:1725": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.52,
+"confidence": 0.91,
+"fit_gold": 0.01,
+"fit_choice": 0.53,
+"ambiguous": 0.3,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.07,
+"no_emotion": 0.83
+},
+"v2_flag": true
+},
+"emotion:test:1823": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.28,
+"confidence": 0.4,
+"fit_gold": 0.04,
+"fit_choice": 0.32,
+"ambiguous": 0.41,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.07,
+"no_emotion": 0.03
+},
+"v2_flag": false
+},
+"emotion:test:821": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.13999999999999996,
+"confidence": 0.47,
+"fit_gold": 0.33,
+"fit_choice": 0.47,
+"ambiguous": 0.72,
+"conventions": {
+"negated": 0.42,
+"not_own_current_feeling": 0.69,
+"no_emotion": 0.05
+},
+"v2_flag": false
+},
+"emotion:test:1797": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.73,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.76,
+"ambiguous": 0.34,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.02,
+"no_emotion": 0.06
+},
+"v2_flag": true
+},
+"emotion:test:189": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.44999999999999996,
+"confidence": 0.68,
+"fit_gold": 0.24,
+"fit_choice": 0.69,
+"ambiguous": 0.47,
+"conventions": {
+"negated": 0.06,
+"not_own_current_feeling": 0.73,
+"no_emotion": 0.06
+},
+"v2_flag": false
+},
+"emotion:test:58": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.6799999999999999,
+"confidence": 1,
+"fit_gold": 0.04,
+"fit_choice": 0.72,
+"ambiguous": 0.46,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.04,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:1130": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.48,
+"confidence": 0.5,
+"fit_gold": 0.21,
+"fit_choice": 0.69,
+"ambiguous": 0.31,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.92,
+"no_emotion": 0.41
+},
+"v2_flag": false
+},
+"emotion:test:586": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.35000000000000003,
+"confidence": 0.85,
+"fit_gold": 0.19,
+"fit_choice": 0.54,
+"ambiguous": 0.48,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.66,
+"no_emotion": 0.09
+},
+"v2_flag": false
+},
+"emotion:test:53": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.71,
+"confidence": 1,
+"fit_gold": 0.17,
+"fit_choice": 0.88,
+"ambiguous": 0.27,
+"conventions": {
+"negated": 0.08,
+"not_own_current_feeling": 0.03,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:411": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.61,
+"confidence": 0.6,
+"fit_gold": 0.04,
+"fit_choice": 0.65,
+"ambiguous": 0.36,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.05,
+"no_emotion": 0.03
+},
+"v2_flag": false
+},
+"emotion:test:1066": {
+"band": "error_candidate",
+"tier": "low",
+"rank": 0.39,
+"confidence": 0.43,
+"fit_gold": 0.26,
+"fit_choice": 0.65,
+"ambiguous": 0.42,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.87,
+"no_emotion": 0.14
+},
+"v2_flag": false
+},
+"emotion:test:1402": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.61,
+"confidence": 0.99,
+"fit_gold": 0.14,
+"fit_choice": 0.75,
+"ambiguous": 0.25,
+"conventions": {
+"negated": 0.01,
+"not_own_current_feeling": 0.03,
+"no_emotion": 0.04
+},
+"v2_flag": true
+},
+"emotion:test:311": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.42000000000000004,
+"confidence": 0.72,
+"fit_gold": 0.1,
+"fit_choice": 0.52,
+"ambiguous": 0.33,
+"conventions": {
+"negated": 0.94,
+"not_own_current_feeling": 0.72,
+"no_emotion": 0.22
+},
+"v2_flag": false
+},
+"emotion:test:1697": {
+"band": "error_candidate",
+"tier": "mid",
+"rank": 0.56,
+"confidence": 0.68,
+"fit_gold": 0.11,
+"fit_choice": 0.67,
+"ambiguous": 0.45,
+"conventions": {
+"negated": 0.68,
+"not_own_current_feeling": 0.33,
+"no_emotion": 0.2
+},
+"v2_flag": false
+},
+"emotion:test:120": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.45000000000000007,
+"confidence": 0.92,
+"fit_gold": 0.22,
+"fit_choice": 0.67,
+"ambiguous": 0.4,
+"conventions": {
+"negated": 0.31,
+"not_own_current_feeling": 0.09,
+"no_emotion": 0.09
+},
+"v2_flag": false
+},
+"emotion:test:1977": {
+"band": "weak_disagree",
+"tier": null,
+"rank": -0.03999999999999998,
+"confidence": 0.24,
+"fit_gold": 0.21,
+"fit_choice": 0.17,
+"ambiguous": 0.49,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.9,
+"no_emotion": 0.88
+},
+"v2_flag": false
+},
+"emotion:test:995": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.44999999999999996,
+"confidence": 0.95,
+"fit_gold": 0.15,
+"fit_choice": 0.6,
+"ambiguous": 0.43,
+"conventions": {
+"negated": 0.31,
+"not_own_current_feeling": 0.05,
+"no_emotion": 0.07
+},
+"v2_flag": true
+},
+"emotion:test:336": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.6,
+"confidence": 1,
+"fit_gold": 0.1,
+"fit_choice": 0.7,
+"ambiguous": 0.17,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.02,
+"no_emotion": 0.05
+},
+"v2_flag": false
+},
+"emotion:test:994": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.19,
+"confidence": 0.44,
+"fit_gold": 0.39,
+"fit_choice": 0.2,
+"ambiguous": 0.65,
+"conventions": {
+"negated": 0.09,
+"not_own_current_feeling": 0.05,
+"no_emotion": 0.06
+},
+"v2_flag": false
+},
+"emotion:test:759": {
+"band": "weak_disagree",
+"tier": null,
+"rank": 0.15000000000000002,
+"confidence": 0.7,
+"fit_gold": 0.19,
+"fit_choice": 0.34,
+"ambiguous": 0.43,
+"conventions": {
+"negated": 0.01,
+"not_own_current_feeling": 0.02,
+"no_emotion": 0.04
+},
+"v2_flag": false
+},
+"emotion:test:279": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.18,
+"confidence": 0.25,
+"fit_gold": 0.18,
+"fit_choice": null,
+"ambiguous": 0.51,
+"conventions": {
+"negated": 0.03,
+"not_own_current_feeling": 0.8,
+"no_emotion": 0.19
+},
+"v2_flag": false
+},
+"emotion:test:926": {
+"band": "none_candidate",
+"tier": null,
+"rank": -0.33,
+"confidence": 0.76,
+"fit_gold": 0.33,
+"fit_choice": null,
+"ambiguous": 0.55,
+"conventions": {
+"negated": 0.27,
+"not_own_current_feeling": 0.77,
+"no_emotion": 0.59
+},
+"v2_flag": false
+},
+"emotion:test:1209": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.63,
+"confidence": 0.92,
+"fit_gold": 0.02,
+"fit_choice": 0.65,
+"ambiguous": 0.44,
+"conventions": {
+"negated": 0.04,
+"not_own_current_feeling": 0.23,
+"no_emotion": 0.62
+},
+"v2_flag": false
+},
+"emotion:test:378": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.63,
+"confidence": 0.93,
+"fit_gold": 0.26,
+"fit_choice": 0.89,
+"ambiguous": 0.78,
+"conventions": {
+"negated": 0.04,
+"not_own_current_feeling": 0.05,
+"no_emotion": 0.03
+},
+"v2_flag": false
+},
+"emotion:test:1429": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.73,
+"confidence": 0.99,
+"fit_gold": 0.05,
+"fit_choice": 0.78,
+"ambiguous": 0.29,
+"conventions": {
+"negated": 0.77,
+"not_own_current_feeling": 0.05,
+"no_emotion": 0.11
+},
+"v2_flag": true
+},
+"emotion:test:1185": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.78,
+"confidence": 1,
+"fit_gold": 0.03,
+"fit_choice": 0.81,
+"ambiguous": 0.21,
+"conventions": {
+"negated": 0.02,
+"not_own_current_feeling": 0.05,
+"no_emotion": 0.06
+},
+"v2_flag": true
+}
+}

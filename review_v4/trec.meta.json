@@ -1,0 +1,19 @@
+{
+"trec:test:54": {
+"band": "weak_disagree",
+"tier": null,
+"rank": -0.17999999999999994,
+"queue_pos": 14,
+"confidence": 0.47,
+"fit_gold": 0.57,
+"fit_choice": 0.39,
+"ambiguous": 0.42,
+"conventions": {
+"asks_definition": 0.78,
+"asks_term": 0.07,
+"answer_is_number": 0.05,
+"asks_abbrev": 0.02
+},
+"v2_flag": false
+}
+}

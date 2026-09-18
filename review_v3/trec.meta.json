@@ -1,0 +1,98 @@
+{
+"trec:test:27": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.29,
+"confidence": 0.7,
+"fit_gold": 0.42,
+"fit_choice": 0.71,
+"ambiguous": 0.53,
+"conventions": {
+"asks_definition": 0.79,
+"asks_term": 0.91,
+"answer_is_number": 0.06,
+"asks_abbrev": 0.02
+},
+"v2_flag": false
+},
+"trec:test:148": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.38,
+"confidence": 0.64,
+"fit_gold": 0.38,
+"fit_choice": 0.76,
+"ambiguous": 0.66,
+"conventions": {
+"asks_definition": 0.99,
+"asks_term": 0.2,
+"answer_is_number": 0.05,
+"asks_abbrev": 0.85
+},
+"v2_flag": false
+},
+"trec:test:128": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.020000000000000018,
+"confidence": 0.77,
+"fit_gold": 0.9,
+"fit_choice": 0.88,
+"ambiguous": 0.58,
+"conventions": {
+"asks_definition": 0.99,
+"asks_term": 0.17,
+"answer_is_number": 0.06,
+"asks_abbrev": 0.05
+},
+"v2_flag": false
+},
+"trec:test:400": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": -0.05999999999999994,
+"confidence": 0.52,
+"fit_gold": 0.58,
+"fit_choice": 0.52,
+"ambiguous": 0.53,
+"conventions": {
+"asks_definition": 0.86,
+"asks_term": 0.92,
+"answer_is_number": 0.03,
+"asks_abbrev": 0.04
+},
+"v2_flag": false
+},
+"trec:test:99": {
+"band": "error_candidate",
+"tier": "high",
+"rank": 0.66,
+"confidence": 0.99,
+"fit_gold": 0.24,
+"fit_choice": 0.9,
+"ambiguous": 0.3,
+"conventions": {
+"asks_definition": 0.78,
+"asks_term": 0.07,
+"answer_is_number": 0.89,
+"asks_abbrev": 0.02
+},
+"v2_flag": false
+},
+"trec:test:55": {
+"band": "ambiguous_candidate",
+"tier": null,
+"rank": 0.72,
+"confidence": 0.67,
+"fit_gold": 0.15,
+"fit_choice": 0.87,
+"ambiguous": 0.69,
+"conventions": {
+"asks_definition": 0.99,
+"asks_term": 0.3,
+"answer_is_number": 0.14,
+"asks_abbrev": 0.95
+},
+"v2_flag": false
+}
+}

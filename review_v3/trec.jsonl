@@ -1,0 +1,6 @@
+{"id": "trec:test:27", "text": "What imaginary line is halfway between the North and South Poles ?", "gold": "LOC", "jev": "ENTY", "top3": [["ENTY", 0.76], ["LOC", 0.24], ["DESC", 0]]}
+{"id": "trec:test:148", "text": "What does Phi Beta Kappa mean ?", "gold": "DESC", "jev": "ABBR", "top3": [["ABBR", 0.7], ["DESC", 0.27], ["ENTY", 0.03]]}
+{"id": "trec:test:128", "text": "What is Wimbledon ?", "gold": "DESC", "jev": "ENTY", "top3": [["ENTY", 0.81], ["DESC", 0.17], ["LOC", 0.01]]}
+{"id": "trec:test:400", "text": "What is Shakespeare 's nickname ?", "gold": "HUM", "jev": "ENTY", "top3": [["ENTY", 0.6], ["HUM", 0.39], ["DESC", 0.01]]}
+{"id": "trec:test:99", "text": "What is the longest major league baseball-winning streak ?", "gold": "ENTY", "jev": "NUM", "top3": [["NUM", 0.99], ["HUM", 0.01], ["ENTY", 0]]}
+{"id": "trec:test:55", "text": "What does cc in engines mean ?", "gold": "DESC", "jev": "ABBR", "top3": [["ABBR", 0.74], ["DESC", 0.2], ["ENTY", 0.06]]}

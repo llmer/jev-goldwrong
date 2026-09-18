@@ -1,0 +1,124 @@
+{"id": "emotion:test:449", "verdict": "gold_wrong", "correct_label": "joy", "reason": "Playful 'feeling greedy' about cookies she plans to 'prebook' expresses appetite and anticipation, not anger."}
+{"id": "emotion:test:953", "verdict": "jev_wrong", "correct_label": "sadness", "reason": "'i feel fake' is a self-image/impostor feeling, closer to shame and sadness than to fear."}
+{"id": "emotion:test:1431", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'a return to the feeling of freedom and protection from suffering' is positive; 'suffering' is what is escaped."}
+{"id": "emotion:test:375", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'feeling a lot less ugly duckling' negates the negative keyword, so the writer feels better about herself."}
+{"id": "emotion:test:585", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'feeling rather depressed anxious all day' names both sadness and fear with no clear dominant one."}
+{"id": "emotion:test:622", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'i don t feel brave' is a negated keyword, which flips brave to fear."}
+{"id": "emotion:test:1372", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'life does not feel so despairing' negates despair, expressing relief and hope."}
+{"id": "emotion:test:2", "verdict": "gold_wrong", "correct_label": "love", "reason": "'i never make her separate from me' expresses protective care; 'ashamed' is a hypothetical feeling of someone else."}
+{"id": "emotion:test:1807", "verdict": "ambiguous", "correct_label": "love", "reason": "'his love seemed boundless but he also made me feel important' supports both feeling loved and feeling valued (joy)."}
+{"id": "emotion:test:1048", "verdict": "ambiguous", "correct_label": "surprise", "reason": "'i wonder if the homeowners would feel weird' is someone else's hypothetical feeling; the writer's own state is at most curiosity."}
+{"id": "emotion:test:180", "verdict": "ambiguous", "correct_label": "fear", "reason": "'i was feeling particularly vulnerable' is the stated feeling but the payoff 'incredible understanding' is positive, so fear and joy both fit."}
+{"id": "emotion:test:1144", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'i feel that i worry too much' is worry, which is fear, not anger."}
+{"id": "emotion:test:1668", "verdict": "ambiguous", "correct_label": "none", "reason": "'groggy and out of sorts from my episode' is mostly physical, and 'got scared last night' is past, so none, fear and sadness all have some claim."}
+{"id": "emotion:test:1378", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'up and ready to read read read today' is eager; 'groggy' is a physical sensation, not sadness."}
+{"id": "emotion:test:1565", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'i sure did appreciate her asking' is gratitude; 'mad or hurt' is what she did not feel."}
+{"id": "emotion:test:1715", "verdict": "ambiguous", "correct_label": "fear", "reason": "'feeling a little disturbed' is unsettled, which could be read as uneasy (fear) or low (sadness)."}
+{"id": "emotion:test:1750", "verdict": "ambiguous", "correct_label": "none", "reason": "'when i m feeling clever i cut them in half' is a recipe tip with at most faint self-satisfaction, so none or joy."}
+{"id": "emotion:test:1914", "verdict": "ambiguous", "correct_label": "love", "reason": "'i actually feel halfway benevolent' is kindness toward others, defensible as love or as joy."}
+{"id": "emotion:test:1379", "verdict": "gold_wrong", "correct_label": "love", "reason": "'i must protect this innocent being' is protective tenderness, which is love rather than joy."}
+{"id": "emotion:test:202", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'feeling hot tired and great' ends on 'great', which is joy; nothing suggests love."}
+{"id": "emotion:test:1613", "verdict": "gold_wrong", "correct_label": "anger", "reason": "'i feel very cheated' while 'he spends hours a day gaming' is resentment, i.e. anger."}
+{"id": "emotion:test:191", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'im enjoying my solitary confinement ... i rarely feel lonely' negates lonely and expresses enjoyment."}
+{"id": "emotion:test:1320", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'yay im gna get my delicious chocolates' is joy; 'greedy pig' is playful."}
+{"id": "emotion:test:900", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'feeling the excitement ... in violent waves' is excitement; 'violent' only intensifies it."}
+{"id": "emotion:test:1772", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'this grave feeling it will not be back ... i have accepted it' is resigned foreboding, not joy."}
+{"id": "emotion:test:1380", "verdict": "ambiguous", "correct_label": "love", "reason": "'i feel his gracious presence even now' is devotional comfort, defensible as love or joy."}
+{"id": "emotion:test:840", "verdict": "gold_wrong", "correct_label": "none", "reason": "'i must allow them to get to know me' is a neutral business realization; 'feel comfortable with' is conditional."}
+{"id": "emotion:test:715", "verdict": "ambiguous", "correct_label": "joy", "reason": "'the people are all lovely' alongside enjoying the work supports joy or love."}
+{"id": "emotion:test:347", "verdict": "gold_wrong", "correct_label": "anger", "reason": "'i feel agitated and annoyed more than worried or fearful' explicitly ranks anger over fear."}
+{"id": "emotion:test:1051", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'i feel amazing no pain no pain meds' is joy, not surprise."}
+{"id": "emotion:test:1869", "verdict": "gold_wrong", "correct_label": "anger", "reason": "'it s time to calm the hell down' is exasperation, not joy."}
+{"id": "emotion:test:1200", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'my heart hurts' is sadness; 'heartless' is a self-reproach, not anger."}
+{"id": "emotion:test:389", "verdict": "gold_wrong", "correct_label": "none", "reason": "'didn t feel the pull to get lost in it' is a neutral observation about phone use with no emotion."}
+{"id": "emotion:test:131", "verdict": "ambiguous", "correct_label": "joy", "reason": "'im feeling generous today ... good for a chuckle' is playful sharing, defensible as joy or love."}
+{"id": "emotion:test:607", "verdict": "gold_wrong", "correct_label": "none", "reason": "'will i actually feel better' is a hypothetical question; no present emotion is stated, so joy is not supported."}
+{"id": "emotion:test:725", "verdict": "jev_wrong", "correct_label": "sadness", "reason": "'i feel kind of unwelcome' is rejection, which is sadness rather than fear."}
+{"id": "emotion:test:132", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'i will feel awkward about just calling up' is awkward, which the conventions map to fear."}
+{"id": "emotion:test:777", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'feeling really stressed out due to homework' is worry/stress, which is fear rather than sadness."}
+{"id": "emotion:test:1202", "verdict": "gold_wrong", "correct_label": "none", "reason": "'feeling a little funny but this was not anxiety ... i dont feel good' is a physical sensation, not surprise."}
+{"id": "emotion:test:1942", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'i didn t feel intimidated or overwhelmed' negates the fear keywords, flipping to relief."}
+{"id": "emotion:test:529", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'my sweet company is finally coming together' is satisfaction; 'sweet' is not affection here."}
+{"id": "emotion:test:621", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'im sad if some people are unhappy about the flag' states sadness; nothing expresses love."}
+{"id": "emotion:test:1404", "verdict": "gold_wrong", "correct_label": "none", "reason": "'feel weaker ... more numb and tingly at night' is a physical sensation, not sadness."}
+{"id": "emotion:test:260", "verdict": "ambiguous", "correct_label": "fear", "reason": "'now i feel rushed and stressed' can be read as anxiety (fear) or as a complaint about being hurried (anger)."}
+{"id": "emotion:test:1183", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'i would at least like to spend a third of my life doing something i feel is worthwhile' is dissatisfaction, not joy."}
+{"id": "emotion:test:1990", "verdict": "ambiguous", "correct_label": "love", "reason": "'gentle reminders ... he has promised to be with us' is faith-based comfort, defensible as love or joy."}
+{"id": "emotion:test:340", "verdict": "ambiguous", "correct_label": "anger", "reason": "'immensely distracted by the barrage of media' reads as irritation (anger) or overload (fear)."}
+{"id": "emotion:test:778", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'im begging fate not to mess with the next cycle' is anxiety; 'reassured' is only hoped for."}
+{"id": "emotion:test:1270", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'i feel very saddened' is sadness, not joy."}
+{"id": "emotion:test:324", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'i no longer feel doomed' negates doom, expressing relief."}
+{"id": "emotion:test:1708", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'one sweet southern mess right now' could be playful (joy) or a confession of falling apart (sadness)."}
+{"id": "emotion:test:1142", "verdict": "gold_wrong", "correct_label": "love", "reason": "'i love you and my feelings are sincere my dear' is love, not joy."}
+{"id": "emotion:test:1992", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'i feel tortured' by a dream about 'raping and killing' is distress at something horrifying, not anger."}
+{"id": "emotion:test:572", "verdict": "gold_wrong", "correct_label": "none", "reason": "'i don t feel well enough to cook' is a physical state, not joy."}
+{"id": "emotion:test:150", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'angsty and listless' names anxiety and apathy together, so fear and sadness both fit."}
+{"id": "emotion:test:1552", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'finally starting to feel like i have a real life ... no longer on a strange confusing extended vacation' negates the confusion and expresses contentment."}
+{"id": "emotion:test:979", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'i can cycle further than ever before ... not being at all bothered' is pride; 'bothered' is negated."}
+{"id": "emotion:test:796", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'im much more peaceful and happy' is joy; 'needy' belongs to the kids, negated."}
+{"id": "emotion:test:660", "verdict": "ambiguous", "correct_label": "none", "reason": "'many of the people were not advanced' states an event with no emotion word; anger is only inferred."}
+{"id": "emotion:test:304", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'i feel like i should be supporting them somehow but im not sure how' is uneasy uncertainty, not joy."}
+{"id": "emotion:test:799", "verdict": "ambiguous", "correct_label": "none", "reason": "'feeling like crud' is physical and 'determined' is not one of the six, so none or joy."}
+{"id": "emotion:test:123", "verdict": "gold_wrong", "correct_label": "none", "reason": "'its easy to feel a little envious of me' is someone else's feeling; the writer expresses no emotion of the six."}
+{"id": "emotion:test:67", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'i feel a bit stressed' is worry, which is fear rather than anger."}
+{"id": "emotion:test:713", "verdict": "ambiguous", "correct_label": "joy", "reason": "'the wonderful feeling of someone else massaging your tender tootsies' is generic pleasure, defensible as joy or none."}
+{"id": "emotion:test:152", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'i was so uncomfortable and feeling weird feelings' is uncomfortable, which maps to fear, not surprise."}
+{"id": "emotion:test:745", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'im not feeling very hopeful' negates hopeful, flipping to sadness."}
+{"id": "emotion:test:288", "verdict": "ambiguous", "correct_label": "none", "reason": "'i feel pretty much like this scene from a href' points to a missing link, so the emotion cannot be read from the text."}
+{"id": "emotion:test:303", "verdict": "ambiguous", "correct_label": "joy", "reason": "'so impressed ... moved ... always happy' is joy while 'feel very passionate about productions' supports love."}
+{"id": "emotion:test:1883", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'it might not have been taken as the truthful and sincere compliment' is worry about being misread, not joy."}
+{"id": "emotion:test:978", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'feeling the need for some christmas crafting' is enthusiasm; 'lovely' describes projects, not affection."}
+{"id": "emotion:test:471", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'a horrible feeling aching in the depths of my stomach' on entering a room is dread, i.e. fear."}
+{"id": "emotion:test:290", "verdict": "gold_wrong", "correct_label": "anger", "reason": "'ludicrous and wasting space or so trite' is contempt, not surprise."}
+{"id": "emotion:test:856", "verdict": "gold_wrong", "correct_label": "anger", "reason": "'i want you to feel just as humiliated as you made me feel' is vengeful; the humiliation itself is past."}
+{"id": "emotion:test:1767", "verdict": "ambiguous", "correct_label": "none", "reason": "'do feel free to contact me ... interested in finding out more' is a neutral request with at most mild curiosity."}
+{"id": "emotion:test:484", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'i feel i was so innocent to have only one dream' is wistful hindsight, readable as regret (sadness) or nostalgia (love)."}
+{"id": "emotion:test:1960", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'i don t have to apologize explain or feel embarrassed' negates embarrassed, expressing confidence."}
+{"id": "emotion:test:1385", "verdict": "gold_wrong", "correct_label": "love", "reason": "'i wanna feel that gorgeous body ... underneath me' is desire, which is love, not joy."}
+{"id": "emotion:test:1957", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'i am feeling amazing' is joy, not surprise."}
+{"id": "emotion:test:829", "verdict": "gold_wrong", "correct_label": "none", "reason": "'feeling duality suffering soul growth tells of an ending' is abstract philosophy with no emotion expressed."}
+{"id": "emotion:test:298", "verdict": "gold_wrong", "correct_label": "none", "reason": "'when you feel crappy and it just continues' describes physical sickness generically, not sadness."}
+{"id": "emotion:test:1729", "verdict": "gold_wrong", "correct_label": "love", "reason": "'id developed feelings for this guy ... like a faithful puppy dog' is romantic attachment, not joy."}
+{"id": "emotion:test:1260", "verdict": "gold_wrong", "correct_label": "none", "reason": "'crows and roosters will be teamed up with the horses' is playful speculation with no emotion word."}
+{"id": "emotion:test:1780", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'when i learnt that my best friend had failed the exams' names an event only; sadness is inferred, anger is not supported."}
+{"id": "emotion:test:587", "verdict": "gold_wrong", "correct_label": "none", "reason": "'jet lagged ... feel groggy almost hung over' is physical, not sadness."}
+{"id": "emotion:test:1024", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'i did enjoy the book' is the writer's feeling; 'feeling skeptical' belongs to a character."}
+{"id": "emotion:test:1163", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'some people get the wrong message' is being misunderstood, a mild grievance rather than joy."}
+{"id": "emotion:test:1358", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'the stress levels im feeling and not loving how concentrated they are' is stress with 'loving' negated, so fear."}
+{"id": "emotion:test:1190", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'feeling very stressed and anxious' is fear, not anger."}
+{"id": "emotion:test:69", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'i feel shocked and sad' names surprise and sadness equally."}
+{"id": "emotion:test:1734", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'im feeling absolutely amazing' is joy, not surprise."}
+{"id": "emotion:test:1982", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'refine my poses and concepts without feeling rushed' negates rushed, expressing ease."}
+{"id": "emotion:test:376", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'i was stressed by the elevator ride' is the actual feeling; 'feeling generous' is hypothetical."}
+{"id": "emotion:test:381", "verdict": "gold_wrong", "correct_label": "love", "reason": "'what i believe with all my heart ... the riches we have in god' is devotion, contrasted against 'feeling angry'."}
+{"id": "emotion:test:848", "verdict": "gold_wrong", "correct_label": "none", "reason": "'not feeling distraught ... but rather uninterested and blank' negates distress and leaves disinterest, not fear."}
+{"id": "emotion:test:1063", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'i thought yoga was supposed to make me feel tranquil' is disappointment that it did not."}
+{"id": "emotion:test:1959", "verdict": "gold_wrong", "correct_label": "love", "reason": "'i check you when you re sleeping ... to be sure you aren t too hot or cold' is parental tenderness."}
+{"id": "emotion:test:1593", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'feel a little inhibited when it comes to picking up the phone' is reluctance, which maps to fear."}
+{"id": "emotion:test:1777", "verdict": "gold_wrong", "correct_label": "none", "reason": "'i feel that the most valuable outcomes i would like' is a neutral career statement."}
+{"id": "emotion:test:1725", "verdict": "gold_wrong", "correct_label": "none", "reason": "'a little bit more shield from the cold and the fabric is great for wicking' is a product review, not anger."}
+{"id": "emotion:test:1823", "verdict": "ambiguous", "correct_label": "anger", "reason": "'i always feel a little jealous of my son' is jealousy (anger in this dataset) but the wistful 'i didnt learn the primary songs' also reads as sadness."}
+{"id": "emotion:test:821", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'i don t know how i feel' is explicit, and 'want to feel like you re accepted' suggests sadness rather than love."}
+{"id": "emotion:test:1797", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'i feel the pressure to be funny all the time' is anxiety, not surprise."}
+{"id": "emotion:test:189", "verdict": "gold_wrong", "correct_label": "love", "reason": "'i loved about ellie' is the writer's affection; 'didnt feel insulted' is the character's negated feeling."}
+{"id": "emotion:test:58", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'the blessings that come from being submissive to the will of the father' is gratitude, not sadness."}
+{"id": "emotion:test:1130", "verdict": "gold_wrong", "correct_label": "love", "reason": "'i help my daughter when she is feeling angry' is care; the anger is the daughter's."}
+{"id": "emotion:test:586", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'feeling inhibited and shushing her' is self-conscious discomfort, which maps to fear."}
+{"id": "emotion:test:53", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'i can t stop the anxiety i feel when i m alone' is anxiety, not sadness."}
+{"id": "emotion:test:411", "verdict": "gold_wrong", "correct_label": "love", "reason": "'i love that ... the way the couples ... fall in love' is love; 'violent' is descriptive."}
+{"id": "emotion:test:1066", "verdict": "gold_wrong", "correct_label": "none", "reason": "'they felt valued when the people around them made them feel valued' reports other people's feelings, not the writer's."}
+{"id": "emotion:test:1402", "verdict": "ambiguous", "correct_label": "joy", "reason": "'i just keep on feeling blessed' is gratitude, readable as joy or as feeling loved."}
+{"id": "emotion:test:311", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'i didnt feel at all deprived' negates deprived, expressing satisfaction."}
+{"id": "emotion:test:1697", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'i don t have to stiffen ... or feel bad' negates feeling bad, expressing relief."}
+{"id": "emotion:test:120", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'i feel less whiney since the sun came out' negates the complaint, so the mood is improved."}
+{"id": "emotion:test:1977", "verdict": "gold_wrong", "correct_label": "none", "reason": "'feeling like i was suffering from hypothermia' is a physical sensation of cold, not sadness."}
+{"id": "emotion:test:995", "verdict": "gold_wrong", "correct_label": "joy", "reason": "'i feel less shy about exploring roles' negates shy, expressing confidence."}
+{"id": "emotion:test:336", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'i do feel stressed' is stress/worry, which is fear rather than sadness."}
+{"id": "emotion:test:994", "verdict": "ambiguous", "correct_label": "love", "reason": "'in supporting each other we get better at handling grief' is communal care, defensible as love or joy."}
+{"id": "emotion:test:759", "verdict": "ambiguous", "correct_label": "love", "reason": "'i feel very strongly about supporting charities that help children' is caring conviction, defensible as love or joy."}
+{"id": "emotion:test:279", "verdict": "ambiguous", "correct_label": "none", "reason": "'feeling a little drained from work' is mostly tiredness, so none or sadness."}
+{"id": "emotion:test:926", "verdict": "gold_wrong", "correct_label": "none", "reason": "'just feeling generally awful' is the rider's state, reported by the writer with no emotion of their own."}
+{"id": "emotion:test:1209", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'didnt want to be one of the first people they saw walking' is apprehension; 'discomfort' is physical, not joy."}
+{"id": "emotion:test:378", "verdict": "ambiguous", "correct_label": "sadness", "reason": "'don t talk to me and don t connect with me anymore' is loss (sadness) but 'fucked up mental health' carries anger."}
+{"id": "emotion:test:1429", "verdict": "gold_wrong", "correct_label": "sadness", "reason": "'i rarely feel happily joyful and dont walk about smiling much' negates joy, so sadness."}
+{"id": "emotion:test:1185", "verdict": "gold_wrong", "correct_label": "fear", "reason": "'i start to feel a little overwhelmed' is overwhelmed, which maps to fear, not surprise."}

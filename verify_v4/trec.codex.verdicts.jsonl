@@ -1,0 +1,3 @@
+{"id":"trec:test:190","verdict":"gold_wrong","correct_label":"NUM","reason":"The question asks for the numerical rate of the \"sales tax in Minnesota\"."}
+{"id":"trec:test:99","verdict":"gold_wrong","correct_label":"NUM","reason":"The \"longest major league baseball-winning streak\" asks for a record number of consecutive wins."}
+{"id":"trec:test:223","verdict":"gold_wrong","correct_label":"NUM","reason":"The \"electrical output in Madrid\" asks for an electrical quantity, making the answer numerical."}

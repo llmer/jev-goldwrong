@@ -1,0 +1,1 @@
+{"id": "trec:test:54", "verdict": "jev_wrong", "correct_label": "DESC", "reason": "\"What is done with worn or outdated flags\" asks for a description of a procedure (how they are retired or disposed of), i.e. DESC manner, not a named thing, term, or technique that would make it ENTY."}
